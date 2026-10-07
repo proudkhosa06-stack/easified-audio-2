@@ -1,0 +1,365 @@
+{
+ "book": "John",
+ "chapter": 8,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "John-8.mp3",
+ "duration": 476.64,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.61,
+   "text": "But Jesus went to the Mount of Olives."
+  },
+  {
+   "verse": 2,
+   "start": 3.31,
+   "end": 10.49,
+   "text": "Early the next morning he came back to the temple courts. All the people gathered round him, and he sat down to teach them."
+  },
+  {
+   "verse": 3,
+   "start": 11.19,
+   "end": 18.82,
+   "text": "The teachers of the law and the Pharisees brought in a woman who had been caught in adultery. They made her stand in front of everyone"
+  },
+  {
+   "verse": 4,
+   "start": 19.52,
+   "end": 23.95,
+   "text": "and said to Jesus, \"Teacher, this woman was caught in the very act of adultery."
+  },
+  {
+   "verse": 5,
+   "start": 24.65,
+   "end": 29.75,
+   "text": "In the law, Moses commanded us to stone women like this. Now what do you say?\""
+  },
+  {
+   "verse": 6,
+   "start": 30.45,
+   "end": 41.37,
+   "text": "They were using this question as a trap, so that they would have a reason to accuse him. But Jesus bent down and started to write on the ground with his finger, as if he had not heard them."
+  },
+  {
+   "verse": 7,
+   "start": 42.07,
+   "end": 50.34,
+   "text": "When they kept on asking him, he stood up and said to them, \"Let any one of you who has never sinned be the first to throw a stone at her.\""
+  },
+  {
+   "verse": 8,
+   "start": 51.04,
+   "end": 53.6,
+   "text": "Then he bent down again and wrote on the ground."
+  },
+  {
+   "verse": 9,
+   "start": 54.3,
+   "end": 67.29,
+   "text": "When they heard this, their own consciences troubled them, and they began to go away one at a time, the older ones first, until the last one had gone. Jesus was left alone with the woman still standing there."
+  },
+  {
+   "verse": 10,
+   "start": 67.99,
+   "end": 76.57,
+   "text": "Jesus stood up and saw no one but the woman. He asked her, \"Woman, where are the people who accused you? Has no one condemned you?\""
+  },
+  {
+   "verse": 11,
+   "start": 77.27,
+   "end": 86.16,
+   "text": "\"No one, Lord,\" she said. Then Jesus said, \"I do not condemn you either. Go now, and do not sin any more.\""
+  },
+  {
+   "verse": 12,
+   "start": 86.86,
+   "end": 96.92,
+   "text": "Jesus spoke to the people again. He said, \"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light that gives life.\""
+  },
+  {
+   "verse": 13,
+   "start": 97.62,
+   "end": 105.83,
+   "text": "The Pharisees said to him, \"Here you are, speaking as your own witness. What you say about yourself does not prove anything.\""
+  },
+  {
+   "verse": 14,
+   "start": 106.53,
+   "end": 118.08,
+   "text": "Jesus answered, \"Even if I speak as my own witness, what I say is true, because I know where I came from and where I am going. But you have no idea where I come from or where I am going."
+  },
+  {
+   "verse": 15,
+   "start": 118.78,
+   "end": 122.16,
+   "text": "You judge by human standards. I do not judge anyone."
+  },
+  {
+   "verse": 16,
+   "start": 122.86,
+   "end": 131.73,
+   "text": "But even if I do judge, my judgement is true, because I am not alone. The Father who sent me is with me."
+  },
+  {
+   "verse": 17,
+   "start": 132.43,
+   "end": 136.53,
+   "text": "Your own law says that when two witnesses agree, their evidence is true."
+  },
+  {
+   "verse": 18,
+   "start": 137.23,
+   "end": 141.91,
+   "text": "I am one witness for myself, and my other witness is the Father, who sent me.\""
+  },
+  {
+   "verse": 19,
+   "start": 142.61,
+   "end": 150.93,
+   "text": "Then they asked him, \"Where is your father?\" Jesus answered, \"You do not know me or my Father. If you knew me, you would know my Father too.\""
+  },
+  {
+   "verse": 20,
+   "start": 151.63,
+   "end": 161.45,
+   "text": "Jesus said these things while he was teaching in the temple courts, near the place where the offerings were put. But no one arrested him, because his time had not yet come."
+  },
+  {
+   "verse": 21,
+   "start": 162.15,
+   "end": 171.25,
+   "text": "Once more Jesus said to them, \"I am going away. You will look for me, but you will die in your sin. You cannot come where I am going.\""
+  },
+  {
+   "verse": 22,
+   "start": 171.95,
+   "end": 179.33,
+   "text": "This made the Jewish leaders ask, \"Is he going to kill himself? Is that why he says, 'You cannot come where I am going'?\""
+  },
+  {
+   "verse": 23,
+   "start": 180.03,
+   "end": 188.3,
+   "text": "He went on, \"You are from below, but I am from above. You belong to this world, but I do not belong to this world."
+  },
+  {
+   "verse": 24,
+   "start": 189.0,
+   "end": 198.05,
+   "text": "That is why I told you that you would die in your sins. If you do not believe that I am who I say I am, you will indeed die in your sins.\""
+  },
+  {
+   "verse": 25,
+   "start": 198.75,
+   "end": 205.16,
+   "text": "\"Who are you?\" they asked. Jesus replied, \"I am exactly who I have been telling you from the beginning."
+  },
+  {
+   "verse": 26,
+   "start": 205.86,
+   "end": 214.57,
+   "text": "I have much to say about you, and much to judge. But the one who sent me is true, and I tell the world only what I have heard from him.\""
+  },
+  {
+   "verse": 27,
+   "start": 215.27,
+   "end": 219.04,
+   "text": "They did not understand that he was talking to them about the Father."
+  },
+  {
+   "verse": 28,
+   "start": 219.74,
+   "end": 232.9,
+   "text": "So Jesus said, \"When you have lifted up the Son of Man, then you will know that I am who I say I am. You will know that I do nothing on my own, but say only what the Father has taught me."
+  },
+  {
+   "verse": 29,
+   "start": 233.6,
+   "end": 240.64,
+   "text": "The one who sent me is with me. He has not left me alone, because I always do what pleases him.\""
+  },
+  {
+   "verse": 30,
+   "start": 241.34,
+   "end": 245.17,
+   "text": "While he was saying these things, many people believed in him."
+  },
+  {
+   "verse": 31,
+   "start": 245.87,
+   "end": 253.45,
+   "text": "Jesus said to the Jewish people who had believed in him, \"If you keep obeying my teaching, you are truly my followers."
+  },
+  {
+   "verse": 32,
+   "start": 254.15,
+   "end": 257.67,
+   "text": "Then you will know the truth, and the truth will set you free.\""
+  },
+  {
+   "verse": 33,
+   "start": 258.37,
+   "end": 266.75,
+   "text": "They answered him, \"We are descendants of Abraham, and we have never been anyone's slaves. How can you say that we will be set free?\""
+  },
+  {
+   "verse": 34,
+   "start": 267.45,
+   "end": 273.33,
+   "text": "Jesus replied, \"I tell you for certain, everyone who keeps on sinning is a slave to sin."
+  },
+  {
+   "verse": 35,
+   "start": 274.03,
+   "end": 279.18,
+   "text": "A slave does not have a lasting place in the family, but a son belongs to it for ever."
+  },
+  {
+   "verse": 36,
+   "start": 279.88,
+   "end": 283.39,
+   "text": "So if the Son sets you free, you will be truly free."
+  },
+  {
+   "verse": 37,
+   "start": 284.09,
+   "end": 292.07,
+   "text": "I know that you are Abraham's descendants. Yet you are looking for a way to kill me, because there is no room in your hearts for my message."
+  },
+  {
+   "verse": 38,
+   "start": 292.77,
+   "end": 298.14,
+   "text": "I am telling you what I have seen with my Father, and you are doing what you have heard from your father.\""
+  },
+  {
+   "verse": 39,
+   "start": 298.84,
+   "end": 307.49,
+   "text": "\"Abraham is our father,\" they answered. Jesus said, \"If you were really Abraham's children, you would do what Abraham did."
+  },
+  {
+   "verse": 40,
+   "start": 308.19,
+   "end": 315.49,
+   "text": "Instead, you are trying to kill me, a man who has told you the truth that I heard from God. Abraham did nothing like that."
+  },
+  {
+   "verse": 41,
+   "start": 316.19,
+   "end": 325.56,
+   "text": "You are doing what your own father does.\" \"We are not children born from sexual sin,\" they protested. \"The only Father we have is God himself.\""
+  },
+  {
+   "verse": 42,
+   "start": 326.26,
+   "end": 337.06,
+   "text": "Jesus said to them, \"If God were your Father, you would love me, because I came from God and now I am here. I did not come on my own. He sent me."
+  },
+  {
+   "verse": 43,
+   "start": 337.76,
+   "end": 343.95,
+   "text": "Why do you not understand what I am saying? It is because you are not able to listen to my message."
+  },
+  {
+   "verse": 44,
+   "start": 344.65,
+   "end": 363.68,
+   "text": "You belong to your father, the devil, and you want to do what your father wants. He was a murderer from the beginning. He has never stood on the side of truth, because there is no truth in him. When he lies, he is speaking his own language, because he is a liar and the father of lies."
+  },
+  {
+   "verse": 45,
+   "start": 364.38,
+   "end": 367.04,
+   "text": "But because I tell the truth, you do not believe me!"
+  },
+  {
+   "verse": 46,
+   "start": 367.74,
+   "end": 374.06,
+   "text": "Can any of you prove that I am guilty of sin? If I am telling the truth, why do you not believe me?"
+  },
+  {
+   "verse": 47,
+   "start": 374.76,
+   "end": 382.15,
+   "text": "Whoever belongs to God listens to what God says. The reason you do not listen is that you do not belong to God.\""
+  },
+  {
+   "verse": 48,
+   "start": 382.85,
+   "end": 389.52,
+   "text": "The Jewish leaders answered him, \"Were we not right when we said that you are a Samaritan and have a demon?\""
+  },
+  {
+   "verse": 49,
+   "start": 390.22,
+   "end": 396.13,
+   "text": "\"I do not have a demon,\" said Jesus. \"I honour my Father, but you dishonour me."
+  },
+  {
+   "verse": 50,
+   "start": 396.83,
+   "end": 403.33,
+   "text": "I am not looking for glory for myself. But there is one who is looking for it, and he is the judge."
+  },
+  {
+   "verse": 51,
+   "start": 404.03,
+   "end": 408.65,
+   "text": "I tell you for certain, whoever obeys my teaching will never see death.\""
+  },
+  {
+   "verse": 52,
+   "start": 409.35,
+   "end": 420.79,
+   "text": "At this the leaders said, \"Now we know that you have a demon! Abraham died, and so did the prophets. Yet you say that whoever obeys your teaching will never taste death."
+  },
+  {
+   "verse": 53,
+   "start": 421.49,
+   "end": 427.72,
+   "text": "Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?\""
+  },
+  {
+   "verse": 54,
+   "start": 428.42,
+   "end": 437.8,
+   "text": "Jesus replied, \"If I gave glory to myself, my glory would mean nothing. It is my Father who gives me glory, the one you claim is your God."
+  },
+  {
+   "verse": 55,
+   "start": 438.5,
+   "end": 449.13,
+   "text": "You do not know him, but I know him. If I said I did not know him, I would be a liar like you. But I do know him, and I obey his word."
+  },
+  {
+   "verse": 56,
+   "start": 449.83,
+   "end": 455.5,
+   "text": "Your father Abraham was full of joy at the thought of seeing my day. He saw it and was glad.\""
+  },
+  {
+   "verse": 57,
+   "start": 456.2,
+   "end": 461.75,
+   "text": "The leaders said to him, \"You are not even fifty years old, and you have seen Abraham?\""
+  },
+  {
+   "verse": 58,
+   "start": 462.45,
+   "end": 467.49,
+   "text": "Jesus answered, \"I tell you for certain, before Abraham was born, I AM!\""
+  },
+  {
+   "verse": 59,
+   "start": 468.19,
+   "end": 475.59,
+   "text": "At this they picked up stones to throw at him. But Jesus hid himself and slipped away out of the temple, going right through the crowd."
+  }
+ ]
+}

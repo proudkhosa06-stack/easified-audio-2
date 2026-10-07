@@ -1,0 +1,257 @@
+{
+ "book": "John",
+ "chapter": 9,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "John-9.mp3",
+ "duration": 306.34,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.04,
+   "text": "As Jesus was walking along, he saw a man who had been blind since he was born."
+  },
+  {
+   "verse": 2,
+   "start": 5.74,
+   "end": 13.8,
+   "text": "His followers asked him, \"Rabbi, why was this man born blind? Was it because he sinned, or because his parents sinned?\""
+  },
+  {
+   "verse": 3,
+   "start": 14.5,
+   "end": 23.15,
+   "text": "Jesus answered, \"It was not because this man sinned, or his parents. It happened so that the power of God could be seen at work in his life."
+  },
+  {
+   "verse": 4,
+   "start": 23.85,
+   "end": 31.22,
+   "text": "While it is still day, we must do the work of the one who sent me. Night is coming, when no one can work."
+  },
+  {
+   "verse": 5,
+   "start": 31.92,
+   "end": 35.05,
+   "text": "While I am in the world, I am the light of the world.\""
+  },
+  {
+   "verse": 6,
+   "start": 35.75,
+   "end": 43.62,
+   "text": "After saying this, Jesus spat on the ground and made some mud with the spit. He spread the mud on the man's eyes"
+  },
+  {
+   "verse": 7,
+   "start": 44.32,
+   "end": 53.3,
+   "text": "and told him, \"Go and wash in the Pool of Siloam\" (the name means \"Sent\"). So the man went and washed, and when he came back, he could see."
+  },
+  {
+   "verse": 8,
+   "start": 54.0,
+   "end": 60.39,
+   "text": "His neighbours, and others who had seen him begging before, asked, \"Is this not the man who used to sit and beg?\""
+  },
+  {
+   "verse": 9,
+   "start": 61.09,
+   "end": 69.19,
+   "text": "Some said, \"Yes, it is him.\" Others said, \"No, he only looks like him.\" But the man himself kept saying, \"I am the man.\""
+  },
+  {
+   "verse": 10,
+   "start": 69.89,
+   "end": 72.9,
+   "text": "So they asked him, \"Then how were your eyes opened?\""
+  },
+  {
+   "verse": 11,
+   "start": 73.6,
+   "end": 86.66,
+   "text": "He replied, \"The man they call Jesus made some mud and spread it on my eyes. He told me, 'Go to Siloam and wash.' So I went and washed, and then I could see.\""
+  },
+  {
+   "verse": 12,
+   "start": 87.36,
+   "end": 91.44,
+   "text": "They asked him, \"Where is this man?\" \"I do not know,\" he said."
+  },
+  {
+   "verse": 13,
+   "start": 92.14,
+   "end": 95.16,
+   "text": "They brought the man who had been blind to the Pharisees."
+  },
+  {
+   "verse": 14,
+   "start": 95.86,
+   "end": 100.91,
+   "text": "Now the day on which Jesus had made the mud and opened the man's eyes was a Sabbath."
+  },
+  {
+   "verse": 15,
+   "start": 101.61,
+   "end": 110.05,
+   "text": "So the Pharisees also asked him how he had received his sight. He told them, \"He put mud on my eyes, I washed, and now I can see.\""
+  },
+  {
+   "verse": 16,
+   "start": 110.75,
+   "end": 122.76,
+   "text": "Some of the Pharisees said, \"This man is not from God, because he does not keep the Sabbath.\" But others asked, \"How can a sinner do such miraculous signs?\" So they were divided."
+  },
+  {
+   "verse": 17,
+   "start": 123.46,
+   "end": 132.48,
+   "text": "Then they turned to the blind man again and asked, \"What do you say about him? It was your eyes he opened.\" The man replied, \"He is a prophet.\""
+  },
+  {
+   "verse": 18,
+   "start": 133.18,
+   "end": 140.07,
+   "text": "The Jewish leaders still did not believe that the man had been blind and had received his sight. So they sent for his parents."
+  },
+  {
+   "verse": 19,
+   "start": 140.77,
+   "end": 147.68,
+   "text": "They asked them, \"Is this your son? Is he the one you say was born blind? How is it that he can see now?\""
+  },
+  {
+   "verse": 20,
+   "start": 148.38,
+   "end": 154.07,
+   "text": "His parents answered, \"We know that he is our son, and we know that he was born blind."
+  },
+  {
+   "verse": 21,
+   "start": 154.77,
+   "end": 162.39,
+   "text": "But we do not know how he can see now, or who opened his eyes. Ask him. He is old enough to speak for himself.\""
+  },
+  {
+   "verse": 22,
+   "start": 163.09,
+   "end": 173.2,
+   "text": "His parents said this because they were afraid of the Jewish leaders. The leaders had already agreed that anyone who said Jesus was the Christ would be thrown out of the synagogue."
+  },
+  {
+   "verse": 23,
+   "start": 173.9,
+   "end": 177.79,
+   "text": "That is why his parents said, \"He is old enough. Ask him.\""
+  },
+  {
+   "verse": 24,
+   "start": 178.49,
+   "end": 188.42,
+   "text": "So for a second time they called the man who had been blind. They said to him, \"Give glory to God by telling the truth. We know that this man is a sinner.\""
+  },
+  {
+   "verse": 25,
+   "start": 189.12,
+   "end": 197.22,
+   "text": "He replied, \"I do not know whether he is a sinner or not. But one thing I do know: I was blind, and now I can see!\""
+  },
+  {
+   "verse": 26,
+   "start": 197.92,
+   "end": 202.04,
+   "text": "Then they asked him, \"What did he do to you? How did he open your eyes?\""
+  },
+  {
+   "verse": 27,
+   "start": 202.74,
+   "end": 210.38,
+   "text": "He answered, \"I have told you already, and you did not listen. Why do you want to hear it again? Do you want to become his followers too?\""
+  },
+  {
+   "verse": 28,
+   "start": 211.08,
+   "end": 216.64,
+   "text": "Then they insulted him and said, \"You are this man's follower! We are followers of Moses!"
+  },
+  {
+   "verse": 29,
+   "start": 217.34,
+   "end": 223.7,
+   "text": "We know that God spoke to Moses. But as for this man, we do not even know where he comes from.\""
+  },
+  {
+   "verse": 30,
+   "start": 224.4,
+   "end": 230.95,
+   "text": "The man answered, \"Now that is amazing! You do not know where he comes from, yet he opened my eyes."
+  },
+  {
+   "verse": 31,
+   "start": 231.65,
+   "end": 239.98,
+   "text": "We know that God does not listen to sinners. But he does listen to anyone who worships him and does what he wants."
+  },
+  {
+   "verse": 32,
+   "start": 240.68,
+   "end": 247.12,
+   "text": "Since the world began, no one has ever heard of anyone opening the eyes of a person who was born blind."
+  },
+  {
+   "verse": 33,
+   "start": 247.82,
+   "end": 250.65,
+   "text": "If this man were not from God, he could do nothing.\""
+  },
+  {
+   "verse": 34,
+   "start": 251.35,
+   "end": 257.98,
+   "text": "They replied, \"You were born completely in sin! How dare you try to teach us!\" And they threw him out."
+  },
+  {
+   "verse": 35,
+   "start": 258.68,
+   "end": 264.23,
+   "text": "Jesus heard that they had thrown him out. When he found him, he asked, \"Do you believe in the Son of God?\""
+  },
+  {
+   "verse": 36,
+   "start": 264.93,
+   "end": 269.59,
+   "text": "The man answered, \"Who is he, sir? Tell me, so that I can believe in him.\""
+  },
+  {
+   "verse": 37,
+   "start": 270.29,
+   "end": 275.69,
+   "text": "Jesus said, \"You have now seen him. In fact, he is the one speaking with you.\""
+  },
+  {
+   "verse": 38,
+   "start": 276.39,
+   "end": 280.48,
+   "text": "Then the man said, \"Lord, I believe,\" and he worshipped him."
+  },
+  {
+   "verse": 39,
+   "start": 281.18,
+   "end": 289.63,
+   "text": "Jesus said, \"I came into this world to bring judgement, so that the blind will see, and those who think they see will become blind.\""
+  },
+  {
+   "verse": 40,
+   "start": 290.33,
+   "end": 296.9,
+   "text": "Some Pharisees who were with him heard him say this. They asked, \"What? Are we blind too?\""
+  },
+  {
+   "verse": 41,
+   "start": 297.6,
+   "end": 305.27,
+   "text": "Jesus said, \"If you were blind, you would not be guilty of sin. But now that you claim you can see, your guilt remains.\""
+  }
+ ]
+}

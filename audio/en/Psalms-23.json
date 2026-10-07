@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 23,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-23.mp3",
+ "duration": 46.51,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.67,
+   "text": "The LORD is my shepherd, so I will not be in need."
+  },
+  {
+   "verse": 2,
+   "start": 4.37,
+   "end": 10.62,
+   "text": "He lets me lie down and rest in green fields. He leads me beside calm, quiet waters."
+  },
+  {
+   "verse": 3,
+   "start": 11.32,
+   "end": 17.29,
+   "text": "He refreshes my soul. He leads me on the paths of what is right, so that his name is honoured."
+  },
+  {
+   "verse": 4,
+   "start": 17.99,
+   "end": 27.48,
+   "text": "Even if I walk through a valley as dark as death, I will not fear any harm, because you are with me. Your shepherd's rod and staff give me comfort."
+  },
+  {
+   "verse": 5,
+   "start": 28.18,
+   "end": 36.58,
+   "text": "You set a table for me while my enemies look on. You pour oil on my head as a sign of welcome. My cup is full to overflowing."
+  },
+  {
+   "verse": 6,
+   "start": 37.28,
+   "end": 45.45,
+   "text": "I am sure that your goodness and your faithful love will stay with me every day of my life. And I will live in the house of the LORD for ever."
+  }
+ ]
+}

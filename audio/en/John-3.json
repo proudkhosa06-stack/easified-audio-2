@@ -1,0 +1,227 @@
+{
+ "book": "John",
+ "chapter": 3,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "John-3.mp3",
+ "duration": 283.42,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.88,
+   "text": "There was a man named Nicodemus. He was a Pharisee and a leader of the Jewish people."
+  },
+  {
+   "verse": 2,
+   "start": 6.58,
+   "end": 16.82,
+   "text": "He came to Jesus at night and said, \"Rabbi, we know that you are a teacher who has come from God. No one could do the miraculous signs you are doing unless God were with him.\""
+  },
+  {
+   "verse": 3,
+   "start": 17.52,
+   "end": 24.02,
+   "text": "Jesus replied, \"I tell you for certain, no one can see the kingdom of God unless they are born again.\""
+  },
+  {
+   "verse": 4,
+   "start": 24.72,
+   "end": 34.0,
+   "text": "Nicodemus asked, \"How can someone be born when they are old? Surely they cannot go back into their mother's womb and be born a second time!\""
+  },
+  {
+   "verse": 5,
+   "start": 34.7,
+   "end": 41.92,
+   "text": "Jesus answered, \"I tell you for certain, no one can enter the kingdom of God unless they are born of water and the Spirit."
+  },
+  {
+   "verse": 6,
+   "start": 42.62,
+   "end": 48.58,
+   "text": "Human parents give birth to human life, but the Spirit gives birth to spiritual life."
+  },
+  {
+   "verse": 7,
+   "start": 49.28,
+   "end": 52.69,
+   "text": "So do not be surprised when I say, 'You must be born again.'"
+  },
+  {
+   "verse": 8,
+   "start": 53.39,
+   "end": 63.75,
+   "text": "The wind blows wherever it wants to. You hear its sound, but you cannot tell where it comes from or where it is going. It is the same with everyone who is born of the Spirit.\""
+  },
+  {
+   "verse": 9,
+   "start": 64.45,
+   "end": 67.28,
+   "text": "Nicodemus asked, \"How can this be?\""
+  },
+  {
+   "verse": 10,
+   "start": 67.98,
+   "end": 73.25,
+   "text": "Jesus said, \"You are an important teacher in Israel, and you do not understand these things?"
+  },
+  {
+   "verse": 11,
+   "start": 73.95,
+   "end": 82.74,
+   "text": "I tell you for certain, we speak about what we know, and we tell you what we have seen. But you people do not accept what we say."
+  },
+  {
+   "verse": 12,
+   "start": 83.44,
+   "end": 91.78,
+   "text": "I have told you about things that happen here on earth, and you do not believe me. So how will you believe if I tell you about things in heaven?"
+  },
+  {
+   "verse": 13,
+   "start": 92.48,
+   "end": 99.95,
+   "text": "No one has ever gone up to heaven except the one who came down from heaven, the Son of Man, who is in heaven."
+  },
+  {
+   "verse": 14,
+   "start": 100.65,
+   "end": 107.72,
+   "text": "Moses lifted up the bronze snake on a pole in the desert. In the same way, the Son of Man must be lifted up,"
+  },
+  {
+   "verse": 15,
+   "start": 108.42,
+   "end": 113.91,
+   "text": "so that everyone who believes in him will not be lost, but will have eternal life."
+  },
+  {
+   "verse": 16,
+   "start": 114.61,
+   "end": 123.76,
+   "text": "God loved the world so much that he gave his only Son, so that no one who believes in him will be lost. Instead, they will have eternal life."
+  },
+  {
+   "verse": 17,
+   "start": 124.46,
+   "end": 130.21,
+   "text": "God did not send his Son into the world to condemn the world. He sent him to save the world."
+  },
+  {
+   "verse": 18,
+   "start": 130.91,
+   "end": 139.76,
+   "text": "Whoever believes in him is not condemned. But whoever does not believe is condemned already, because they have not believed in the name of God's only Son."
+  },
+  {
+   "verse": 19,
+   "start": 140.46,
+   "end": 149.27,
+   "text": "This is how people are judged: the light has come into the world, but people loved the darkness more than the light, because the things they did were evil."
+  },
+  {
+   "verse": 20,
+   "start": 149.97,
+   "end": 158.24,
+   "text": "Everyone who does evil hates the light. They will not come into the light, because they are afraid that their deeds will be exposed."
+  },
+  {
+   "verse": 21,
+   "start": 158.94,
+   "end": 167.29,
+   "text": "But whoever lives by the truth comes into the light. Then everyone can clearly see that what they have done was done with God's help.\""
+  },
+  {
+   "verse": 22,
+   "start": 167.99,
+   "end": 176.27,
+   "text": "After this, Jesus and his followers went out into the countryside of Judea. He spent some time there with them, and they baptised people."
+  },
+  {
+   "verse": 23,
+   "start": 176.97,
+   "end": 186.05,
+   "text": "John was also baptising at Aenon, near Salim, because there was plenty of water there. People kept coming to him to be baptised."
+  },
+  {
+   "verse": 24,
+   "start": 186.75,
+   "end": 188.91,
+   "text": "This was before John was put in prison."
+  },
+  {
+   "verse": 25,
+   "start": 189.61,
+   "end": 195.57,
+   "text": "An argument started between some of John's followers and a certain Jewish man about the washing ceremonies."
+  },
+  {
+   "verse": 26,
+   "start": 196.27,
+   "end": 208.27,
+   "text": "So they came to John and said, \"Rabbi, the man who was with you on the other side of the Jordan, the one you told us about, is baptising people. Everyone is going to him!\""
+  },
+  {
+   "verse": 27,
+   "start": 208.97,
+   "end": 213.53,
+   "text": "John answered, \"A person can only receive what God gives them from heaven."
+  },
+  {
+   "verse": 28,
+   "start": 214.23,
+   "end": 219.2,
+   "text": "You yourselves heard me say, 'I am not the Christ. I have been sent ahead of him.'"
+  },
+  {
+   "verse": 29,
+   "start": 219.9,
+   "end": 232.14,
+   "text": "The bride belongs to the bridegroom. The bridegroom's friend waits and listens for him, and he is full of joy when he hears the bridegroom's voice. That is the joy I have, and now it is complete."
+  },
+  {
+   "verse": 30,
+   "start": 232.84,
+   "end": 236.76,
+   "text": "He must become more and more important, and I must become less important."
+  },
+  {
+   "verse": 31,
+   "start": 237.46,
+   "end": 248.75,
+   "text": "The one who comes from above is greater than all. Someone who is from the earth belongs to the earth and speaks about earthly things. The one who comes from heaven is greater than all."
+  },
+  {
+   "verse": 32,
+   "start": 249.45,
+   "end": 253.47,
+   "text": "He tells what he has seen and heard, but hardly anyone accepts what he says."
+  },
+  {
+   "verse": 33,
+   "start": 254.17,
+   "end": 259.93,
+   "text": "Whoever does accept what he says has put their stamp on this truth: God is true."
+  },
+  {
+   "verse": 34,
+   "start": 260.63,
+   "end": 266.68,
+   "text": "The one whom God has sent speaks the words of God, because God gives him the Spirit without limit."
+  },
+  {
+   "verse": 35,
+   "start": 267.38,
+   "end": 271.18,
+   "text": "The Father loves the Son and has put everything into his hands."
+  },
+  {
+   "verse": 36,
+   "start": 271.88,
+   "end": 282.36,
+   "text": "Whoever believes in the Son has eternal life. But whoever refuses to obey the Son will not see that life. Instead, God's anger stays on them.\""
+  }
+ ]
+}

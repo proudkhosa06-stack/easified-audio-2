@@ -1,0 +1,437 @@
+{
+ "book": "John",
+ "chapter": 6,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "John-6.mp3",
+ "duration": 505.92,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.45,
+   "text": "Some time after this, Jesus crossed to the far side of the Sea of Galilee, which is also called the Sea of Tiberias."
+  },
+  {
+   "verse": 2,
+   "start": 9.15,
+   "end": 15.46,
+   "text": "A huge crowd kept following him, because they had seen the miraculous signs he did by healing the sick."
+  },
+  {
+   "verse": 3,
+   "start": 16.16,
+   "end": 19.79,
+   "text": "Then Jesus went up a hill and sat down there with his followers."
+  },
+  {
+   "verse": 4,
+   "start": 20.49,
+   "end": 23.37,
+   "text": "The Jewish Passover festival was coming soon."
+  },
+  {
+   "verse": 5,
+   "start": 24.07,
+   "end": 31.08,
+   "text": "Jesus looked up and saw a large crowd coming towards him. He said to Philip, \"Where can we buy bread to feed all these people?\""
+  },
+  {
+   "verse": 6,
+   "start": 31.78,
+   "end": 36.74,
+   "text": "He asked this only to test Philip, because he already knew what he was going to do."
+  },
+  {
+   "verse": 7,
+   "start": 37.44,
+   "end": 45.49,
+   "text": "Philip answered, \"Even if we had more than half a year's wages, it would not buy enough bread for each person to have just a little!\""
+  },
+  {
+   "verse": 8,
+   "start": 46.19,
+   "end": 50.57,
+   "text": "Another of his followers, Andrew, the brother of Simon Peter, spoke up."
+  },
+  {
+   "verse": 9,
+   "start": 51.27,
+   "end": 59.9,
+   "text": "\"There is a boy here who has five small barley loaves and two small fish. But what good is that for so many people?\""
+  },
+  {
+   "verse": 10,
+   "start": 60.6,
+   "end": 69.48,
+   "text": "Jesus said, \"Tell the people to sit down.\" There was plenty of grass in that place, so they sat down. There were about five thousand men."
+  },
+  {
+   "verse": 11,
+   "start": 70.18,
+   "end": 83.65,
+   "text": "Then Jesus took the loaves, gave thanks to God and handed them to his followers, and they gave them out to the people who were sitting there. He did the same with the fish. Everyone had as much as they wanted."
+  },
+  {
+   "verse": 12,
+   "start": 84.35,
+   "end": 91.96,
+   "text": "When they had all eaten enough, he told his followers, \"Gather the pieces that are left over. Let nothing be wasted.\""
+  },
+  {
+   "verse": 13,
+   "start": 92.66,
+   "end": 99.89,
+   "text": "So they gathered them and filled twelve baskets with the pieces of the five barley loaves that were left over by the people who had eaten."
+  },
+  {
+   "verse": 14,
+   "start": 100.59,
+   "end": 108.55,
+   "text": "When the people saw the miraculous sign that Jesus had done, they began to say, \"Surely this is the Prophet who was to come into the world!\""
+  },
+  {
+   "verse": 15,
+   "start": 109.25,
+   "end": 116.63,
+   "text": "Jesus knew that they were about to come and take him by force to make him king. So he went away again to the hills by himself."
+  },
+  {
+   "verse": 16,
+   "start": 117.33,
+   "end": 120.46,
+   "text": "When evening came, his followers went down to the lake."
+  },
+  {
+   "verse": 17,
+   "start": 121.16,
+   "end": 128.85,
+   "text": "They got into a boat and started to cross the lake towards Capernaum. By now it was dark, and Jesus had not yet joined them."
+  },
+  {
+   "verse": 18,
+   "start": 129.55,
+   "end": 132.66,
+   "text": "A strong wind was blowing, and the water became rough."
+  },
+  {
+   "verse": 19,
+   "start": 133.36,
+   "end": 140.78,
+   "text": "They had rowed about five or six kilometres when they saw Jesus walking on the water and coming near the boat. They were terrified."
+  },
+  {
+   "verse": 20,
+   "start": 141.48,
+   "end": 144.57,
+   "text": "But he said to them, \"It is I. Do not be afraid.\""
+  },
+  {
+   "verse": 21,
+   "start": 145.27,
+   "end": 150.44,
+   "text": "Then they were glad to take him into the boat, and straight away the boat reached the shore where they were heading."
+  },
+  {
+   "verse": 22,
+   "start": 151.14,
+   "end": 164.72,
+   "text": "The next day the crowd that had stayed on the other side of the lake realised something. Only one boat had been there, and Jesus had not got into it with his followers. They had gone away on their own."
+  },
+  {
+   "verse": 23,
+   "start": 165.42,
+   "end": 172.25,
+   "text": "Then some other boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks."
+  },
+  {
+   "verse": 24,
+   "start": 172.95,
+   "end": 180.32,
+   "text": "When the crowd saw that neither Jesus nor his followers were there, they got into the boats and went to Capernaum to look for Jesus."
+  },
+  {
+   "verse": 25,
+   "start": 181.02,
+   "end": 186.23,
+   "text": "They found him on the other side of the lake and asked him, \"Rabbi, when did you get here?\""
+  },
+  {
+   "verse": 26,
+   "start": 186.93,
+   "end": 197.12,
+   "text": "Jesus answered, \"I tell you for certain, you are not looking for me because you saw miraculous signs. You are looking for me because you ate the loaves and had a full stomach."
+  },
+  {
+   "verse": 27,
+   "start": 197.82,
+   "end": 208.22,
+   "text": "Do not work for food that spoils. Work for the food that lasts for eternal life, which the Son of Man will give you. God the Father has put his seal of approval on him.\""
+  },
+  {
+   "verse": 28,
+   "start": 208.92,
+   "end": 212.43,
+   "text": "Then they asked him, \"What must we do to do the work God wants?\""
+  },
+  {
+   "verse": 29,
+   "start": 213.13,
+   "end": 217.9,
+   "text": "Jesus answered, \"This is the work God wants: believe in the one he has sent.\""
+  },
+  {
+   "verse": 30,
+   "start": 218.6,
+   "end": 225.37,
+   "text": "So they asked him, \"What miraculous sign will you do, so that we can see it and believe you? What will you do?"
+  },
+  {
+   "verse": 31,
+   "start": 226.07,
+   "end": 232.81,
+   "text": "Our ancestors ate manna in the desert. As the Scriptures say, 'He gave them bread from heaven to eat.'\""
+  },
+  {
+   "verse": 32,
+   "start": 233.51,
+   "end": 243.32,
+   "text": "Jesus said to them, \"I tell you for certain, it was not Moses who gave you bread from heaven. It is my Father who gives you the true bread from heaven."
+  },
+  {
+   "verse": 33,
+   "start": 244.02,
+   "end": 248.63,
+   "text": "The bread of God is the one who comes down from heaven and gives life to the world.\""
+  },
+  {
+   "verse": 34,
+   "start": 249.33,
+   "end": 252.57,
+   "text": "\"Sir,\" they said, \"always give us this bread.\""
+  },
+  {
+   "verse": 35,
+   "start": 253.27,
+   "end": 262.35,
+   "text": "Then Jesus said, \"I am the bread of life. Whoever comes to me will never be hungry, and whoever believes in me will never be thirsty."
+  },
+  {
+   "verse": 36,
+   "start": 263.05,
+   "end": 266.99,
+   "text": "But as I told you, you have seen me, and still you do not believe."
+  },
+  {
+   "verse": 37,
+   "start": 267.69,
+   "end": 273.32,
+   "text": "Everyone the Father gives me will come to me, and I will never turn away anyone who comes to me."
+  },
+  {
+   "verse": 38,
+   "start": 274.02,
+   "end": 280.22,
+   "text": "I have come down from heaven, not to do what I want, but to do what the one who sent me wants."
+  },
+  {
+   "verse": 39,
+   "start": 280.92,
+   "end": 287.98,
+   "text": "And this is what he wants: that I should not lose even one of all those he has given me, but raise them up on the last day."
+  },
+  {
+   "verse": 40,
+   "start": 288.68,
+   "end": 296.68,
+   "text": "My Father wants everyone who looks to the Son and believes in him to have eternal life, and I will raise them up on the last day.\""
+  },
+  {
+   "verse": 41,
+   "start": 297.38,
+   "end": 303.21,
+   "text": "Then the Jewish leaders began to grumble about him because he said, \"I am the bread that came down from heaven.\""
+  },
+  {
+   "verse": 42,
+   "start": 303.91,
+   "end": 312.2,
+   "text": "They said, \"Is this not Jesus, the son of Joseph? We know his father and mother. How can he now say, 'I came down from heaven'?\""
+  },
+  {
+   "verse": 43,
+   "start": 312.9,
+   "end": 315.94,
+   "text": "Jesus answered, \"Stop grumbling among yourselves."
+  },
+  {
+   "verse": 44,
+   "start": 316.64,
+   "end": 323.6,
+   "text": "No one can come to me unless the Father who sent me draws them to me, and I will raise them up on the last day."
+  },
+  {
+   "verse": 45,
+   "start": 324.3,
+   "end": 332.94,
+   "text": "It is written in the Prophets: 'They will all be taught by God.' Everyone who has listened to the Father and learned from him comes to me."
+  },
+  {
+   "verse": 46,
+   "start": 333.64,
+   "end": 339.68,
+   "text": "No one has seen the Father except the one who has come from God. Only he has seen the Father."
+  },
+  {
+   "verse": 47,
+   "start": 340.38,
+   "end": 344.26,
+   "text": "I tell you for certain, whoever believes in me has eternal life."
+  },
+  {
+   "verse": 48,
+   "start": 344.96,
+   "end": 346.4,
+   "text": "I am the bread of life."
+  },
+  {
+   "verse": 49,
+   "start": 347.1,
+   "end": 351.2,
+   "text": "Your ancestors ate manna in the desert, and yet they died."
+  },
+  {
+   "verse": 50,
+   "start": 351.9,
+   "end": 357.24,
+   "text": "But here is the bread that comes down from heaven. Whoever eats it will not die."
+  },
+  {
+   "verse": 51,
+   "start": 357.94,
+   "end": 368.16,
+   "text": "I am the living bread that came down from heaven. Whoever eats this bread will live for ever. This bread is my body, which I will give so that the world may live.\""
+  },
+  {
+   "verse": 52,
+   "start": 368.86,
+   "end": 375.73,
+   "text": "Then the Jewish leaders began to argue sharply among themselves. \"How can this man give us his body to eat?\" they asked."
+  },
+  {
+   "verse": 53,
+   "start": 376.43,
+   "end": 385.56,
+   "text": "Jesus said to them, \"I tell you for certain, unless you eat the body of the Son of Man and drink his blood, you have no life in you."
+  },
+  {
+   "verse": 54,
+   "start": 386.26,
+   "end": 392.27,
+   "text": "Whoever eats my body and drinks my blood has eternal life, and I will raise them up on the last day."
+  },
+  {
+   "verse": 55,
+   "start": 392.97,
+   "end": 396.04,
+   "text": "My body is real food, and my blood is real drink."
+  },
+  {
+   "verse": 56,
+   "start": 396.74,
+   "end": 401.81,
+   "text": "Whoever eats my body and drinks my blood remains in me, and I remain in them."
+  },
+  {
+   "verse": 57,
+   "start": 402.51,
+   "end": 411.31,
+   "text": "The living Father sent me, and I live because of the Father. In the same way, whoever feeds on me will live because of me."
+  },
+  {
+   "verse": 58,
+   "start": 412.01,
+   "end": 421.04,
+   "text": "This is the bread that came down from heaven. It is not like the manna your ancestors ate. They died, but whoever eats this bread will live for ever.\""
+  },
+  {
+   "verse": 59,
+   "start": 421.74,
+   "end": 425.52,
+   "text": "Jesus said these things while he was teaching in the synagogue in Capernaum."
+  },
+  {
+   "verse": 60,
+   "start": 426.22,
+   "end": 431.79,
+   "text": "When many of his followers heard this, they said, \"This teaching is hard. Who can accept it?\""
+  },
+  {
+   "verse": 61,
+   "start": 432.49,
+   "end": 438.57,
+   "text": "Jesus knew that his followers were grumbling about this. So he said to them, \"Does this upset you?"
+  },
+  {
+   "verse": 62,
+   "start": 439.27,
+   "end": 443.58,
+   "text": "Then what if you see the Son of Man going back up to where he was before?"
+  },
+  {
+   "verse": 63,
+   "start": 444.28,
+   "end": 452.53,
+   "text": "The Spirit gives life. Human effort achieves nothing. The words I have spoken to you are full of the Spirit and of life."
+  },
+  {
+   "verse": 64,
+   "start": 453.23,
+   "end": 460.12,
+   "text": "Yet some of you do not believe.\" Jesus knew from the beginning which of them did not believe, and who would betray him."
+  },
+  {
+   "verse": 65,
+   "start": 460.82,
+   "end": 466.88,
+   "text": "He went on, \"This is why I told you that no one can come to me unless the Father makes it possible for them.\""
+  },
+  {
+   "verse": 66,
+   "start": 467.58,
+   "end": 471.99,
+   "text": "From that time many of his followers turned back and no longer went with him."
+  },
+  {
+   "verse": 67,
+   "start": 472.69,
+   "end": 477.38,
+   "text": "So Jesus asked the twelve apostles, \"You do not want to leave too, do you?\""
+  },
+  {
+   "verse": 68,
+   "start": 478.08,
+   "end": 483.73,
+   "text": "Simon Peter answered him, \"Lord, who would we go to? You have the words that give eternal life."
+  },
+  {
+   "verse": 69,
+   "start": 484.43,
+   "end": 490.41,
+   "text": "We believe, and we know for sure, that you are the Christ, the Son of the living God.\""
+  },
+  {
+   "verse": 70,
+   "start": 491.11,
+   "end": 495.76,
+   "text": "Then Jesus replied, \"Did I not choose you, the Twelve? Yet one of you is a devil!\""
+  },
+  {
+   "verse": 71,
+   "start": 496.46,
+   "end": 504.87,
+   "text": "He was talking about Judas, the son of Simon Iscariot. Although Judas was one of the Twelve, he was later going to betray Jesus."
+  }
+ ]
+}
