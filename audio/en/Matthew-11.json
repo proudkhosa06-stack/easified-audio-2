@@ -1,0 +1,191 @@
+{
+ "book": "Matthew",
+ "chapter": 11,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Matthew-11.mp3",
+ "duration": 246.74,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.55,
+   "text": "When Jesus had finished giving instructions to his twelve followers, he left there to teach and preach in the towns of Galilee."
+  },
+  {
+   "verse": 2,
+   "start": 8.25,
+   "end": 14.83,
+   "text": "John was in prison. When he heard about the things the Christ was doing, he sent his followers to Jesus."
+  },
+  {
+   "verse": 3,
+   "start": 15.53,
+   "end": 20.08,
+   "text": "They asked him, \"Are you the one who was to come, or should we wait for someone else?\""
+  },
+  {
+   "verse": 4,
+   "start": 20.78,
+   "end": 24.88,
+   "text": "Jesus answered, \"Go back and tell John what you hear and see."
+  },
+  {
+   "verse": 5,
+   "start": 25.58,
+   "end": 39.73,
+   "text": "Blind people can see. People who could not walk are walking. People with skin diseases are made clean. Deaf people can hear. Dead people are raised to life. And the good news is preached to poor people."
+  },
+  {
+   "verse": 6,
+   "start": 40.43,
+   "end": 44.46,
+   "text": "Blessed is anyone who does not give up their faith because of me.\""
+  },
+  {
+   "verse": 7,
+   "start": 45.16,
+   "end": 55.31,
+   "text": "As John's followers were leaving, Jesus began to speak to the crowd about John. \"What did you go out into the desert to see? Tall grass blowing in the wind?"
+  },
+  {
+   "verse": 8,
+   "start": 56.01,
+   "end": 65.82,
+   "text": "If not, what did you go out to see? A man dressed in fine clothes? No, people who wear fine clothes live in kings' palaces."
+  },
+  {
+   "verse": 9,
+   "start": 66.52,
+   "end": 72.99,
+   "text": "Then what did you go out to see? A prophet? Yes, I tell you, and he is more than a prophet."
+  },
+  {
+   "verse": 10,
+   "start": 73.69,
+   "end": 80.68,
+   "text": "He is the one the Scriptures talk about: 'I will send my messenger ahead of you. He will prepare your way for you.'"
+  },
+  {
+   "verse": 11,
+   "start": 81.38,
+   "end": 91.77,
+   "text": "I tell you for certain, no one born of a woman has ever been greater than John the Baptist. But even the least important person in the kingdom of heaven is greater than he is."
+  },
+  {
+   "verse": 12,
+   "start": 92.47,
+   "end": 101.75,
+   "text": "From the time John the Baptist began preaching until now, the kingdom of heaven has been under violent attack, and violent people are trying to take it by force."
+  },
+  {
+   "verse": 13,
+   "start": 102.45,
+   "end": 107.27,
+   "text": "All the Prophets and the Law spoke about what would happen, until John came."
+  },
+  {
+   "verse": 14,
+   "start": 107.97,
+   "end": 112.23,
+   "text": "If you are willing to accept it, John is the Elijah who was to come."
+  },
+  {
+   "verse": 15,
+   "start": 112.93,
+   "end": 114.8,
+   "text": "Whoever has ears should listen."
+  },
+  {
+   "verse": 16,
+   "start": 115.5,
+   "end": 122.5,
+   "text": "\"What can I compare the people of today with? They are like children sitting in the market places and calling out to other children:"
+  },
+  {
+   "verse": 17,
+   "start": 123.2,
+   "end": 130.27,
+   "text": "'We played the flute for you, and you did not dance. We sang a sad song, and you did not cry.'"
+  },
+  {
+   "verse": 18,
+   "start": 130.97,
+   "end": 135.72,
+   "text": "John came and did not eat or drink wine, and people say, 'He has a demon.'"
+  },
+  {
+   "verse": 19,
+   "start": 136.42,
+   "end": 148.57,
+   "text": "The Son of Man came eating and drinking, and they say, 'Look at him! He eats too much and drinks too much wine. He is a friend of tax collectors and sinners.' But wisdom is shown to be right by what it does.\""
+  },
+  {
+   "verse": 20,
+   "start": 149.27,
+   "end": 157.4,
+   "text": "Then Jesus began to speak strongly against the towns where he had done most of his miracles, because the people had not turned away from their sins."
+  },
+  {
+   "verse": 21,
+   "start": 158.1,
+   "end": 174.6,
+   "text": "\"How terrible it will be for you, Chorazin! How terrible for you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, the people there would have turned away from their sins long ago. They would have dressed in sackcloth and sat in ashes to show they were sorry."
+  },
+  {
+   "verse": 22,
+   "start": 175.3,
+   "end": 180.33,
+   "text": "But I tell you, it will be easier for Tyre and Sidon on the day of judgement than for you."
+  },
+  {
+   "verse": 23,
+   "start": 181.03,
+   "end": 193.35,
+   "text": "And you, Capernaum, will you be lifted up to heaven? No, you will go down to the place of the dead. If the miracles done in you had been done in Sodom, it would still be here today."
+  },
+  {
+   "verse": 24,
+   "start": 194.05,
+   "end": 198.97,
+   "text": "But I tell you, it will be easier for Sodom on the day of judgement than for you.\""
+  },
+  {
+   "verse": 25,
+   "start": 199.67,
+   "end": 210.23,
+   "text": "At that time Jesus said, \"I praise you, Father, Lord of heaven and earth. You have hidden these things from people who are wise and clever, and shown them to little children."
+  },
+  {
+   "verse": 26,
+   "start": 210.93,
+   "end": 213.97,
+   "text": "Yes, Father, this is what you were pleased to do."
+  },
+  {
+   "verse": 27,
+   "start": 214.67,
+   "end": 225.53,
+   "text": "\"My Father has given me everything. No one knows the Son except the Father. And no one knows the Father except the Son, and those to whom the Son chooses to show him."
+  },
+  {
+   "verse": 28,
+   "start": 226.23,
+   "end": 231.73,
+   "text": "\"Come to me, all of you who are tired and carrying heavy loads, and I will give you rest."
+  },
+  {
+   "verse": 29,
+   "start": 232.43,
+   "end": 240.85,
+   "text": "Take my yoke on you and learn from me, because I am gentle and humble in heart. Then you will find rest for your souls."
+  },
+  {
+   "verse": 30,
+   "start": 241.55,
+   "end": 245.69,
+   "text": "My yoke is easy to wear, and the load I give you is light.\""
+  }
+ ]
+}
