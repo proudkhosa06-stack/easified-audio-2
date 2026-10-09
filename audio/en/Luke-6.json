@@ -1,0 +1,305 @@
+{
+ "book": "Luke",
+ "chapter": 6,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-6.mp3",
+ "duration": 400.39,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.34,
+   "text": "One Sabbath day Jesus was going through the grain fields. His followers picked some heads of grain, rubbed them in their hands, and ate them."
+  },
+  {
+   "verse": 2,
+   "start": 10.04,
+   "end": 14.57,
+   "text": "Some of the Pharisees said, \"Why are you doing what is against the law on the Sabbath?\""
+  },
+  {
+   "verse": 3,
+   "start": 15.27,
+   "end": 20.06,
+   "text": "Jesus answered, \"Have you not read what David did when he and his men were hungry?"
+  },
+  {
+   "verse": 4,
+   "start": 20.76,
+   "end": 31.73,
+   "text": "He went into the house of God, took the holy bread and ate it, and gave some to his men. That was against the law. Only the priests are allowed to eat that bread.\""
+  },
+  {
+   "verse": 5,
+   "start": 32.43,
+   "end": 36.34,
+   "text": "Then Jesus said to them, \"The Son of Man is Lord of the Sabbath.\""
+  },
+  {
+   "verse": 6,
+   "start": 37.04,
+   "end": 43.05,
+   "text": "On another Sabbath he went into the synagogue and taught. A man was there whose right hand was shrivelled."
+  },
+  {
+   "verse": 7,
+   "start": 43.75,
+   "end": 51.87,
+   "text": "The teachers of the law and the Pharisees watched Jesus, to see if he would heal on the Sabbath, so that they could find a reason to accuse him."
+  },
+  {
+   "verse": 8,
+   "start": 52.57,
+   "end": 61.74,
+   "text": "But Jesus knew what they were thinking. He said to the man with the shrivelled hand, \"Get up and stand in the middle.\" So the man got up and stood there."
+  },
+  {
+   "verse": 9,
+   "start": 62.44,
+   "end": 71.45,
+   "text": "Then Jesus said to them, \"I ask you, which is right on the Sabbath: to do good or to do harm? To save life or to destroy it?\""
+  },
+  {
+   "verse": 10,
+   "start": 72.15,
+   "end": 80.24,
+   "text": "He looked around at them all and said to the man, \"Stretch out your hand.\" He did so, and his hand was made as well as the other."
+  },
+  {
+   "verse": 11,
+   "start": 80.94,
+   "end": 85.39,
+   "text": "But they were filled with anger and talked together about what they might do to Jesus."
+  },
+  {
+   "verse": 12,
+   "start": 86.09,
+   "end": 91.51,
+   "text": "In those days Jesus went out to a mountain to pray, and he spent the whole night praying to God."
+  },
+  {
+   "verse": 13,
+   "start": 92.21,
+   "end": 98.69,
+   "text": "When morning came, he called his followers to him and chose twelve of them, whom he also named apostles."
+  },
+  {
+   "verse": 14,
+   "start": 99.39,
+   "end": 107.09,
+   "text": "They were Simon, whom he also named Peter, Andrew his brother, James, John, Philip, Bartholomew,"
+  },
+  {
+   "verse": 15,
+   "start": 107.79,
+   "end": 113.22,
+   "text": "Matthew, Thomas, James the son of Alphaeus, Simon who was called the Zealot,"
+  },
+  {
+   "verse": 16,
+   "start": 113.92,
+   "end": 119.32,
+   "text": "Judas the son of James, and Judas Iscariot, who became a traitor."
+  },
+  {
+   "verse": 17,
+   "start": 120.02,
+   "end": 132.41,
+   "text": "Jesus came down with them and stood on a level place. A large crowd of his followers was there, and a great number of people from all Judea, from Jerusalem, and from the coast of Tyre and Sidon."
+  },
+  {
+   "verse": 18,
+   "start": 133.11,
+   "end": 140.27,
+   "text": "They had come to hear him and to be healed of their diseases. Those who were troubled by evil spirits were also healed."
+  },
+  {
+   "verse": 19,
+   "start": 140.97,
+   "end": 146.71,
+   "text": "Everyone in the crowd tried to touch him, because power was coming from him and healing them all."
+  },
+  {
+   "verse": 20,
+   "start": 147.41,
+   "end": 154.27,
+   "text": "Jesus looked at his followers and said, \"Blessed are you who are poor, because the kingdom of God is yours."
+  },
+  {
+   "verse": 21,
+   "start": 154.97,
+   "end": 162.16,
+   "text": "Blessed are you who are hungry now, because you will be filled. Blessed are you who weep now, because you will laugh."
+  },
+  {
+   "verse": 22,
+   "start": 162.86,
+   "end": 171.14,
+   "text": "Blessed are you when people hate you, shut you out, mock you, and say your name is evil, because of the Son of Man."
+  },
+  {
+   "verse": 23,
+   "start": 171.84,
+   "end": 179.83,
+   "text": "Rejoice on that day and jump for joy, because your reward in heaven is great. Their fathers treated the prophets in the same way."
+  },
+  {
+   "verse": 24,
+   "start": 180.53,
+   "end": 185.06,
+   "text": "But how terrible for you who are rich! You have already received your comfort."
+  },
+  {
+   "verse": 25,
+   "start": 185.76,
+   "end": 194.8,
+   "text": "How terrible for you who are well fed now, because you will be hungry. How terrible for you who laugh now, because you will mourn and weep."
+  },
+  {
+   "verse": 26,
+   "start": 195.5,
+   "end": 201.71,
+   "text": "How terrible for you when everyone speaks well of you. Their fathers treated the false prophets in the same way."
+  },
+  {
+   "verse": 27,
+   "start": 202.41,
+   "end": 207.94,
+   "text": "But I say to you who are listening: love your enemies, and do good to those who hate you."
+  },
+  {
+   "verse": 28,
+   "start": 208.64,
+   "end": 212.69,
+   "text": "Bless those who curse you, and pray for those who treat you badly."
+  },
+  {
+   "verse": 29,
+   "start": 213.39,
+   "end": 221.33,
+   "text": "If someone hits you on one cheek, offer the other cheek as well. If someone takes your coat, do not stop them from taking your shirt too."
+  },
+  {
+   "verse": 30,
+   "start": 222.03,
+   "end": 228.68,
+   "text": "Give to everyone who asks you, and if someone takes what belongs to you, do not demand it back."
+  },
+  {
+   "verse": 31,
+   "start": 229.38,
+   "end": 232.74,
+   "text": "Do to others just what you would like them to do to you."
+  },
+  {
+   "verse": 32,
+   "start": 233.44,
+   "end": 239.6,
+   "text": "If you love those who love you, what credit is that to you? Even sinners love those who love them."
+  },
+  {
+   "verse": 33,
+   "start": 240.3,
+   "end": 247.09,
+   "text": "If you do good to those who do good to you, what credit is that to you? Even sinners do that."
+  },
+  {
+   "verse": 34,
+   "start": 247.79,
+   "end": 257.39,
+   "text": "And if you lend to those you expect to pay you back, what credit is that to you? Even sinners lend to sinners, expecting to be paid back in full."
+  },
+  {
+   "verse": 35,
+   "start": 258.09,
+   "end": 270.77,
+   "text": "But love your enemies, do good, and lend without expecting anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and the evil."
+  },
+  {
+   "verse": 36,
+   "start": 271.47,
+   "end": 274.91,
+   "text": "So be merciful, just as your Father is merciful."
+  },
+  {
+   "verse": 37,
+   "start": 275.61,
+   "end": 284.08,
+   "text": "Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven."
+  },
+  {
+   "verse": 38,
+   "start": 284.78,
+   "end": 296.59,
+   "text": "Give, and it will be given to you. A good amount, pressed down, shaken together, and running over, will be poured into your lap. The measure you use for others will be the measure used for you.\""
+  },
+  {
+   "verse": 39,
+   "start": 297.29,
+   "end": 303.79,
+   "text": "He also told them this story. \"Can a blind person lead a blind person? Will they not both fall into a pit?"
+  },
+  {
+   "verse": 40,
+   "start": 304.49,
+   "end": 309.98,
+   "text": "A follower is not above his teacher, but everyone who is fully trained will be like his teacher."
+  },
+  {
+   "verse": 41,
+   "start": 310.68,
+   "end": 316.9,
+   "text": "Why do you look at the speck of sawdust in your brother's eye, but do not notice the plank of wood in your own eye?"
+  },
+  {
+   "verse": 42,
+   "start": 317.6,
+   "end": 334.17,
+   "text": "How can you say to your brother, 'Brother, let me take the speck out of your eye,' when you do not see the plank in your own eye? You hypocrite! First take the plank out of your own eye. Then you will see clearly to take the speck out of your brother's eye."
+  },
+  {
+   "verse": 43,
+   "start": 334.87,
+   "end": 340.12,
+   "text": "A good tree does not produce bad fruit, and a bad tree does not produce good fruit."
+  },
+  {
+   "verse": 44,
+   "start": 340.82,
+   "end": 348.01,
+   "text": "Each tree is known by its own fruit. People do not pick figs from thorn bushes, or grapes from a bramble bush."
+  },
+  {
+   "verse": 45,
+   "start": 348.71,
+   "end": 359.89,
+   "text": "A good person brings good things out of the good stored in their heart. An evil person brings evil things out of the evil stored in their heart. The mouth speaks what fills the heart."
+  },
+  {
+   "verse": 46,
+   "start": 360.59,
+   "end": 364.32,
+   "text": "Why do you call me, 'Lord, Lord,' and do not do what I say?"
+  },
+  {
+   "verse": 47,
+   "start": 365.02,
+   "end": 370.71,
+   "text": "I will show you what the person is like who comes to me, hears my words, and does them."
+  },
+  {
+   "verse": 48,
+   "start": 371.41,
+   "end": 384.62,
+   "text": "That person is like a man building a house, who dug deep and laid the foundation on rock. When a flood came, the stream crashed against that house but could not shake it, because it was built on rock."
+  },
+  {
+   "verse": 49,
+   "start": 385.32,
+   "end": 399.33,
+   "text": "But the person who hears and does not do what I say is like a man who built a house on the ground with no foundation. The stream crashed against it, and straight away it fell. And the ruin of that house was great.\""
+  }
+ ]
+}

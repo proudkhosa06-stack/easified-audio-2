@@ -1,0 +1,299 @@
+{
+ "book": "Luke",
+ "chapter": 19,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-19.mp3",
+ "duration": 326.93,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.14,
+   "text": "Jesus entered Jericho and was passing through it."
+  },
+  {
+   "verse": 2,
+   "start": 3.84,
+   "end": 8.93,
+   "text": "A man there was named Zacchaeus. He was a chief tax collector, and he was rich."
+  },
+  {
+   "verse": 3,
+   "start": 9.63,
+   "end": 15.39,
+   "text": "He wanted to see who Jesus was, but he could not, because of the crowd, and because he was short."
+  },
+  {
+   "verse": 4,
+   "start": 16.09,
+   "end": 21.55,
+   "text": "So he ran ahead and climbed a sycamore tree to see him, since Jesus was coming that way."
+  },
+  {
+   "verse": 5,
+   "start": 22.25,
+   "end": 29.21,
+   "text": "When Jesus reached the spot, he looked up and said, \"Zacchaeus, hurry and come down. I must stay at your house today.\""
+  },
+  {
+   "verse": 6,
+   "start": 29.91,
+   "end": 32.86,
+   "text": "Zacchaeus hurried down and welcomed him with joy."
+  },
+  {
+   "verse": 7,
+   "start": 33.56,
+   "end": 37.87,
+   "text": "All the people who saw this muttered, \"He has gone to be the guest of a sinner.\""
+  },
+  {
+   "verse": 8,
+   "start": 38.57,
+   "end": 48.38,
+   "text": "But Zacchaeus stood up and said to the Lord, \"Look, Lord, I give half of my goods to the poor. And if I have cheated anyone, I will pay back four times as much.\""
+  },
+  {
+   "verse": 9,
+   "start": 49.08,
+   "end": 56.28,
+   "text": "Jesus said to him, \"Today salvation has come to this house, because this man too is a son of Abraham."
+  },
+  {
+   "verse": 10,
+   "start": 56.98,
+   "end": 60.69,
+   "text": "The Son of Man came to look for and to save what was lost.\""
+  },
+  {
+   "verse": 11,
+   "start": 61.39,
+   "end": 70.39,
+   "text": "While the people were listening to this, Jesus went on to tell a story. He was near Jerusalem, and they thought the kingdom of God was going to appear at once."
+  },
+  {
+   "verse": 12,
+   "start": 71.09,
+   "end": 76.37,
+   "text": "He said, \"A man of noble birth went to a country far away to be made king and then return."
+  },
+  {
+   "verse": 13,
+   "start": 77.07,
+   "end": 83.86,
+   "text": "He called ten of his servants and gave them ten mina coins. 'Do business with this until I come back,' he said."
+  },
+  {
+   "verse": 14,
+   "start": 84.56,
+   "end": 91.03,
+   "text": "But his people hated him and sent a group after him to say, 'We do not want this man to be our king.'"
+  },
+  {
+   "verse": 15,
+   "start": 91.73,
+   "end": 101.26,
+   "text": "He was made king and came back. Then he sent for the servants he had given the money to, so that he could find out what they had gained by doing business."
+  },
+  {
+   "verse": 16,
+   "start": 101.96,
+   "end": 106.2,
+   "text": "The first came and said, 'Sir, your mina has earned ten more minas.'"
+  },
+  {
+   "verse": 17,
+   "start": 106.9,
+   "end": 115.11,
+   "text": "'Well done, good servant!' he said. 'Because you have been faithful with a very small thing, you will be in charge of ten towns.'"
+  },
+  {
+   "verse": 18,
+   "start": 115.81,
+   "end": 120.49,
+   "text": "The second came and said, 'Sir, your mina has earned five minas.'"
+  },
+  {
+   "verse": 19,
+   "start": 121.19,
+   "end": 124.0,
+   "text": "He said, 'You will be in charge of five towns.'"
+  },
+  {
+   "verse": 20,
+   "start": 124.7,
+   "end": 129.8,
+   "text": "Then another servant came and said, 'Sir, here is your mina. I kept it wrapped in a cloth,"
+  },
+  {
+   "verse": 21,
+   "start": 130.5,
+   "end": 138.09,
+   "text": "because I was afraid of you. You are a hard man. You take what you did not put in, and you reap what you did not sow.'"
+  },
+  {
+   "verse": 22,
+   "start": 138.79,
+   "end": 150.87,
+   "text": "His master replied, 'I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking what I did not put in and reaping what I did not sow?"
+  },
+  {
+   "verse": 23,
+   "start": 151.57,
+   "end": 157.77,
+   "text": "Then why did you not put my money in the bank, so that when I came back I could have collected it with interest?'"
+  },
+  {
+   "verse": 24,
+   "start": 158.47,
+   "end": 164.91,
+   "text": "Then he said to those standing by, 'Take the mina away from him and give it to the one who has ten minas.'"
+  },
+  {
+   "verse": 25,
+   "start": 165.61,
+   "end": 169.09,
+   "text": "They said, 'Sir, he already has ten minas!'"
+  },
+  {
+   "verse": 26,
+   "start": 169.79,
+   "end": 177.91,
+   "text": "He replied, 'I tell you, everyone who has will be given more, but whoever does not have, even what they have will be taken away."
+  },
+  {
+   "verse": 27,
+   "start": 178.61,
+   "end": 184.48,
+   "text": "But those enemies of mine who did not want me to be their king, bring them here and kill them in front of me.'\""
+  },
+  {
+   "verse": 28,
+   "start": 185.18,
+   "end": 190.03,
+   "text": "After Jesus had said this, he went on ahead, going up to Jerusalem."
+  },
+  {
+   "verse": 29,
+   "start": 190.73,
+   "end": 197.01,
+   "text": "As he came near Bethsphage and Bethany, at the hill called Olivet, he sent two of his followers,"
+  },
+  {
+   "verse": 30,
+   "start": 197.71,
+   "end": 207.96,
+   "text": "saying, \"Go into the village ahead of you. As you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here."
+  },
+  {
+   "verse": 31,
+   "start": 208.66,
+   "end": 213.03,
+   "text": "If anyone asks you, 'Why are you untying it?' say, 'The Lord needs it.'\""
+  },
+  {
+   "verse": 32,
+   "start": 213.73,
+   "end": 217.41,
+   "text": "Those who were sent went and found it just as he had told them."
+  },
+  {
+   "verse": 33,
+   "start": 218.11,
+   "end": 223.99,
+   "text": "As they were untying the colt, its owners asked, \"Why are you untying the colt?\""
+  },
+  {
+   "verse": 34,
+   "start": 224.69,
+   "end": 226.79,
+   "text": "They replied, \"The Lord needs it.\""
+  },
+  {
+   "verse": 35,
+   "start": 227.49,
+   "end": 231.86,
+   "text": "They brought it to Jesus, threw their coats on the colt, and put Jesus on it."
+  },
+  {
+   "verse": 36,
+   "start": 232.56,
+   "end": 235.84,
+   "text": "As he went along, people spread their coats on the road."
+  },
+  {
+   "verse": 37,
+   "start": 236.54,
+   "end": 247.86,
+   "text": "When he came near the place where the road goes down the Mount of Olives, the whole crowd of his followers began to praise God joyfully with loud voices for all the powerful works they had seen."
+  },
+  {
+   "verse": 38,
+   "start": 248.56,
+   "end": 256.25,
+   "text": "They shouted, \"Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!\""
+  },
+  {
+   "verse": 39,
+   "start": 256.95,
+   "end": 262.65,
+   "text": "Some of the Pharisees in the crowd said to Jesus, \"Teacher, tell your followers to be quiet!\""
+  },
+  {
+   "verse": 40,
+   "start": 263.35,
+   "end": 268.06,
+   "text": "He answered, \"I tell you, if they keep quiet, the stones will cry out.\""
+  },
+  {
+   "verse": 41,
+   "start": 268.76,
+   "end": 272.2,
+   "text": "As he came near and saw the city, he wept over it"
+  },
+  {
+   "verse": 42,
+   "start": 272.9,
+   "end": 280.64,
+   "text": "and said, \"If you, even you, had known today what would bring you peace! But now it is hidden from your eyes."
+  },
+  {
+   "verse": 43,
+   "start": 281.34,
+   "end": 287.73,
+   "text": "The days will come when your enemies will build a wall against you, surround you, and close you in on every side."
+  },
+  {
+   "verse": 44,
+   "start": 288.43,
+   "end": 298.38,
+   "text": "They will throw you and your children to the ground. They will not leave one stone on another, because you did not recognise the time when God came to you.\""
+  },
+  {
+   "verse": 45,
+   "start": 299.08,
+   "end": 304.1,
+   "text": "Then Jesus entered the temple and began to drive out those who were buying and selling there."
+  },
+  {
+   "verse": 46,
+   "start": 304.8,
+   "end": 311.07,
+   "text": "He said, \"It is written, 'My house will be a house of prayer,' but you have made it a den of robbers.\""
+  },
+  {
+   "verse": 47,
+   "start": 311.77,
+   "end": 320.33,
+   "text": "Every day he was teaching in the temple. But the chief priests, the teachers of the law, and the leaders of the people were trying to kill him."
+  },
+  {
+   "verse": 48,
+   "start": 321.03,
+   "end": 325.88,
+   "text": "Yet they could not find a way to do it, because all the people were hanging on his words."
+  }
+ ]
+}

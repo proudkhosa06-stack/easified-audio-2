@@ -1,0 +1,491 @@
+{
+ "book": "Luke",
+ "chapter": 1,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-1.mp3",
+ "duration": 533.3,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.22,
+   "text": "Many people have tried to write an account of the things that have been fulfilled among us."
+  },
+  {
+   "verse": 2,
+   "start": 5.92,
+   "end": 11.32,
+   "text": "They wrote what we were told by people who saw these things from the start, and who served the word."
+  },
+  {
+   "verse": 3,
+   "start": 12.02,
+   "end": 20.69,
+   "text": "I have carefully looked into everything from the beginning. So I too thought it was good to write it down in order for you, most excellent Theophilus."
+  },
+  {
+   "verse": 4,
+   "start": 21.39,
+   "end": 25.72,
+   "text": "I have done this so that you can know for certain that the things you were taught are true."
+  },
+  {
+   "verse": 5,
+   "start": 26.42,
+   "end": 38.4,
+   "text": "In the time of Herod, king of Judea, there was a priest named Zacharias. He belonged to the priest group of Abijah. His wife was one of Aaron's descendants, and her name was Elizabeth."
+  },
+  {
+   "verse": 6,
+   "start": 39.1,
+   "end": 44.55,
+   "text": "They were both right with God. They kept all the Lord's commands and rules without blame."
+  },
+  {
+   "verse": 7,
+   "start": 45.25,
+   "end": 50.45,
+   "text": "But they had no child, because Elizabeth could not have children, and they were both very old."
+  },
+  {
+   "verse": 8,
+   "start": 51.15,
+   "end": 56.66,
+   "text": "One day Zacharias was serving as a priest before God, when his group's turn came."
+  },
+  {
+   "verse": 9,
+   "start": 57.36,
+   "end": 64.25,
+   "text": "As was the custom of the priests, he was chosen by lot to go into the Lord's temple and burn incense."
+  },
+  {
+   "verse": 10,
+   "start": 64.95,
+   "end": 69.19,
+   "text": "All the crowd of people were praying outside at the time when the incense was burned."
+  },
+  {
+   "verse": 11,
+   "start": 69.89,
+   "end": 75.37,
+   "text": "An angel of the Lord appeared to him, standing on the right side of the altar of incense."
+  },
+  {
+   "verse": 12,
+   "start": 76.07,
+   "end": 80.4,
+   "text": "When Zacharias saw him, he was troubled, and he was filled with fear."
+  },
+  {
+   "verse": 13,
+   "start": 81.1,
+   "end": 91.74,
+   "text": "But the angel said to him, \"Do not be afraid, Zacharias. Your prayer has been heard. Your wife Elizabeth will give birth to a son, and you are to name him John."
+  },
+  {
+   "verse": 14,
+   "start": 92.44,
+   "end": 97.71,
+   "text": "You will be full of joy and gladness, and many people will rejoice because he is born."
+  },
+  {
+   "verse": 15,
+   "start": 98.41,
+   "end": 108.24,
+   "text": "He will be great in the Lord's sight. He must never drink wine or any other strong drink. He will be filled with the Holy Spirit, even from his mother's womb."
+  },
+  {
+   "verse": 16,
+   "start": 108.94,
+   "end": 112.93,
+   "text": "He will turn many of the people of Israel back to the Lord their God."
+  },
+  {
+   "verse": 17,
+   "start": 113.63,
+   "end": 128.8,
+   "text": "He will go ahead of the Lord in the spirit and power of Elijah. He will turn the hearts of fathers back to their children, and he will turn those who disobey to the wisdom of those who do what is right. He will get a people ready for the Lord.\""
+  },
+  {
+   "verse": 18,
+   "start": 129.5,
+   "end": 136.32,
+   "text": "Zacharias said to the angel, \"How can I be sure of this? I am an old man, and my wife is very old too.\""
+  },
+  {
+   "verse": 19,
+   "start": 137.02,
+   "end": 145.52,
+   "text": "The angel answered, \"I am Gabriel. I stand in the presence of God. I was sent to speak to you and to bring you this good news."
+  },
+  {
+   "verse": 20,
+   "start": 146.22,
+   "end": 156.37,
+   "text": "Listen! You will be silent and unable to speak until the day these things happen. This is because you did not believe my words. They will come true at the right time.\""
+  },
+  {
+   "verse": 21,
+   "start": 157.07,
+   "end": 162.41,
+   "text": "The people were waiting for Zacharias, and they were amazed that he stayed so long in the temple."
+  },
+  {
+   "verse": 22,
+   "start": 163.11,
+   "end": 173.24,
+   "text": "When he came out, he could not speak to them. They realised that he had seen a vision in the temple. He kept making signs to them, and he stayed unable to speak."
+  },
+  {
+   "verse": 23,
+   "start": 173.94,
+   "end": 176.98,
+   "text": "When his days of service were over, he went home."
+  },
+  {
+   "verse": 24,
+   "start": 177.68,
+   "end": 182.87,
+   "text": "After this, his wife Elizabeth became pregnant. She stayed hidden for five months."
+  },
+  {
+   "verse": 25,
+   "start": 183.57,
+   "end": 192.12,
+   "text": "She said, \"The Lord has done this for me. In these days he has looked on me with kindness, and he has taken away my shame among the people.\""
+  },
+  {
+   "verse": 26,
+   "start": 192.82,
+   "end": 198.49,
+   "text": "In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth."
+  },
+  {
+   "verse": 27,
+   "start": 199.19,
+   "end": 207.25,
+   "text": "He went to a virgin who was promised in marriage to a man named Joseph, from the family of David. The virgin's name was Mary."
+  },
+  {
+   "verse": 28,
+   "start": 207.95,
+   "end": 216.36,
+   "text": "The angel came to her and said, \"Greetings, you who are highly favoured! The Lord is with you. You are blessed among women!\""
+  },
+  {
+   "verse": 29,
+   "start": 217.06,
+   "end": 223.31,
+   "text": "But when she saw him, she was very troubled by what he said, and she wondered what kind of greeting this could be."
+  },
+  {
+   "verse": 30,
+   "start": 224.01,
+   "end": 230.57,
+   "text": "The angel said to her, \"Do not be afraid, Mary. God has shown you his favour."
+  },
+  {
+   "verse": 31,
+   "start": 231.27,
+   "end": 236.77,
+   "text": "Listen! You will become pregnant and give birth to a son, and you are to name him Jesus."
+  },
+  {
+   "verse": 32,
+   "start": 237.47,
+   "end": 244.97,
+   "text": "He will be great, and he will be called the Son of the Most High. The Lord God will give him the throne of his father David."
+  },
+  {
+   "verse": 33,
+   "start": 245.67,
+   "end": 250.23,
+   "text": "He will rule over the family of Jacob for ever, and his kingdom will never end.\""
+  },
+  {
+   "verse": 34,
+   "start": 250.93,
+   "end": 254.6,
+   "text": "Mary said to the angel, \"How can this happen? I am a virgin.\""
+  },
+  {
+   "verse": 35,
+   "start": 255.3,
+   "end": 265.9,
+   "text": "The angel answered, \"The Holy Spirit will come upon you, and the power of the Most High will cover you. So the holy one who is born will be called the Son of God."
+  },
+  {
+   "verse": 36,
+   "start": 266.6,
+   "end": 277.02,
+   "text": "Listen! Your relative Elizabeth is also going to have a son, even though she is old. The one who was said to be unable to have children is now in her sixth month."
+  },
+  {
+   "verse": 37,
+   "start": 277.72,
+   "end": 279.88,
+   "text": "Nothing God says is impossible.\""
+  },
+  {
+   "verse": 38,
+   "start": 280.58,
+   "end": 288.84,
+   "text": "Mary said, \"I am the Lord's servant. Let it happen to me just as you have said.\" Then the angel left her."
+  },
+  {
+   "verse": 39,
+   "start": 289.54,
+   "end": 294.85,
+   "text": "Soon after this, Mary got ready and hurried to a town in the hill country of Judea."
+  },
+  {
+   "verse": 40,
+   "start": 295.55,
+   "end": 298.95,
+   "text": "She went into Zacharias's house and greeted Elizabeth."
+  },
+  {
+   "verse": 41,
+   "start": 299.65,
+   "end": 305.99,
+   "text": "When Elizabeth heard Mary's greeting, the baby jumped inside her, and Elizabeth was filled with the Holy Spirit."
+  },
+  {
+   "verse": 42,
+   "start": 306.69,
+   "end": 313.48,
+   "text": "She called out with a loud voice, \"You are blessed among women, and blessed is the child you will give birth to!"
+  },
+  {
+   "verse": 43,
+   "start": 314.18,
+   "end": 318.12,
+   "text": "Why am I so favoured, that the mother of my Lord should come to me?"
+  },
+  {
+   "verse": 44,
+   "start": 318.82,
+   "end": 324.02,
+   "text": "Listen! As soon as I heard your greeting, the baby inside me jumped for joy."
+  },
+  {
+   "verse": 45,
+   "start": 324.72,
+   "end": 329.7,
+   "text": "Blessed is she who believed, because what the Lord has said to her will come true!\""
+  },
+  {
+   "verse": 46,
+   "start": 330.4,
+   "end": 332.88,
+   "text": "Mary said, \"My soul praises the Lord."
+  },
+  {
+   "verse": 47,
+   "start": 333.58,
+   "end": 336.62,
+   "text": "My spirit rejoices in God my Saviour,"
+  },
+  {
+   "verse": 48,
+   "start": 337.32,
+   "end": 344.53,
+   "text": "because he has looked with care on me, his humble servant. Listen! From now on, all people will call me blessed."
+  },
+  {
+   "verse": 49,
+   "start": 345.23,
+   "end": 349.04,
+   "text": "The Mighty One has done great things for me. His name is holy."
+  },
+  {
+   "verse": 50,
+   "start": 349.74,
+   "end": 354.02,
+   "text": "He shows mercy to those who fear him, from one generation to the next."
+  },
+  {
+   "verse": 51,
+   "start": 354.72,
+   "end": 359.72,
+   "text": "He has shown the strength of his arm. He has scattered those who are proud in their hearts."
+  },
+  {
+   "verse": 52,
+   "start": 360.42,
+   "end": 365.34,
+   "text": "He has brought rulers down from their thrones, and he has lifted up those who are humble."
+  },
+  {
+   "verse": 53,
+   "start": 366.04,
+   "end": 371.1,
+   "text": "He has filled the hungry with good things, and he has sent the rich away with nothing."
+  },
+  {
+   "verse": 54,
+   "start": 371.8,
+   "end": 376.17,
+   "text": "He has helped Israel, his servant, because he remembered to show mercy,"
+  },
+  {
+   "verse": 55,
+   "start": 376.87,
+   "end": 381.32,
+   "text": "just as he promised our fathers, to Abraham and his descendants for ever.\""
+  },
+  {
+   "verse": 56,
+   "start": 382.02,
+   "end": 386.67,
+   "text": "Mary stayed with Elizabeth for about three months, and then she went back home."
+  },
+  {
+   "verse": 57,
+   "start": 387.37,
+   "end": 391.43,
+   "text": "When the time came for Elizabeth to give birth, she had a son."
+  },
+  {
+   "verse": 58,
+   "start": 392.13,
+   "end": 397.71,
+   "text": "Her neighbours and relatives heard that the Lord had shown her great mercy, and they rejoiced with her."
+  },
+  {
+   "verse": 59,
+   "start": 398.41,
+   "end": 405.35,
+   "text": "On the eighth day they came to circumcise the child. They were going to name him Zacharias, after his father."
+  },
+  {
+   "verse": 60,
+   "start": 406.05,
+   "end": 409.53,
+   "text": "But his mother said, \"No. He is to be called John.\""
+  },
+  {
+   "verse": 61,
+   "start": 410.23,
+   "end": 413.68,
+   "text": "They said to her, \"None of your relatives has that name.\""
+  },
+  {
+   "verse": 62,
+   "start": 414.38,
+   "end": 419.09,
+   "text": "Then they made signs to his father, to ask what he wanted the child to be called."
+  },
+  {
+   "verse": 63,
+   "start": 419.79,
+   "end": 424.62,
+   "text": "He asked for a writing tablet and wrote, \"His name is John.\" They were all amazed."
+  },
+  {
+   "verse": 64,
+   "start": 425.32,
+   "end": 431.31,
+   "text": "Straight away his mouth was opened and his tongue was set free, and he began to speak, praising God."
+  },
+  {
+   "verse": 65,
+   "start": 432.01,
+   "end": 439.15,
+   "text": "All their neighbours were filled with fear, and people talked about all these things throughout the hill country of Judea."
+  },
+  {
+   "verse": 66,
+   "start": 439.85,
+   "end": 448.51,
+   "text": "Everyone who heard kept these things in their hearts. They said, \"What will this child turn out to be?\" The Lord's hand was with him."
+  },
+  {
+   "verse": 67,
+   "start": 449.21,
+   "end": 454.82,
+   "text": "His father Zacharias was filled with the Holy Spirit and spoke God's message. He said,"
+  },
+  {
+   "verse": 68,
+   "start": 455.52,
+   "end": 461.23,
+   "text": "\"Praise the Lord, the God of Israel, because he has come to his people and set them free."
+  },
+  {
+   "verse": 69,
+   "start": 461.93,
+   "end": 466.22,
+   "text": "He has raised up a mighty Saviour for us from the family of his servant David,"
+  },
+  {
+   "verse": 70,
+   "start": 466.92,
+   "end": 470.12,
+   "text": "just as he promised long ago through his holy prophets."
+  },
+  {
+   "verse": 71,
+   "start": 470.82,
+   "end": 475.17,
+   "text": "He promised to save us from our enemies and from the hand of all who hate us."
+  },
+  {
+   "verse": 72,
+   "start": 475.87,
+   "end": 480.18,
+   "text": "He promised to show mercy to our fathers and to remember his holy covenant,"
+  },
+  {
+   "verse": 73,
+   "start": 480.88,
+   "end": 484.08,
+   "text": "the promise he made with an oath to our father Abraham."
+  },
+  {
+   "verse": 74,
+   "start": 484.78,
+   "end": 490.22,
+   "text": "He promised to save us from the hand of our enemies, so that we could serve him without fear,"
+  },
+  {
+   "verse": 75,
+   "start": 490.92,
+   "end": 495.79,
+   "text": "in holiness and in what is right before him, all the days of our life."
+  },
+  {
+   "verse": 76,
+   "start": 496.49,
+   "end": 503.62,
+   "text": "And you, child, will be called a prophet of the Most High. You will go ahead of the Lord to prepare his ways."
+  },
+  {
+   "verse": 77,
+   "start": 504.32,
+   "end": 509.57,
+   "text": "You will tell his people how they can be saved, through the forgiveness of their sins."
+  },
+  {
+   "verse": 78,
+   "start": 510.27,
+   "end": 516.92,
+   "text": "This is because of the tender mercy of our God. Because of that mercy, the dawn from heaven will come to us,"
+  },
+  {
+   "verse": 79,
+   "start": 517.62,
+   "end": 525.23,
+   "text": "to shine on those who sit in darkness and in the shadow of death, and to guide our feet into the way of peace.\""
+  },
+  {
+   "verse": 80,
+   "start": 525.93,
+   "end": 532.24,
+   "text": "The child grew and became strong in spirit. He lived in the desert until the day he was shown to Israel."
+  }
+ ]
+}

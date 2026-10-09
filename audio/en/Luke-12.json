@@ -1,0 +1,365 @@
+{
+ "book": "Luke",
+ "chapter": 12,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-12.mp3",
+ "duration": 471.1,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 15.98,
+   "text": "Meanwhile, a crowd of many thousands had gathered, so many that they were trampling on one another. Jesus began to speak first to his followers. \"Watch out for the yeast of the Pharisees,\" he said. \"That yeast is pretending to be good."
+  },
+  {
+   "verse": 2,
+   "start": 16.68,
+   "end": 22.65,
+   "text": "Nothing is covered up that will not be uncovered, and nothing is hidden that will not be made known."
+  },
+  {
+   "verse": 3,
+   "start": 23.35,
+   "end": 31.96,
+   "text": "So whatever you have said in the dark will be heard in the light. And what you have whispered in inner rooms will be shouted from the rooftops."
+  },
+  {
+   "verse": 4,
+   "start": 32.66,
+   "end": 39.09,
+   "text": "I tell you, my friends, do not be afraid of those who kill the body and after that can do nothing more."
+  },
+  {
+   "verse": 5,
+   "start": 39.79,
+   "end": 51.07,
+   "text": "But I will show you the one you should fear. Fear the one who, after killing you, has power to throw you into hell. Yes, I tell you, fear him."
+  },
+  {
+   "verse": 6,
+   "start": 51.77,
+   "end": 58.09,
+   "text": "Are not five sparrows sold for two small coins? Yet God does not forget even one of them."
+  },
+  {
+   "verse": 7,
+   "start": 58.79,
+   "end": 65.06,
+   "text": "Even the hairs of your head are all counted. So do not be afraid. You are worth more than many sparrows."
+  },
+  {
+   "verse": 8,
+   "start": 65.76,
+   "end": 75.08,
+   "text": "I tell you, whoever says in front of people that they belong to me, the Son of Man will also say that they belong to him in front of the angels of God."
+  },
+  {
+   "verse": 9,
+   "start": 75.78,
+   "end": 80.95,
+   "text": "But whoever denies me in front of people will be denied in front of the angels of God."
+  },
+  {
+   "verse": 10,
+   "start": 81.65,
+   "end": 89.91,
+   "text": "Everyone who speaks a word against the Son of Man will be forgiven. But anyone who speaks evil against the Holy Spirit will not be forgiven."
+  },
+  {
+   "verse": 11,
+   "start": 90.61,
+   "end": 97.85,
+   "text": "When they bring you before synagogues, rulers, and authorities, do not worry about how you will defend yourselves or what you will say."
+  },
+  {
+   "verse": 12,
+   "start": 98.55,
+   "end": 102.15,
+   "text": "The Holy Spirit will teach you at that time what you should say.\""
+  },
+  {
+   "verse": 13,
+   "start": 102.85,
+   "end": 108.69,
+   "text": "Someone in the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\""
+  },
+  {
+   "verse": 14,
+   "start": 109.39,
+   "end": 114.15,
+   "text": "Jesus replied, \"Friend, who made me a judge or a divider over you?\""
+  },
+  {
+   "verse": 15,
+   "start": 114.85,
+   "end": 122.92,
+   "text": "Then he said to them, \"Watch out! Guard yourselves against every kind of greed. Life is not made up of how many things you own.\""
+  },
+  {
+   "verse": 16,
+   "start": 123.62,
+   "end": 128.96,
+   "text": "And he told them this story. \"The ground of a rich man produced a very large crop."
+  },
+  {
+   "verse": 17,
+   "start": 129.66,
+   "end": 134.53,
+   "text": "He thought to himself, 'What shall I do? I do not have anywhere to store my crops.'"
+  },
+  {
+   "verse": 18,
+   "start": 135.23,
+   "end": 145.12,
+   "text": "Then he said, 'This is what I will do. I will tear down my barns and build bigger ones, and there I will store all my grain and my goods."
+  },
+  {
+   "verse": 19,
+   "start": 145.82,
+   "end": 154.38,
+   "text": "And I will say to myself, \"You have plenty of good things stored up for many years. Take it easy. Eat, drink, and enjoy yourself.\"'"
+  },
+  {
+   "verse": 20,
+   "start": 155.08,
+   "end": 163.37,
+   "text": "But God said to him, 'You fool! This very night your life will be demanded from you. Then who will get the things you have prepared?'"
+  },
+  {
+   "verse": 21,
+   "start": 164.07,
+   "end": 169.72,
+   "text": "This is how it will be for anyone who stores up things for themselves but is not rich towards God.\""
+  },
+  {
+   "verse": 22,
+   "start": 170.42,
+   "end": 179.26,
+   "text": "Then Jesus said to his followers, \"So I tell you, do not worry about your life, what you will eat, or about your body, what you will wear."
+  },
+  {
+   "verse": 23,
+   "start": 179.96,
+   "end": 183.52,
+   "text": "Life is more than food, and the body is more than clothes."
+  },
+  {
+   "verse": 24,
+   "start": 184.22,
+   "end": 194.22,
+   "text": "Think about the ravens. They do not sow or reap. They have no storeroom or barn, and God feeds them. How much more are you worth than birds!"
+  },
+  {
+   "verse": 25,
+   "start": 194.92,
+   "end": 198.62,
+   "text": "Which of you, by worrying, can add even a little to your height?"
+  },
+  {
+   "verse": 26,
+   "start": 199.32,
+   "end": 203.93,
+   "text": "If you cannot do even that small thing, why do you worry about the rest?"
+  },
+  {
+   "verse": 27,
+   "start": 204.63,
+   "end": 214.13,
+   "text": "Think about the lilies, how they grow. They do not work or spin cloth. Yet I tell you, not even Solomon in all his glory was dressed like one of these."
+  },
+  {
+   "verse": 28,
+   "start": 214.83,
+   "end": 226.76,
+   "text": "If that is how God clothes the grass in the field, which is here today and tomorrow is thrown into the fire, how much more will he clothe you, you who have so little faith!"
+  },
+  {
+   "verse": 29,
+   "start": 227.46,
+   "end": 231.69,
+   "text": "Do not keep looking for what you will eat or drink, and do not worry."
+  },
+  {
+   "verse": 30,
+   "start": 232.39,
+   "end": 238.38,
+   "text": "The nations of the world run after all these things, but your Father knows that you need them."
+  },
+  {
+   "verse": 31,
+   "start": 239.08,
+   "end": 244.12,
+   "text": "Instead, seek his kingdom, and these things will be given to you as well."
+  },
+  {
+   "verse": 32,
+   "start": 244.82,
+   "end": 249.88,
+   "text": "Do not be afraid, little flock, because your Father is pleased to give you the kingdom."
+  },
+  {
+   "verse": 33,
+   "start": 250.58,
+   "end": 262.74,
+   "text": "Sell what you have and give to the poor. Make purses for yourselves that will not wear out, a treasure in heaven that will never fail, where no thief comes near and no moth destroys."
+  },
+  {
+   "verse": 34,
+   "start": 263.44,
+   "end": 266.93,
+   "text": "For where your treasure is, there your heart will be also."
+  },
+  {
+   "verse": 35,
+   "start": 267.63,
+   "end": 270.42,
+   "text": "Be dressed and ready, and keep your lamps burning."
+  },
+  {
+   "verse": 36,
+   "start": 271.12,
+   "end": 280.23,
+   "text": "Be like servants waiting for their master to come back from a wedding feast, so that when he comes and knocks they can open the door for him at once."
+  },
+  {
+   "verse": 37,
+   "start": 280.93,
+   "end": 292.46,
+   "text": "Blessed are those servants whose master finds them watching when he comes. I tell you for certain, he will dress himself to serve, have them sit down to eat, and he will come and serve them."
+  },
+  {
+   "verse": 38,
+   "start": 293.16,
+   "end": 298.54,
+   "text": "They will be blessed if he comes in the middle of the night, or near morning, and finds them ready."
+  },
+  {
+   "verse": 39,
+   "start": 299.24,
+   "end": 307.77,
+   "text": "But understand this. If the owner of the house had known what time the thief was coming, he would have kept watch and not let his house be broken into."
+  },
+  {
+   "verse": 40,
+   "start": 308.47,
+   "end": 314.89,
+   "text": "You also must be ready, because the Son of Man will come at an hour when you do not expect him.\""
+  },
+  {
+   "verse": 41,
+   "start": 315.59,
+   "end": 320.09,
+   "text": "Peter asked, \"Lord, are you telling this story to us, or to everyone?\""
+  },
+  {
+   "verse": 42,
+   "start": 320.79,
+   "end": 330.22,
+   "text": "The Lord answered, \"Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their food at the right time?"
+  },
+  {
+   "verse": 43,
+   "start": 330.92,
+   "end": 334.83,
+   "text": "Blessed is that servant whose master finds him doing this when he comes."
+  },
+  {
+   "verse": 44,
+   "start": 335.53,
+   "end": 339.6,
+   "text": "I tell you the truth, he will put him in charge of everything he owns."
+  },
+  {
+   "verse": 45,
+   "start": 340.3,
+   "end": 351.21,
+   "text": "But suppose that servant says to himself, 'My master is taking a long time to come,' and he begins to beat the men and women servants, and to eat and drink and get drunk."
+  },
+  {
+   "verse": 46,
+   "start": 351.91,
+   "end": 362.6,
+   "text": "The master of that servant will come on a day he does not expect and at an hour he does not know. He will cut him in pieces and give him a place with those who are unfaithful."
+  },
+  {
+   "verse": 47,
+   "start": 363.3,
+   "end": 370.39,
+   "text": "The servant who knew his master's will but did not get ready or do what the master wanted will be beaten with many blows."
+  },
+  {
+   "verse": 48,
+   "start": 371.09,
+   "end": 385.84,
+   "text": "But the one who did not know, and did things that deserved a beating, will be beaten with few blows. Much will be required from everyone who has been given much. And even more will be asked from the one who was trusted with much."
+  },
+  {
+   "verse": 49,
+   "start": 386.54,
+   "end": 390.87,
+   "text": "I have come to bring fire on the earth, and how I wish it were already burning!"
+  },
+  {
+   "verse": 50,
+   "start": 391.57,
+   "end": 396.42,
+   "text": "But I have a baptism to go through, and how hard it is for me until it is finished!"
+  },
+  {
+   "verse": 51,
+   "start": 397.12,
+   "end": 402.85,
+   "text": "Do you think I came to bring peace on earth? No, I tell you, I came to bring division."
+  },
+  {
+   "verse": 52,
+   "start": 403.55,
+   "end": 409.81,
+   "text": "From now on there will be five people in one house, divided, three against two and two against three."
+  },
+  {
+   "verse": 53,
+   "start": 410.51,
+   "end": 422.61,
+   "text": "They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.\""
+  },
+  {
+   "verse": 54,
+   "start": 423.31,
+   "end": 432.5,
+   "text": "He also said to the crowds, \"When you see a cloud rising in the west, you say at once, 'A shower is coming,' and it does."
+  },
+  {
+   "verse": 55,
+   "start": 433.2,
+   "end": 438.58,
+   "text": "And when the south wind blows, you say, 'It will be scorching hot,' and it is."
+  },
+  {
+   "verse": 56,
+   "start": 439.28,
+   "end": 446.14,
+   "text": "You hypocrites! You know how to read the look of the earth and the sky. Why can you not read this present time?"
+  },
+  {
+   "verse": 57,
+   "start": 446.84,
+   "end": 449.45,
+   "text": "Why do you not judge for yourselves what is right?"
+  },
+  {
+   "verse": 58,
+   "start": 450.15,
+   "end": 464.61,
+   "text": "When you are on the way to court with someone who has a claim against you, try hard to settle with them before you get there. Otherwise they may drag you to the judge, and the judge hand you over to the officer, and the officer throw you into prison."
+  },
+  {
+   "verse": 59,
+   "start": 465.31,
+   "end": 470.04,
+   "text": "I tell you, you will not get out until you have paid the very last penny.\""
+  }
+ ]
+}

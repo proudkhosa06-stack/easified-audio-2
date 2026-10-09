@@ -1,0 +1,311 @@
+{
+ "book": "Luke",
+ "chapter": 7,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-7.mp3",
+ "duration": 406.68,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.61,
+   "text": "When Jesus had finished saying all this to the people, he went into Capernaum."
+  },
+  {
+   "verse": 2,
+   "start": 5.31,
+   "end": 12.91,
+   "text": "A Roman army officer had a servant who was very dear to him. The servant was sick and about to die."
+  },
+  {
+   "verse": 3,
+   "start": 13.61,
+   "end": 19.87,
+   "text": "When the officer heard about Jesus, he sent some Jewish elders to him, asking him to come and heal his servant."
+  },
+  {
+   "verse": 4,
+   "start": 20.57,
+   "end": 25.73,
+   "text": "They came to Jesus and begged him earnestly. \"This man deserves your help,\" they said,"
+  },
+  {
+   "verse": 5,
+   "start": 26.43,
+   "end": 30.72,
+   "text": "\"because he loves our nation, and he built our synagogue for us.\""
+  },
+  {
+   "verse": 6,
+   "start": 31.42,
+   "end": 42.91,
+   "text": "So Jesus went with them. When he was not far from the house, the officer sent friends to say to him, \"Lord, do not trouble yourself. I am not worthy to have you come under my roof."
+  },
+  {
+   "verse": 7,
+   "start": 43.61,
+   "end": 50.2,
+   "text": "That is why I did not even think I was worthy to come to you. But just say the word, and my servant will be healed."
+  },
+  {
+   "verse": 8,
+   "start": 50.9,
+   "end": 63.11,
+   "text": "I too am a man under authority, and I have soldiers under me. I tell this one, 'Go,' and he goes. I tell another, 'Come,' and he comes. I tell my servant, 'Do this,' and he does it.\""
+  },
+  {
+   "verse": 9,
+   "start": 63.81,
+   "end": 74.43,
+   "text": "When Jesus heard this, he was amazed at the man. He turned to the crowd following him and said, \"I tell you, I have not found faith like this anywhere in Israel.\""
+  },
+  {
+   "verse": 10,
+   "start": 75.13,
+   "end": 79.08,
+   "text": "When the messengers returned to the house, they found the servant well."
+  },
+  {
+   "verse": 11,
+   "start": 79.78,
+   "end": 86.29,
+   "text": "Soon after this, Jesus went to a town called Nain. His followers and a large crowd went with him."
+  },
+  {
+   "verse": 12,
+   "start": 86.99,
+   "end": 97.83,
+   "text": "As he came near the town gate, a dead man was being carried out. He was his mother's only son, and she was a widow. A large crowd from the town was with her."
+  },
+  {
+   "verse": 13,
+   "start": 98.53,
+   "end": 103.79,
+   "text": "When the Lord saw her, he felt deep pity for her and said, \"Do not cry.\""
+  },
+  {
+   "verse": 14,
+   "start": 104.49,
+   "end": 111.81,
+   "text": "He went up and touched the stretcher, and the people carrying it stood still. He said, \"Young man, I tell you, get up!\""
+  },
+  {
+   "verse": 15,
+   "start": 112.51,
+   "end": 117.54,
+   "text": "The dead man sat up and began to speak, and Jesus gave him back to his mother."
+  },
+  {
+   "verse": 16,
+   "start": 118.24,
+   "end": 127.89,
+   "text": "Everyone was filled with fear and gave glory to God. They said, \"A great prophet has appeared among us!\" and, \"God has come to help his people!\""
+  },
+  {
+   "verse": 17,
+   "start": 128.59,
+   "end": 133.58,
+   "text": "This news about Jesus spread through the whole of Judea and all the area around it."
+  },
+  {
+   "verse": 18,
+   "start": 134.28,
+   "end": 137.01,
+   "text": "John's followers told him about all these things."
+  },
+  {
+   "verse": 19,
+   "start": 137.71,
+   "end": 144.81,
+   "text": "John called two of his followers and sent them to the Lord to ask, \"Are you the one who is coming, or should we look for someone else?\""
+  },
+  {
+   "verse": 20,
+   "start": 145.51,
+   "end": 154.1,
+   "text": "When the men came to Jesus, they said, \"John the Baptist sent us to ask you, 'Are you the one who is coming, or should we look for someone else?'\""
+  },
+  {
+   "verse": 21,
+   "start": 154.8,
+   "end": 163.55,
+   "text": "At that very time Jesus healed many people of diseases, sicknesses, and evil spirits, and he gave sight to many who were blind."
+  },
+  {
+   "verse": 22,
+   "start": 164.25,
+   "end": 180.15,
+   "text": "Then he answered, \"Go and tell John what you have seen and heard. The blind see, those who could not walk now walk, people with skin diseases are made clean, the deaf hear, the dead are raised, and the good news is preached to the poor."
+  },
+  {
+   "verse": 23,
+   "start": 180.85,
+   "end": 183.83,
+   "text": "Blessed is anyone who does not turn away because of me.\""
+  },
+  {
+   "verse": 24,
+   "start": 184.53,
+   "end": 197.63,
+   "text": "When John's messengers had left, Jesus began to speak to the crowds about John. \"What did you go out into the desert to see? A reed shaken by the wind?"
+  },
+  {
+   "verse": 25,
+   "start": 198.33,
+   "end": 209.59,
+   "text": "If not, what did you go out to see? A man dressed in fine clothes? No. Those who wear splendid clothes and live in luxury are in kings' palaces."
+  },
+  {
+   "verse": 26,
+   "start": 210.29,
+   "end": 216.24,
+   "text": "What did you go out to see, then? A prophet? Yes, I tell you, and much more than a prophet."
+  },
+  {
+   "verse": 27,
+   "start": 216.94,
+   "end": 225.51,
+   "text": "This is the one about whom it is written, 'Look, I am sending my messenger ahead of you. He will get your road ready before you.'"
+  },
+  {
+   "verse": 28,
+   "start": 226.21,
+   "end": 236.41,
+   "text": "I tell you, among everyone born of women there is no greater prophet than John the Baptist. Yet the least person in the kingdom of God is greater than he is.\""
+  },
+  {
+   "verse": 29,
+   "start": 237.11,
+   "end": 246.66,
+   "text": "All the people who heard this, including the tax collectors, agreed that God's way was right, because they had been baptised by John."
+  },
+  {
+   "verse": 30,
+   "start": 247.36,
+   "end": 255.3,
+   "text": "But the Pharisees and the experts in the law rejected God's plan for them, because they had not been baptised by John."
+  },
+  {
+   "verse": 31,
+   "start": 256.0,
+   "end": 259.53,
+   "text": "\"What can I compare the people of today with? What are they like?"
+  },
+  {
+   "verse": 32,
+   "start": 260.23,
+   "end": 271.21,
+   "text": "They are like children sitting in the market place and calling to each other, 'We played music for you, and you did not dance. We sang a sad song, and you did not cry.'"
+  },
+  {
+   "verse": 33,
+   "start": 271.91,
+   "end": 277.95,
+   "text": "John the Baptist came, not eating bread and not drinking wine, and you say, 'He has a demon.'"
+  },
+  {
+   "verse": 34,
+   "start": 278.65,
+   "end": 288.2,
+   "text": "The Son of Man came eating and drinking, and you say, 'Look at this man! He eats too much and drinks too much, and he is a friend of tax collectors and sinners!'"
+  },
+  {
+   "verse": 35,
+   "start": 288.9,
+   "end": 291.53,
+   "text": "But wisdom is proved right by all her children.\""
+  },
+  {
+   "verse": 36,
+   "start": 292.23,
+   "end": 299.04,
+   "text": "One of the Pharisees invited Jesus to eat with him. Jesus went into the Pharisee's house and sat down at the table."
+  },
+  {
+   "verse": 37,
+   "start": 299.74,
+   "end": 308.72,
+   "text": "A woman in that town who was a sinner heard that Jesus was eating at the Pharisee's house. She brought an alabaster jar of perfume."
+  },
+  {
+   "verse": 38,
+   "start": 309.42,
+   "end": 319.74,
+   "text": "She stood behind him at his feet, crying. She began to wet his feet with her tears, and she wiped them with her hair. She kissed his feet and poured the perfume on them."
+  },
+  {
+   "verse": 39,
+   "start": 320.44,
+   "end": 331.31,
+   "text": "When the Pharisee who had invited him saw this, he said to himself, \"If this man were a prophet, he would know who is touching him and what kind of woman she is. She is a sinner.\""
+  },
+  {
+   "verse": 40,
+   "start": 332.01,
+   "end": 338.32,
+   "text": "Jesus said to him, \"Simon, I have something to tell you.\" \"Teacher, say it,\" he replied."
+  },
+  {
+   "verse": 41,
+   "start": 339.02,
+   "end": 344.95,
+   "text": "\"Two people owed money to a lender. One owed five hundred denarii, and the other owed fifty."
+  },
+  {
+   "verse": 42,
+   "start": 345.65,
+   "end": 351.19,
+   "text": "Neither of them could pay him back, so he forgave both debts. Which of them will love him more?\""
+  },
+  {
+   "verse": 43,
+   "start": 351.89,
+   "end": 358.72,
+   "text": "Simon answered, \"I suppose the one who was forgiven more.\" Jesus said, \"You have judged correctly.\""
+  },
+  {
+   "verse": 44,
+   "start": 359.42,
+   "end": 372.01,
+   "text": "Then he turned towards the woman and said to Simon, \"Do you see this woman? I came into your house, and you gave me no water for my feet. But she has wet my feet with her tears and wiped them with her hair."
+  },
+  {
+   "verse": 45,
+   "start": 372.71,
+   "end": 377.89,
+   "text": "You gave me no kiss, but from the time I came in she has not stopped kissing my feet."
+  },
+  {
+   "verse": 46,
+   "start": 378.59,
+   "end": 383.13,
+   "text": "You did not put oil on my head, but she has poured perfume on my feet."
+  },
+  {
+   "verse": 47,
+   "start": 383.83,
+   "end": 391.65,
+   "text": "So I tell you, her many sins have been forgiven, because she loved much. But whoever has been forgiven little loves little.\""
+  },
+  {
+   "verse": 48,
+   "start": 392.35,
+   "end": 395.07,
+   "text": "Then Jesus said to her, \"Your sins are forgiven.\""
+  },
+  {
+   "verse": 49,
+   "start": 395.77,
+   "end": 400.94,
+   "text": "The other guests began to say among themselves, \"Who is this who even forgives sins?\""
+  },
+  {
+   "verse": 50,
+   "start": 401.64,
+   "end": 405.61,
+   "text": "Jesus said to the woman, \"Your faith has saved you. Go in peace.\""
+  }
+ ]
+}

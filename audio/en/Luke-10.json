@@ -1,0 +1,263 @@
+{
+ "book": "Luke",
+ "chapter": 10,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Luke-10.mp3",
+ "duration": 332.62,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.69,
+   "text": "After this, the Lord appointed seventy others and sent them out two by two ahead of him, to every town and place he was about to go."
+  },
+  {
+   "verse": 2,
+   "start": 9.39,
+   "end": 18.13,
+   "text": "He said to them, \"The harvest is large, but the workers are few. So pray to the Lord of the harvest to send out workers into his harvest."
+  },
+  {
+   "verse": 3,
+   "start": 18.83,
+   "end": 22.51,
+   "text": "Go. I am sending you out like lambs among wolves."
+  },
+  {
+   "verse": 4,
+   "start": 23.21,
+   "end": 29.19,
+   "text": "Do not carry a money bag, a bag, or sandals. Do not stop to greet anyone on the road."
+  },
+  {
+   "verse": 5,
+   "start": 29.89,
+   "end": 33.76,
+   "text": "When you enter a house, first say, 'Peace to this house.'"
+  },
+  {
+   "verse": 6,
+   "start": 34.46,
+   "end": 41.08,
+   "text": "If someone who wants peace is there, your peace will rest on them. If not, it will come back to you."
+  },
+  {
+   "verse": 7,
+   "start": 41.78,
+   "end": 49.82,
+   "text": "Stay in that same house. Eat and drink what they give you, because a worker deserves to be paid. Do not move from house to house."
+  },
+  {
+   "verse": 8,
+   "start": 50.52,
+   "end": 55.62,
+   "text": "When you enter a town and the people welcome you, eat what is set before you."
+  },
+  {
+   "verse": 9,
+   "start": 56.32,
+   "end": 61.75,
+   "text": "Heal the sick who are there, and tell them, 'The kingdom of God has come near to you.'"
+  },
+  {
+   "verse": 10,
+   "start": 62.45,
+   "end": 68.11,
+   "text": "But when you enter a town and the people do not welcome you, go out into its streets and say,"
+  },
+  {
+   "verse": 11,
+   "start": 68.81,
+   "end": 77.94,
+   "text": "'We wipe off even the dust of your town that sticks to our feet, as a warning against you. But know this: the kingdom of God has come near to you.'"
+  },
+  {
+   "verse": 12,
+   "start": 78.64,
+   "end": 83.04,
+   "text": "I tell you, on that day it will be easier for Sodom than for that town."
+  },
+  {
+   "verse": 13,
+   "start": 83.74,
+   "end": 97.39,
+   "text": "How terrible for you, Chorazin! How terrible for you, Bethsaida! If the powerful works done in you had been done in Tyre and Sidon, they would have turned from their sins long ago, sitting in rough cloth and ashes."
+  },
+  {
+   "verse": 14,
+   "start": 98.09,
+   "end": 102.79,
+   "text": "But at the judgement it will be easier for Tyre and Sidon than for you."
+  },
+  {
+   "verse": 15,
+   "start": 103.49,
+   "end": 110.1,
+   "text": "And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to the place of the dead."
+  },
+  {
+   "verse": 16,
+   "start": 110.8,
+   "end": 119.18,
+   "text": "Whoever listens to you listens to me. Whoever rejects you rejects me. And whoever rejects me rejects the one who sent me.\""
+  },
+  {
+   "verse": 17,
+   "start": 119.88,
+   "end": 124.81,
+   "text": "The seventy returned with joy. They said, \"Lord, even the demons obey us in your name!\""
+  },
+  {
+   "verse": 18,
+   "start": 125.51,
+   "end": 129.18,
+   "text": "He said to them, \"I saw Satan fall like lightning from heaven."
+  },
+  {
+   "verse": 19,
+   "start": 129.88,
+   "end": 139.71,
+   "text": "Listen! I have given you authority to tread on snakes and scorpions, and authority over all the power of the enemy. Nothing will harm you at all."
+  },
+  {
+   "verse": 20,
+   "start": 140.41,
+   "end": 145.77,
+   "text": "But do not rejoice that the spirits obey you. Rejoice that your names are written in heaven.\""
+  },
+  {
+   "verse": 21,
+   "start": 146.47,
+   "end": 161.53,
+   "text": "At that same time Jesus was filled with joy through the Holy Spirit, and he said, \"I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and clever, and shown them to little children. Yes, Father, this pleased you."
+  },
+  {
+   "verse": 22,
+   "start": 162.23,
+   "end": 177.16,
+   "text": "Then he turned to his followers and said, \"Everything has been handed over to me by my Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son, and those to whom the Son chooses to show him.\""
+  },
+  {
+   "verse": 23,
+   "start": 177.86,
+   "end": 183.31,
+   "text": "Then he turned to his followers and said privately, \"Blessed are the eyes that see what you see."
+  },
+  {
+   "verse": 24,
+   "start": 184.01,
+   "end": 193.8,
+   "text": "I tell you, many prophets and kings wanted to see what you see, but they did not see it, and to hear what you hear, but they did not hear it.\""
+  },
+  {
+   "verse": 25,
+   "start": 194.5,
+   "end": 202.33,
+   "text": "An expert in the law stood up to test Jesus. \"Teacher,\" he asked, \"what must I do to receive eternal life?\""
+  },
+  {
+   "verse": 26,
+   "start": 203.03,
+   "end": 206.79,
+   "text": "Jesus said, \"What is written in the Law? How do you read it?\""
+  },
+  {
+   "verse": 27,
+   "start": 207.49,
+   "end": 216.48,
+   "text": "He answered, \"Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind, and love your neighbour as yourself.\""
+  },
+  {
+   "verse": 28,
+   "start": 217.18,
+   "end": 221.7,
+   "text": "\"You have answered correctly,\" Jesus said. \"Do this and you will live.\""
+  },
+  {
+   "verse": 29,
+   "start": 222.4,
+   "end": 228.54,
+   "text": "But the man wanted to show that he was in the right, so he asked Jesus, \"And who is my neighbour?\""
+  },
+  {
+   "verse": 30,
+   "start": 229.24,
+   "end": 240.67,
+   "text": "Jesus replied, \"A man was going down from Jerusalem to Jericho. He fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead."
+  },
+  {
+   "verse": 31,
+   "start": 241.37,
+   "end": 247.25,
+   "text": "By chance a priest was going down the same road. When he saw the man, he passed by on the other side."
+  },
+  {
+   "verse": 32,
+   "start": 247.95,
+   "end": 253.29,
+   "text": "In the same way a Levite came to the place, saw him, and passed by on the other side."
+  },
+  {
+   "verse": 33,
+   "start": 253.99,
+   "end": 259.49,
+   "text": "But a Samaritan who was travelling came to where the man was. When he saw him, he felt deep pity."
+  },
+  {
+   "verse": 34,
+   "start": 260.19,
+   "end": 269.64,
+   "text": "He went to him, bandaged his wounds, and poured on oil and wine. Then he put the man on his own animal, brought him to an inn, and took care of him."
+  },
+  {
+   "verse": 35,
+   "start": 270.34,
+   "end": 280.05,
+   "text": "The next day he took out two denarii, gave them to the innkeeper, and said, 'Look after him. When I come back, I will pay you for anything extra you spend.'"
+  },
+  {
+   "verse": 36,
+   "start": 280.75,
+   "end": 286.02,
+   "text": "Which of these three do you think was a neighbour to the man who fell into the hands of the robbers?\""
+  },
+  {
+   "verse": 37,
+   "start": 286.72,
+   "end": 293.58,
+   "text": "The expert in the law replied, \"The one who showed him mercy.\" Jesus said, \"Go and do the same.\""
+  },
+  {
+   "verse": 38,
+   "start": 294.28,
+   "end": 300.11,
+   "text": "As they travelled on, Jesus came to a village where a woman named Martha welcomed him into her home."
+  },
+  {
+   "verse": 39,
+   "start": 300.81,
+   "end": 306.09,
+   "text": "She had a sister called Mary, who sat at the Lord's feet and listened to his word."
+  },
+  {
+   "verse": 40,
+   "start": 306.79,
+   "end": 318.64,
+   "text": "But Martha was distracted by all the work she had to do. She came to him and said, \"Lord, do you not care that my sister has left me to do the work by myself? Tell her to help me.\""
+  },
+  {
+   "verse": 41,
+   "start": 319.34,
+   "end": 324.44,
+   "text": "The Lord answered, \"Martha, Martha, you are worried and upset about many things."
+  },
+  {
+   "verse": 42,
+   "start": 325.14,
+   "end": 331.55,
+   "text": "But only one thing is needed. Mary has chosen what is better, and it will not be taken away from her.\""
+  }
+ ]
+}
