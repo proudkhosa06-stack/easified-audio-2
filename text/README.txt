@@ -1,7 +1,7 @@
 easified.json - drop-in replacement for public/bible/easified.json in the easifiedbible app.
 Same format as the app's file: {"books": {"Gen": [[verse1, verse2, ...], ...], ...}}.
 Contains Ntsako's Easified text (the exact words read in the audio) for:
-  Genesis 1-50, Psalm 23, Matthew 1-28, Mark 1-16, Luke 1-24, John 1-21, Acts 1-28, Romans 1-16, 1 Corinthians 1-16, 2 Corinthians 1-13, Galatians 1-6, Ephesians 1-6  (225 chapters, 7,752 verses)
+  Genesis 1-50, Psalm 23, Matthew 1-28, Mark 1-16, Luke 1-24, John 1-21, Acts 1-28, Romans 1-16, 1 Corinthians 1-16, 2 Corinthians 1-13, Galatians 1-6, Ephesians 1-6, Philippians 1-4  (229 chapters, 7,856 verses)
 All other chapters keep the text the app already had (World English Bible) until they are written in Easified.
 Verse counts match the existing file exactly, so read-along highlighting lines up.
 Versification follows this file (e.g. Luke 17 has 36 verses and Acts 8 has 39, without the KJV's Luke 17:36 / Acts 8:37).
