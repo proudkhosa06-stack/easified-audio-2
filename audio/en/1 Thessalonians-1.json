@@ -1,0 +1,71 @@
+{
+ "book": "1 Thessalonians",
+ "chapter": 1,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Thessalonians-1.mp3",
+ "duration": 91.97,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 13.61,
+   "text": "From Paul, Silas and Timothy, to the church of the people of Thessalonica, who belong to God the Father and the Lord Jesus Christ. Grace and peace to you from God our Father and the Lord Jesus Christ."
+  },
+  {
+   "verse": 2,
+   "start": 14.31,
+   "end": 19.0,
+   "text": "We always thank God for all of you, and we mention you in our prayers."
+  },
+  {
+   "verse": 3,
+   "start": 19.7,
+   "end": 30.46,
+   "text": "Before our God and Father we never stop remembering the work your faith does, the hard work your love does, and how your hope in our Lord Jesus Christ keeps you going."
+  },
+  {
+   "verse": 4,
+   "start": 31.16,
+   "end": 35.3,
+   "text": "Brothers and sisters loved by God, we know that he has chosen you."
+  },
+  {
+   "verse": 5,
+   "start": 36.0,
+   "end": 45.74,
+   "text": "Our Good News came to you not just in words, but also with power, with the Holy Spirit, and with deep certainty. You know how we lived among you for your good."
+  },
+  {
+   "verse": 6,
+   "start": 46.44,
+   "end": 54.5,
+   "text": "You followed our example and the Lord's. Even though you suffered a lot, you received the message with the joy the Holy Spirit gives."
+  },
+  {
+   "verse": 7,
+   "start": 55.2,
+   "end": 59.71,
+   "text": "So you became an example to all the believers in Macedonia and Achaia."
+  },
+  {
+   "verse": 8,
+   "start": 60.41,
+   "end": 72.09,
+   "text": "The Lord's message has spread out from you, not only in Macedonia and Achaia. Your faith in God has become known everywhere, so we do not need to say anything about it."
+  },
+  {
+   "verse": 9,
+   "start": 72.79,
+   "end": 81.32,
+   "text": "People everywhere tell how you welcomed us. They tell how you turned away from idols to God, to serve the living and true God,"
+  },
+  {
+   "verse": 10,
+   "start": 82.02,
+   "end": 90.9,
+   "text": "and to wait for his Son to come from heaven. God raised him from the dead. He is Jesus, who saves us from the anger that is coming."
+  }
+ ]
+}
