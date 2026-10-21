@@ -1,0 +1,83 @@
+{
+ "book": "Ecclesiastes",
+ "chapter": 6,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Ecclesiastes-6.mp3",
+ "duration": 103.01,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.95,
+   "text": "There is an evil I have seen under the sun, and it weighs heavily on people:"
+  },
+  {
+   "verse": 2,
+   "start": 5.65,
+   "end": 20.03,
+   "text": "God gives a person riches, wealth, and honor, so that they have everything their heart wants. But God does not give them the power to enjoy it, and a stranger enjoys it instead. This is meaningless, and it is a terrible sickness."
+  },
+  {
+   "verse": 3,
+   "start": 20.73,
+   "end": 33.45,
+   "text": "A man may have a hundred children and live many years. But if his heart is not filled with good things, and he does not even get a proper burial, I say a baby born dead is better off than he is."
+  },
+  {
+   "verse": 4,
+   "start": 34.15,
+   "end": 39.37,
+   "text": "For the baby comes for nothing and leaves in darkness, and its name is covered in darkness."
+  },
+  {
+   "verse": 5,
+   "start": 40.07,
+   "end": 45.3,
+   "text": "It has never seen the sun or known anything. Yet it has more rest than that man."
+  },
+  {
+   "verse": 6,
+   "start": 46.0,
+   "end": 53.29,
+   "text": "Even if he lives a thousand years twice over but does not enjoy good things, do not all go to the same place?"
+  },
+  {
+   "verse": 7,
+   "start": 53.99,
+   "end": 59.22,
+   "text": "All the hard work people do is for their mouths, and yet their hunger is never satisfied."
+  },
+  {
+   "verse": 8,
+   "start": 59.92,
+   "end": 67.48,
+   "text": "For what advantage does a wise person have over a fool? What does a poor person gain by knowing how to live before others?"
+  },
+  {
+   "verse": 9,
+   "start": 68.18,
+   "end": 75.67,
+   "text": "It is better to enjoy what your eyes can see than to keep wanting more. This too is meaningless, like chasing the wind."
+  },
+  {
+   "verse": 10,
+   "start": 76.37,
+   "end": 84.68,
+   "text": "Whatever exists was named long ago, and it is known what people are. No one can argue with someone who is stronger than they are."
+  },
+  {
+   "verse": 11,
+   "start": 85.38,
+   "end": 90.25,
+   "text": "The more words there are, the more meaningless they become. How does that help anyone?"
+  },
+  {
+   "verse": 12,
+   "start": 90.95,
+   "end": 101.96,
+   "text": "For who knows what is good for people in life, during the few meaningless days they pass through like a shadow? Who can tell them what will happen under the sun after they are gone?"
+  }
+ ]
+}

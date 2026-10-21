@@ -1,0 +1,71 @@
+{
+ "book": "Ecclesiastes",
+ "chapter": 11,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Ecclesiastes-11.mp3",
+ "duration": 90.62,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.62,
+   "text": "Throw your bread on the waters, for after many days you will find it again."
+  },
+  {
+   "verse": 2,
+   "start": 5.32,
+   "end": 12.36,
+   "text": "Share what you have with seven, yes, even with eight, for you do not know what trouble may come on the earth."
+  },
+  {
+   "verse": 3,
+   "start": 13.06,
+   "end": 22.28,
+   "text": "If the clouds are full of rain, they pour it out on the earth. If a tree falls to the south or to the north, wherever the tree falls, there it will stay."
+  },
+  {
+   "verse": 4,
+   "start": 22.98,
+   "end": 29.03,
+   "text": "Whoever keeps watching the wind will never plant, and whoever keeps looking at the clouds will never harvest."
+  },
+  {
+   "verse": 5,
+   "start": 29.73,
+   "end": 40.29,
+   "text": "Just as you do not know the path of the wind, or how the bones grow in the womb of a pregnant woman, so you do not understand the work of God, who makes everything."
+  },
+  {
+   "verse": 6,
+   "start": 40.99,
+   "end": 50.93,
+   "text": "Plant your seed in the morning, and in the evening do not stop working. For you do not know which will succeed, this or that, or whether both will do equally well."
+  },
+  {
+   "verse": 7,
+   "start": 51.63,
+   "end": 55.85,
+   "text": "Light is truly sweet, and it is pleasant for the eyes to see the sun."
+  },
+  {
+   "verse": 8,
+   "start": 56.55,
+   "end": 66.97,
+   "text": "Yes, if a person lives many years, let them enjoy them all. But let them remember the days of darkness, for there will be many. Everything to come is meaningless."
+  },
+  {
+   "verse": 9,
+   "start": 67.67,
+   "end": 80.37,
+   "text": "Young person, be happy while you are young, and let your heart give you joy in the days of your youth. Follow the ways of your heart and what your eyes see. But know that God will judge you for all these things."
+  },
+  {
+   "verse": 10,
+   "start": 81.07,
+   "end": 89.57,
+   "text": "So put sadness out of your heart, and put away pain from your body, for youth and the dawn of life are fleeting and meaningless."
+  }
+ ]
+}
