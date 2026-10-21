@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 126,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-126.mp3",
+ "duration": 39.98,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.47,
+   "text": "A song for going up to worship. When the LORD brought the captives back to Zion, it was like a dream."
+  },
+  {
+   "verse": 2,
+   "start": 7.17,
+   "end": 15.77,
+   "text": "Our mouths were filled with laughter and our tongues with songs of joy. Then the nations said, \"The LORD has done great things for them.\""
+  },
+  {
+   "verse": 3,
+   "start": 16.47,
+   "end": 20.26,
+   "text": "The LORD has done great things for us, and we are full of joy."
+  },
+  {
+   "verse": 4,
+   "start": 20.96,
+   "end": 26.13,
+   "text": "LORD, make us successful again, like streams that flow again in the dry Negev."
+  },
+  {
+   "verse": 5,
+   "start": 26.83,
+   "end": 30.98,
+   "text": "Those who plant seeds with tears will harvest with shouts of joy."
+  },
+  {
+   "verse": 6,
+   "start": 31.68,
+   "end": 38.93,
+   "text": "Those who go out crying, carrying seed to plant, will come back with shouts of joy, carrying bundles of grain."
+  }
+ ]
+}

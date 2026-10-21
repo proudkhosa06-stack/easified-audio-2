@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 130,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-130.mp3",
+ "duration": 44.09,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.91,
+   "text": "A song for going up to worship. LORD, from the depths of my trouble I cry to you."
+  },
+  {
+   "verse": 2,
+   "start": 6.61,
+   "end": 10.53,
+   "text": "Lord, hear my voice. Listen closely to my cry for mercy."
+  },
+  {
+   "verse": 3,
+   "start": 11.23,
+   "end": 15.23,
+   "text": "LORD, if you kept a record of sins, Lord, who could stand?"
+  },
+  {
+   "verse": 4,
+   "start": 15.93,
+   "end": 18.4,
+   "text": "But you forgive us, so we respect you."
+  },
+  {
+   "verse": 5,
+   "start": 19.1,
+   "end": 24.47,
+   "text": "I wait for the LORD. My whole being waits for him. I put my hope in his word."
+  },
+  {
+   "verse": 6,
+   "start": 25.17,
+   "end": 31.21,
+   "text": "I long for the Lord more than guards long for the morning, more than guards long for the morning."
+  },
+  {
+   "verse": 7,
+   "start": 31.91,
+   "end": 38.86,
+   "text": "Israel, put your hope in the LORD, because with the LORD there is faithful love. He is always ready to rescue."
+  },
+  {
+   "verse": 8,
+   "start": 39.56,
+   "end": 43.03,
+   "text": "He himself will rescue Israel from all their sins."
+  }
+ ]
+}

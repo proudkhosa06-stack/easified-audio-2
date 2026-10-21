@@ -1,0 +1,35 @@
+{
+ "book": "Psalms",
+ "chapter": 123,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-123.mp3",
+ "duration": 30.72,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.47,
+   "text": "A song for going up to worship. I look up to you, you who sit on your throne in heaven."
+  },
+  {
+   "verse": 2,
+   "start": 7.17,
+   "end": 16.98,
+   "text": "As servants watch their master's hand, and as a servant girl watches her mistress's hand, so our eyes look to the LORD our God until he is kind to us."
+  },
+  {
+   "verse": 3,
+   "start": 17.68,
+   "end": 22.55,
+   "text": "Be kind to us, LORD, be kind to us, because we have had more than enough insults."
+  },
+  {
+   "verse": 4,
+   "start": 23.25,
+   "end": 29.65,
+   "text": "We have had more than enough of the mocking of comfortable people and the insults of proud people."
+  }
+ ]
+}

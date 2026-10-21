@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 113,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-113.mp3",
+ "duration": 46.3,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.45,
+   "text": "Praise the LORD! Praise him, you servants of the LORD. Praise the name of the LORD."
+  },
+  {
+   "verse": 2,
+   "start": 7.15,
+   "end": 10.46,
+   "text": "Let the name of the LORD be praised, now and forever."
+  },
+  {
+   "verse": 3,
+   "start": 11.16,
+   "end": 15.98,
+   "text": "From where the sun rises to where it sets, the name of the LORD should be praised."
+  },
+  {
+   "verse": 4,
+   "start": 16.68,
+   "end": 21.25,
+   "text": "The LORD is high above all nations. His glory is above the skies."
+  },
+  {
+   "verse": 5,
+   "start": 21.95,
+   "end": 25.76,
+   "text": "Who is like the LORD our God, who sits on his throne on high,"
+  },
+  {
+   "verse": 6,
+   "start": 26.46,
+   "end": 29.05,
+   "text": "who bends down to look at the heavens and the earth?"
+  },
+  {
+   "verse": 7,
+   "start": 29.75,
+   "end": 34.33,
+   "text": "He lifts the poor out of the dust. He raises the needy from the rubbish heap."
+  },
+  {
+   "verse": 8,
+   "start": 35.03,
+   "end": 38.48,
+   "text": "He seats them with princes, with the princes of his people."
+  },
+  {
+   "verse": 9,
+   "start": 39.18,
+   "end": 45.23,
+   "text": "He gives the woman who has no children a home and makes her a happy mother of children. Praise the LORD!"
+  }
+ ]
+}

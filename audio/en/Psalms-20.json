@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 20,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-20.mp3",
+ "duration": 56.81,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.81,
+   "text": "For the music director. A psalm of David. May the LORD answer you when you are in trouble. May the name of the God of Jacob protect you."
+  },
+  {
+   "verse": 2,
+   "start": 9.51,
+   "end": 13.38,
+   "text": "May he send you help from his holy place and support you from Zion."
+  },
+  {
+   "verse": 3,
+   "start": 14.08,
+   "end": 18.66,
+   "text": "May he remember all your offerings and accept your burnt sacrifices. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 19.36,
+   "end": 23.33,
+   "text": "May he give you what your heart wants and make all your plans succeed."
+  },
+  {
+   "verse": 5,
+   "start": 24.03,
+   "end": 32.22,
+   "text": "We will shout for joy when you win. We will raise our flags in the name of our God. May the LORD give you everything you ask for."
+  },
+  {
+   "verse": 6,
+   "start": 32.92,
+   "end": 40.19,
+   "text": "Now I know that the LORD saves his anointed king. He answers him from his holy heaven with the saving power of his right hand."
+  },
+  {
+   "verse": 7,
+   "start": 40.89,
+   "end": 46.96,
+   "text": "Some people trust in chariots and some in horses, but we trust in the name of the LORD our God."
+  },
+  {
+   "verse": 8,
+   "start": 47.66,
+   "end": 51.91,
+   "text": "They are brought to their knees and fall, but we rise up and stand firm."
+  },
+  {
+   "verse": 9,
+   "start": 52.61,
+   "end": 55.74,
+   "text": "LORD, save the king! Answer us when we call!"
+  }
+ ]
+}

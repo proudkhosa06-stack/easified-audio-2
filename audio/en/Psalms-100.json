@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 100,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-100.mp3",
+ "duration": 33.98,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.82,
+   "text": "A psalm for giving thanks. Shout for joy to the LORD, all the earth!"
+  },
+  {
+   "verse": 2,
+   "start": 5.52,
+   "end": 8.99,
+   "text": "Serve the LORD with gladness. Come to him with singing."
+  },
+  {
+   "verse": 3,
+   "start": 9.69,
+   "end": 17.6,
+   "text": "Know that the LORD is God. He made us, and we belong to him. We are his people, the sheep he takes care of."
+  },
+  {
+   "verse": 4,
+   "start": 18.3,
+   "end": 24.66,
+   "text": "Come through his gates with thanks. Come into his courtyards with praise. Thank him and praise his name."
+  },
+  {
+   "verse": 5,
+   "start": 25.36,
+   "end": 32.93,
+   "text": "The LORD is good. His faithful love lasts forever. His faithfulness continues for all generations."
+  }
+ ]
+}

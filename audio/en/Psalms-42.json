@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 42,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-42.mp3",
+ "duration": 96.91,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.56,
+   "text": "For the music director. A thoughtful psalm of the sons of Korah. As a deer longs for streams of water, so I long for you, God."
+  },
+  {
+   "verse": 2,
+   "start": 9.26,
+   "end": 14.58,
+   "text": "I am thirsty for God, the living God. When can I go and stand in front of God?"
+  },
+  {
+   "verse": 3,
+   "start": 15.28,
+   "end": 20.69,
+   "text": "My tears have been my food day and night, while people keep asking me, \"Where is your God?\""
+  },
+  {
+   "verse": 4,
+   "start": 21.39,
+   "end": 33.08,
+   "text": "I remember these things as I pour out my heart: how I used to walk with the crowd, leading them to God's house, with shouts of joy and praise among the crowd celebrating a festival."
+  },
+  {
+   "verse": 5,
+   "start": 33.78,
+   "end": 44.36,
+   "text": "Why are you so sad, my soul? Why are you so upset inside me? Put your hope in God! I will praise him again, because he is with me and saves me."
+  },
+  {
+   "verse": 6,
+   "start": 45.06,
+   "end": 55.4,
+   "text": "My God, I am so sad inside. So I will remember you from the land of the Jordan River, from the peaks of Mount Hermon, from Mount Mizar."
+  },
+  {
+   "verse": 7,
+   "start": 56.1,
+   "end": 63.25,
+   "text": "Deep waters call out to deep waters in the roar of your waterfalls. All your waves and breakers have rolled over me."
+  },
+  {
+   "verse": 8,
+   "start": 63.95,
+   "end": 71.64,
+   "text": "By day the LORD sends his faithful love. At night his song is with me, a prayer to the God who gives me life."
+  },
+  {
+   "verse": 9,
+   "start": 72.34,
+   "end": 78.97,
+   "text": "I say to God, my rock, \"Why have you forgotten me? Why must I go around crying because my enemy is crushing me?\""
+  },
+  {
+   "verse": 10,
+   "start": 79.67,
+   "end": 85.46,
+   "text": "My enemies insult me as if they were breaking my bones. They keep asking me, \"Where is your God?\""
+  },
+  {
+   "verse": 11,
+   "start": 86.16,
+   "end": 95.85,
+   "text": "Why are you so sad, my soul? Why are you so upset inside me? Put your hope in God! I will praise him again, my saviour and my God."
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "book": "Psalms",
+ "chapter": 108,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-108.mp3",
+ "duration": 80.5,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.01,
+   "text": "A song. A psalm of David. My heart is steady, God. I will sing and make music with all my soul."
+  },
+  {
+   "verse": 2,
+   "start": 8.71,
+   "end": 12.0,
+   "text": "Wake up, harp and lyre! I will wake up the dawn."
+  },
+  {
+   "verse": 3,
+   "start": 12.7,
+   "end": 18.2,
+   "text": "LORD, I will thank you among the nations. I will sing praises to you among the peoples."
+  },
+  {
+   "verse": 4,
+   "start": 18.9,
+   "end": 23.41,
+   "text": "Your faithful love is higher than the heavens. Your faithfulness reaches to the skies."
+  },
+  {
+   "verse": 5,
+   "start": 24.11,
+   "end": 29.18,
+   "text": "God, be honoured above the skies! Let your glory be over all the earth."
+  },
+  {
+   "verse": 6,
+   "start": 29.88,
+   "end": 34.69,
+   "text": "Save us with your right hand and answer us, so the people you love may be rescued."
+  },
+  {
+   "verse": 7,
+   "start": 35.39,
+   "end": 42.61,
+   "text": "God has spoken from his holy place: \"I will win! I will divide up Shechem and measure out the Valley of Succoth."
+  },
+  {
+   "verse": 8,
+   "start": 43.31,
+   "end": 50.71,
+   "text": "Gilead is mine. Manasseh is mine. Ephraim is my helmet. Judah is my sceptre."
+  },
+  {
+   "verse": 9,
+   "start": 51.41,
+   "end": 59.63,
+   "text": "Moab is my washbowl. I will throw my sandal on Edom to show I own it. I will shout in victory over Philistia.\""
+  },
+  {
+   "verse": 10,
+   "start": 60.33,
+   "end": 64.71,
+   "text": "Who will bring me into the fortified city? Who will lead me to Edom?"
+  },
+  {
+   "verse": 11,
+   "start": 65.41,
+   "end": 70.46,
+   "text": "God, haven't you rejected us? You no longer go out with our armies, God."
+  },
+  {
+   "verse": 12,
+   "start": 71.16,
+   "end": 74.5,
+   "text": "Help us against the enemy, because human help is useless."
+  },
+  {
+   "verse": 13,
+   "start": 75.2,
+   "end": 79.44,
+   "text": "With God we will fight bravely, and he will trample down our enemies."
+  }
+ ]
+}

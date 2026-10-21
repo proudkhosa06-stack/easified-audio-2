@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 47,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-47.mp3",
+ "duration": 57.48,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.94,
+   "text": "For the music director. A psalm of the sons of Korah. Clap your hands, all you nations! Shout to God with cries of joy!"
+  },
+  {
+   "verse": 2,
+   "start": 11.64,
+   "end": 16.16,
+   "text": "The LORD Most High is amazing. He is the great King over all the earth."
+  },
+  {
+   "verse": 3,
+   "start": 16.86,
+   "end": 20.45,
+   "text": "He brings nations under our control and peoples under our feet."
+  },
+  {
+   "verse": 4,
+   "start": 21.15,
+   "end": 25.64,
+   "text": "He chose our land for us, the pride of Jacob, whom he loved. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 26.34,
+   "end": 31.34,
+   "text": "God has gone up with shouts of joy. The LORD has gone up with the sound of a trumpet."
+  },
+  {
+   "verse": 6,
+   "start": 32.04,
+   "end": 37.59,
+   "text": "Sing praises to God! Sing praises! Sing praises to our King! Sing praises!"
+  },
+  {
+   "verse": 7,
+   "start": 38.29,
+   "end": 42.53,
+   "text": "God is the King of all the earth. Sing a psalm of praise to him."
+  },
+  {
+   "verse": 8,
+   "start": 43.23,
+   "end": 47.01,
+   "text": "God rules over the nations. God sits on his holy throne."
+  },
+  {
+   "verse": 9,
+   "start": 47.71,
+   "end": 56.41,
+   "text": "The leaders of the nations gather together with the people of the God of Abraham. All the rulers of the earth belong to God. He is greatly honoured!"
+  }
+ ]
+}

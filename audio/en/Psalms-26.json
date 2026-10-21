@@ -1,0 +1,83 @@
+{
+ "book": "Psalms",
+ "chapter": 26,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-26.mp3",
+ "duration": 66.34,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.95,
+   "text": "Of David. LORD, judge me, because I have lived an innocent life. I have trusted in the LORD without doubting."
+  },
+  {
+   "verse": 2,
+   "start": 8.65,
+   "end": 12.84,
+   "text": "Examine me, LORD, and test me. Look closely at my heart and mind."
+  },
+  {
+   "verse": 3,
+   "start": 13.54,
+   "end": 18.03,
+   "text": "I always keep your faithful love in front of my eyes. I live by your truth."
+  },
+  {
+   "verse": 4,
+   "start": 18.73,
+   "end": 24.12,
+   "text": "I do not sit with liars, and I do not spend time with people who pretend to be good."
+  },
+  {
+   "verse": 5,
+   "start": 24.82,
+   "end": 29.49,
+   "text": "I hate the meetings of evil people, and I will not sit with the wicked."
+  },
+  {
+   "verse": 6,
+   "start": 30.19,
+   "end": 35.27,
+   "text": "I wash my hands to show I am innocent, and I go around your altar, LORD,"
+  },
+  {
+   "verse": 7,
+   "start": 35.97,
+   "end": 41.04,
+   "text": "singing songs of thanks out loud and telling about all the amazing things you have done."
+  },
+  {
+   "verse": 8,
+   "start": 41.74,
+   "end": 46.36,
+   "text": "LORD, I love the house where you live, the place where your glory stays."
+  },
+  {
+   "verse": 9,
+   "start": 47.06,
+   "end": 51.77,
+   "text": "Do not sweep me away with sinners. Do not take my life along with murderers,"
+  },
+  {
+   "verse": 10,
+   "start": 52.47,
+   "end": 55.11,
+   "text": "whose hands are full of evil plans and bribes."
+  },
+  {
+   "verse": 11,
+   "start": 55.81,
+   "end": 59.82,
+   "text": "But I live an innocent life. Rescue me and be kind to me."
+  },
+  {
+   "verse": 12,
+   "start": 60.52,
+   "end": 65.28,
+   "text": "My feet stand on level ground. In the great gatherings I will praise the LORD."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 52,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-52.mp3",
+ "duration": 69.86,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.71,
+   "text": "For the music director. A thoughtful psalm of David, written when Doeg the Edomite went and told Saul, \"David has gone to Ahimelech's house.\" Why do you boast about evil, you mighty man? God's faithful love lasts all day long."
+  },
+  {
+   "verse": 2,
+   "start": 17.41,
+   "end": 22.5,
+   "text": "Your tongue plans destruction. It is like a sharp razor, cutting with lies."
+  },
+  {
+   "verse": 3,
+   "start": 23.2,
+   "end": 26.89,
+   "text": "You love evil more than good, and lying more than telling the truth. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 27.59,
+   "end": 30.31,
+   "text": "You love words that destroy, you lying tongue."
+  },
+  {
+   "verse": 5,
+   "start": 31.01,
+   "end": 40.0,
+   "text": "So God will bring you down forever. He will grab you and drag you out of your tent. He will pull you up by the roots from the land of the living. Selah."
+  },
+  {
+   "verse": 6,
+   "start": 40.7,
+   "end": 45.55,
+   "text": "Good people will see it and be filled with awe. They will laugh at you and say,"
+  },
+  {
+   "verse": 7,
+   "start": 46.25,
+   "end": 53.83,
+   "text": "\"Look at this man who did not make God his fortress, but trusted in his great wealth and grew strong by destroying others.\""
+  },
+  {
+   "verse": 8,
+   "start": 54.53,
+   "end": 61.36,
+   "text": "But I am like an olive tree growing green in God's house. I trust in God's faithful love forever and ever."
+  },
+  {
+   "verse": 9,
+   "start": 62.06,
+   "end": 68.8,
+   "text": "I will always thank you for what you have done. In front of your faithful people I will hope in your name, because it is good."
+  }
+ ]
+}

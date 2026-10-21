@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 3,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-3.mp3",
+ "duration": 54.41,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.15,
+   "text": "A psalm of David, written when he ran away from his son Absalom. LORD, I have so many enemies! So many people are rising up against me."
+  },
+  {
+   "verse": 2,
+   "start": 10.85,
+   "end": 15.64,
+   "text": "Many people are saying about me, \"God will not rescue him.\" Selah."
+  },
+  {
+   "verse": 3,
+   "start": 16.34,
+   "end": 23.54,
+   "text": "But you, LORD, are a shield that protects me all around. You give me honour, and you lift up my head."
+  },
+  {
+   "verse": 4,
+   "start": 24.24,
+   "end": 28.82,
+   "text": "I cry out loud to the LORD, and he answers me from his holy hill. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 29.52,
+   "end": 34.56,
+   "text": "I lie down and sleep, and I wake up again, because the LORD keeps me safe."
+  },
+  {
+   "verse": 6,
+   "start": 35.26,
+   "end": 39.84,
+   "text": "I will not be afraid of tens of thousands of people who surround me to attack me."
+  },
+  {
+   "verse": 7,
+   "start": 40.54,
+   "end": 48.31,
+   "text": "Get up, LORD! Save me, my God! You have slapped all my enemies across the face. You have broken the teeth of the wicked."
+  },
+  {
+   "verse": 8,
+   "start": 49.01,
+   "end": 53.34,
+   "text": "Rescue comes from the LORD. May your blessing be on your people. Selah."
+  }
+ ]
+}

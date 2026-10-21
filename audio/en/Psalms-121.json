@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 121,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-121.mp3",
+ "duration": 40.22,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.68,
+   "text": "A song for going up to worship. I look up to the hills. Where does my help come from?"
+  },
+  {
+   "verse": 2,
+   "start": 6.38,
+   "end": 9.73,
+   "text": "My help comes from the LORD, who made heaven and earth."
+  },
+  {
+   "verse": 3,
+   "start": 10.43,
+   "end": 15.84,
+   "text": "He will not let your foot slip. The one who watches over you will not fall asleep."
+  },
+  {
+   "verse": 4,
+   "start": 16.54,
+   "end": 20.91,
+   "text": "Look, the one who watches over Israel never gets tired and never sleeps."
+  },
+  {
+   "verse": 5,
+   "start": 21.61,
+   "end": 25.68,
+   "text": "The LORD watches over you. The LORD is the shade at your right side."
+  },
+  {
+   "verse": 6,
+   "start": 26.38,
+   "end": 29.7,
+   "text": "The sun will not harm you by day, or the moon by night."
+  },
+  {
+   "verse": 7,
+   "start": 30.4,
+   "end": 34.26,
+   "text": "The LORD will keep you safe from all harm. He will watch over your life."
+  },
+  {
+   "verse": 8,
+   "start": 34.96,
+   "end": 39.17,
+   "text": "The LORD will watch over you as you come and go, now and forever."
+  }
+ ]
+}

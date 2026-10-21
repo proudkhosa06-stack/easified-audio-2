@@ -1,0 +1,71 @@
+{
+ "book": "Psalms",
+ "chapter": 24,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-24.mp3",
+ "duration": 66.5,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.83,
+   "text": "A psalm of David. The earth belongs to the LORD, and everything in it. The world and all who live in it belong to him."
+  },
+  {
+   "verse": 2,
+   "start": 9.53,
+   "end": 12.71,
+   "text": "He built it on the seas and set it firmly on the waters."
+  },
+  {
+   "verse": 3,
+   "start": 13.41,
+   "end": 18.04,
+   "text": "Who may go up the LORD's hill? Who may stand in his holy place?"
+  },
+  {
+   "verse": 4,
+   "start": 18.74,
+   "end": 26.12,
+   "text": "Those whose hands are clean and whose hearts are pure, who do not worship what is false and do not make promises they mean to break."
+  },
+  {
+   "verse": 5,
+   "start": 26.82,
+   "end": 31.81,
+   "text": "They will receive a blessing from the LORD. God their saviour will declare them right."
+  },
+  {
+   "verse": 6,
+   "start": 32.51,
+   "end": 38.71,
+   "text": "These are the people who look for him, who look for your face, God of Jacob. Selah."
+  },
+  {
+   "verse": 7,
+   "start": 39.41,
+   "end": 45.47,
+   "text": "Lift up your heads, you gates! Open up, you ancient doors, so the King of glory can come in."
+  },
+  {
+   "verse": 8,
+   "start": 46.17,
+   "end": 51.54,
+   "text": "Who is the King of glory? The LORD, strong and mighty, the LORD, mighty in battle."
+  },
+  {
+   "verse": 9,
+   "start": 52.24,
+   "end": 59.51,
+   "text": "Lift up your heads, you gates! Open up, you ancient doors, so the King of glory can come in."
+  },
+  {
+   "verse": 10,
+   "start": 60.21,
+   "end": 65.44,
+   "text": "Who is this King of glory? The LORD of Armies is the King of glory! Selah."
+  }
+ ]
+}

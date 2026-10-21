@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 14,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-14.mp3",
+ "duration": 54.29,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.83,
+   "text": "For the music director. Of David. Foolish people say to themselves, \"There is no God.\" They are rotten. They do disgusting things. No one does good."
+  },
+  {
+   "verse": 2,
+   "start": 11.53,
+   "end": 18.06,
+   "text": "The LORD looks down from heaven on all people to see if anyone understands, if anyone looks for God."
+  },
+  {
+   "verse": 3,
+   "start": 18.76,
+   "end": 24.5,
+   "text": "They have all turned away. All of them have become rotten. No one does good, not even one."
+  },
+  {
+   "verse": 4,
+   "start": 25.2,
+   "end": 33.0,
+   "text": "Do these evil people know nothing? They eat up my people as if they were eating bread, and they never call on the LORD."
+  },
+  {
+   "verse": 5,
+   "start": 33.7,
+   "end": 38.3,
+   "text": "There they are, filled with terror, because God is with those who do right."
+  },
+  {
+   "verse": 6,
+   "start": 39.0,
+   "end": 44.11,
+   "text": "You evil people ruin the plans of the poor, but the LORD keeps them safe."
+  },
+  {
+   "verse": 7,
+   "start": 44.81,
+   "end": 53.24,
+   "text": "I wish rescue for Israel would come out of Zion! When the LORD makes his people successful again, Jacob will celebrate and Israel will be glad."
+  }
+ ]
+}

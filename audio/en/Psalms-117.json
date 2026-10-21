@@ -1,0 +1,23 @@
+{
+ "book": "Psalms",
+ "chapter": 117,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-117.mp3",
+ "duration": 12.46,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.35,
+   "text": "Praise the LORD, all you nations! Praise him, all you peoples!"
+  },
+  {
+   "verse": 2,
+   "start": 5.05,
+   "end": 11.39,
+   "text": "His faithful love for us is great. The LORD's faithfulness lasts forever. Praise the LORD!"
+  }
+ ]
+}

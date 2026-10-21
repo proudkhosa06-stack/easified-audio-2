@@ -1,0 +1,71 @@
+{
+ "book": "Psalms",
+ "chapter": 112,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-112.mp3",
+ "duration": 66.19,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.17,
+   "text": "Praise the LORD! Happy is the person who respects the LORD, who takes great joy in his commands."
+  },
+  {
+   "verse": 2,
+   "start": 6.87,
+   "end": 12.64,
+   "text": "His children will be powerful in the land. The families of honest people will be blessed."
+  },
+  {
+   "verse": 3,
+   "start": 13.34,
+   "end": 18.22,
+   "text": "His house will be full of wealth and riches. His goodness lasts forever."
+  },
+  {
+   "verse": 4,
+   "start": 18.92,
+   "end": 25.32,
+   "text": "Even in darkness, light shines for honest people, for those who are kind, merciful, and good."
+  },
+  {
+   "verse": 5,
+   "start": 26.02,
+   "end": 31.19,
+   "text": "Good things come to those who are generous and lend freely, who do their business fairly."
+  },
+  {
+   "verse": 6,
+   "start": 31.89,
+   "end": 35.94,
+   "text": "They will never be shaken. Good people will be remembered forever."
+  },
+  {
+   "verse": 7,
+   "start": 36.64,
+   "end": 42.08,
+   "text": "They are not afraid of bad news. Their hearts are steady, because they trust in the LORD."
+  },
+  {
+   "verse": 8,
+   "start": 42.78,
+   "end": 49.38,
+   "text": "Their hearts are secure. They will not be afraid. In the end they will look in triumph on their enemies."
+  },
+  {
+   "verse": 9,
+   "start": 50.08,
+   "end": 57.23,
+   "text": "They have given freely to the poor. Their goodness lasts forever. They will be lifted up with honour."
+  },
+  {
+   "verse": 10,
+   "start": 57.93,
+   "end": 65.13,
+   "text": "The wicked will see this and be angry. They will grind their teeth and waste away. What the wicked want will come to nothing."
+  }
+ ]
+}

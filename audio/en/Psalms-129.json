@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 129,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-129.mp3",
+ "duration": 43.85,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.12,
+   "text": "A song for going up to worship. Let Israel say: \"They have attacked me many times since I was young."
+  },
+  {
+   "verse": 2,
+   "start": 6.82,
+   "end": 11.44,
+   "text": "They have attacked me many times since I was young, but they have never defeated me."
+  },
+  {
+   "verse": 3,
+   "start": 12.14,
+   "end": 15.93,
+   "text": "Ploughmen ploughed across my back. They made their rows long.\""
+  },
+  {
+   "verse": 4,
+   "start": 16.63,
+   "end": 21.29,
+   "text": "But the LORD does what is right. He has cut me free from the ropes of the wicked."
+  },
+  {
+   "verse": 5,
+   "start": 21.99,
+   "end": 25.53,
+   "text": "Let all who hate Zion be put to shame and turned back."
+  },
+  {
+   "verse": 6,
+   "start": 26.23,
+   "end": 30.79,
+   "text": "Let them be like grass on a flat roof, which dries up before it can grow,"
+  },
+  {
+   "verse": 7,
+   "start": 31.49,
+   "end": 34.95,
+   "text": "which no one can gather into their hands or carry in their arms."
+  },
+  {
+   "verse": 8,
+   "start": 35.65,
+   "end": 42.78,
+   "text": "Let no one who passes by say to them, \"May the LORD bless you. We bless you in the name of the LORD.\""
+  }
+ ]
+}

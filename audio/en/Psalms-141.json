@@ -1,0 +1,71 @@
+{
+ "book": "Psalms",
+ "chapter": 141,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-141.mp3",
+ "duration": 71.45,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.43,
+   "text": "A psalm of David. LORD, I call to you. Come quickly to help me! Listen to me when I call to you."
+  },
+  {
+   "verse": 2,
+   "start": 8.13,
+   "end": 14.27,
+   "text": "May my prayer rise up to you like incense. May my lifted hands be like the evening sacrifice."
+  },
+  {
+   "verse": 3,
+   "start": 14.97,
+   "end": 19.2,
+   "text": "LORD, put a guard over my mouth. Keep watch over the door of my lips."
+  },
+  {
+   "verse": 4,
+   "start": 19.9,
+   "end": 28.04,
+   "text": "Do not let my heart be drawn to anything evil, to join evil people in doing wicked things. Do not let me eat their fine food."
+  },
+  {
+   "verse": 5,
+   "start": 28.74,
+   "end": 40.21,
+   "text": "If a good person strikes me, it is a kindness. If he corrects me, it is like oil on my head. I will not refuse it. But I keep praying against the evil things that wicked people do."
+  },
+  {
+   "verse": 6,
+   "start": 40.91,
+   "end": 46.72,
+   "text": "When their rulers are thrown down from the cliffs, the wicked will hear my words and know they were true."
+  },
+  {
+   "verse": 7,
+   "start": 47.42,
+   "end": 53.84,
+   "text": "They will say, \"As the ground is ploughed and broken up, our bones have been scattered at the mouth of the grave.\""
+  },
+  {
+   "verse": 8,
+   "start": 54.54,
+   "end": 60.52,
+   "text": "But my eyes are on you, LORD, my Lord. I come to you for safety. Do not leave me helpless."
+  },
+  {
+   "verse": 9,
+   "start": 61.22,
+   "end": 66.08,
+   "text": "Keep me from the traps they have set for me, from the traps of those who do evil."
+  },
+  {
+   "verse": 10,
+   "start": 66.78,
+   "end": 70.39,
+   "text": "Let the wicked fall into their own nets while I escape safely."
+  }
+ ]
+}

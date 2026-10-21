@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 137,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-137.mp3",
+ "duration": 61.49,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.5,
+   "text": "Beside the rivers of Babylon, we sat down and cried when we remembered Zion."
+  },
+  {
+   "verse": 2,
+   "start": 6.2,
+   "end": 9.22,
+   "text": "We hung up our harps on the willow trees there."
+  },
+  {
+   "verse": 3,
+   "start": 9.92,
+   "end": 19.72,
+   "text": "Those who had taken us captive asked us to sing. Those who tormented us demanded happy songs. They said, \"Sing us one of the songs of Zion!\""
+  },
+  {
+   "verse": 4,
+   "start": 20.42,
+   "end": 23.72,
+   "text": "How can we sing the songs of the LORD in a foreign land?"
+  },
+  {
+   "verse": 5,
+   "start": 24.42,
+   "end": 29.29,
+   "text": "Jerusalem, if I forget you, let my right hand forget how to play."
+  },
+  {
+   "verse": 6,
+   "start": 29.99,
+   "end": 37.31,
+   "text": "Let my tongue stick to the roof of my mouth if I do not remember you, if I do not love Jerusalem more than my greatest joy."
+  },
+  {
+   "verse": 7,
+   "start": 38.01,
+   "end": 47.36,
+   "text": "LORD, remember what the people of Edom did on the day Jerusalem fell. They said, \"Tear it down! Tear it down to its foundations!\""
+  },
+  {
+   "verse": 8,
+   "start": 48.06,
+   "end": 55.69,
+   "text": "People of Babylon, you will be destroyed. Happy is the one who pays you back for what you have done to us."
+  },
+  {
+   "verse": 9,
+   "start": 56.39,
+   "end": 60.43,
+   "text": "Happy is the one who grabs your babies and smashes them against the rocks."
+  }
+ ]
+}

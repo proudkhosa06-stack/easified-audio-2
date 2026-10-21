@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 63,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-63.mp3",
+ "duration": 71.9,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.26,
+   "text": "A psalm of David, written when he was in the wilderness of Judah. God, you are my God. I search hard for you. My soul is thirsty for you. My whole body longs for you in a dry and tired land where there is no water."
+  },
+  {
+   "verse": 2,
+   "start": 16.96,
+   "end": 21.31,
+   "text": "I have seen you in your holy place and seen your power and glory."
+  },
+  {
+   "verse": 3,
+   "start": 22.01,
+   "end": 25.85,
+   "text": "Your faithful love is better than life, so my lips will praise you."
+  },
+  {
+   "verse": 4,
+   "start": 26.55,
+   "end": 31.44,
+   "text": "I will praise you as long as I live. I will lift up my hands in prayer to you."
+  },
+  {
+   "verse": 5,
+   "start": 32.14,
+   "end": 38.81,
+   "text": "I will be satisfied as if I had eaten the richest food. My mouth will sing praises to you with joyful lips."
+  },
+  {
+   "verse": 6,
+   "start": 39.51,
+   "end": 43.52,
+   "text": "I remember you when I lie in bed. I think about you through the night."
+  },
+  {
+   "verse": 7,
+   "start": 44.22,
+   "end": 48.44,
+   "text": "You have been my helper. I sing for joy in the shadow of your wings."
+  },
+  {
+   "verse": 8,
+   "start": 49.14,
+   "end": 52.65,
+   "text": "I hold on to you closely. Your right hand holds me up."
+  },
+  {
+   "verse": 9,
+   "start": 53.35,
+   "end": 56.96,
+   "text": "But those who want to kill me will go down into the depths of the earth."
+  },
+  {
+   "verse": 10,
+   "start": 57.66,
+   "end": 61.56,
+   "text": "They will be killed by the sword. Jackals will eat their bodies."
+  },
+  {
+   "verse": 11,
+   "start": 62.26,
+   "end": 70.84,
+   "text": "But the king will be glad in God. Everyone who makes promises in God's name will praise him, and the mouths of liars will be shut."
+  }
+ ]
+}

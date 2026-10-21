@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 124,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-124.mp3",
+ "duration": 40.75,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.62,
+   "text": "A song for going up to worship. Of David. If the LORD had not been on our side, let Israel say,"
+  },
+  {
+   "verse": 2,
+   "start": 8.32,
+   "end": 11.88,
+   "text": "if the LORD had not been on our side when people attacked us,"
+  },
+  {
+   "verse": 3,
+   "start": 12.58,
+   "end": 16.11,
+   "text": "they would have swallowed us alive when their anger burned against us."
+  },
+  {
+   "verse": 4,
+   "start": 16.81,
+   "end": 20.96,
+   "text": "The flood would have swept us away. The river would have flowed over us."
+  },
+  {
+   "verse": 5,
+   "start": 21.66,
+   "end": 24.14,
+   "text": "The raging waters would have swept us away."
+  },
+  {
+   "verse": 6,
+   "start": 24.84,
+   "end": 28.59,
+   "text": "Praise the LORD, who has not let their teeth tear us apart."
+  },
+  {
+   "verse": 7,
+   "start": 29.29,
+   "end": 35.01,
+   "text": "We have escaped like a bird from the hunter's trap. The trap has been broken, and we have escaped."
+  },
+  {
+   "verse": 8,
+   "start": 35.71,
+   "end": 39.7,
+   "text": "Our help comes from the name of the LORD, who made heaven and earth."
+  }
+ ]
+}

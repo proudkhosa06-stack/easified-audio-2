@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 11,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-11.mp3",
+ "duration": 50.86,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.9,
+   "text": "For the music director. Of David. I go to the LORD for safety. So how can you say to me, \"Fly away like a bird to your mountain\"?"
+  },
+  {
+   "verse": 2,
+   "start": 9.6,
+   "end": 17.18,
+   "text": "Look, the wicked are bending their bows. They put their arrows on the strings to shoot from the dark at people whose hearts are honest."
+  },
+  {
+   "verse": 3,
+   "start": 17.88,
+   "end": 21.53,
+   "text": "When the foundations are being destroyed, what can good people do?"
+  },
+  {
+   "verse": 4,
+   "start": 22.23,
+   "end": 29.97,
+   "text": "The LORD is in his holy temple. The LORD's throne is in heaven. His eyes watch. He looks closely at all people."
+  },
+  {
+   "verse": 5,
+   "start": 30.67,
+   "end": 34.9,
+   "text": "The LORD tests good people, but he hates the wicked and those who love violence."
+  },
+  {
+   "verse": 6,
+   "start": 35.6,
+   "end": 42.91,
+   "text": "He will rain burning coals on the wicked. Fire, burning sulfur, and a scorching wind will be what they get."
+  },
+  {
+   "verse": 7,
+   "start": 43.61,
+   "end": 49.79,
+   "text": "The LORD always does what is right, and he loves what is right. Honest people will see his face."
+  }
+ ]
+}

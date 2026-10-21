@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 15,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-15.mp3",
+ "duration": 41.09,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.66,
+   "text": "A psalm of David. LORD, who can stay in your sacred tent? Who can live on your holy hill?"
+  },
+  {
+   "verse": 2,
+   "start": 7.36,
+   "end": 13.19,
+   "text": "The person who lives a blameless life, does what is right, and speaks the truth from the heart."
+  },
+  {
+   "verse": 3,
+   "start": 13.89,
+   "end": 20.67,
+   "text": "That person does not spread lies about others, does not harm a friend, and does not insult a neighbour."
+  },
+  {
+   "verse": 4,
+   "start": 21.37,
+   "end": 30.5,
+   "text": "That person looks down on those who are evil, but honours those who respect the LORD. That person keeps a promise even when it hurts, and does not change it."
+  },
+  {
+   "verse": 5,
+   "start": 31.2,
+   "end": 40.03,
+   "text": "That person lends money without charging interest, and does not take a bribe to hurt innocent people. Whoever does these things will never be shaken."
+  }
+ ]
+}

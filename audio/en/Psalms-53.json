@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 53,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-53.mp3",
+ "duration": 58.94,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 13.81,
+   "text": "For the music director. To the tune \"Mahalath.\" A thoughtful psalm of David. Foolish people say to themselves, \"There is no God.\" They are rotten and do disgusting evil. No one does good."
+  },
+  {
+   "verse": 2,
+   "start": 14.51,
+   "end": 21.08,
+   "text": "God looks down from heaven on all people to see if anyone understands, if anyone looks for God."
+  },
+  {
+   "verse": 3,
+   "start": 21.78,
+   "end": 28.16,
+   "text": "All of them have turned away. All of them have become rotten. No one does good, not even one."
+  },
+  {
+   "verse": 4,
+   "start": 28.86,
+   "end": 36.44,
+   "text": "Do these evil people know nothing? They eat up my people as if they were eating bread, and they never call on God."
+  },
+  {
+   "verse": 5,
+   "start": 37.14,
+   "end": 47.77,
+   "text": "There they were, filled with terror where there was nothing to fear. God scattered the bones of those who attacked you. You put them to shame, because God has rejected them."
+  },
+  {
+   "verse": 6,
+   "start": 48.47,
+   "end": 57.88,
+   "text": "I wish rescue for Israel would come out of Zion! When God brings his people back from captivity, Jacob will celebrate and Israel will be glad."
+  }
+ ]
+}

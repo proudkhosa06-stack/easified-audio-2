@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 16,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-16.mp3",
+ "duration": 72.26,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.31,
+   "text": "A poem of David. Keep me safe, God, because I come to you for safety."
+  },
+  {
+   "verse": 2,
+   "start": 6.01,
+   "end": 10.11,
+   "text": "I said to the LORD, \"You are my Lord. Without you I have nothing good.\""
+  },
+  {
+   "verse": 3,
+   "start": 10.81,
+   "end": 15.6,
+   "text": "God's holy people in the land are wonderful. They are the ones I take delight in."
+  },
+  {
+   "verse": 4,
+   "start": 16.3,
+   "end": 25.68,
+   "text": "Those who run after other gods will have more and more sorrow. I will not pour out their offerings of blood, or even speak the names of their gods."
+  },
+  {
+   "verse": 5,
+   "start": 26.38,
+   "end": 32.03,
+   "text": "LORD, you have given me my share and my cup of blessing. You keep what is mine safe."
+  },
+  {
+   "verse": 6,
+   "start": 32.73,
+   "end": 38.4,
+   "text": "The land you have given me is in a pleasant place. Yes, I have a wonderful inheritance."
+  },
+  {
+   "verse": 7,
+   "start": 39.1,
+   "end": 44.33,
+   "text": "I will praise the LORD, who guides me. Even at night my heart teaches me."
+  },
+  {
+   "verse": 8,
+   "start": 45.03,
+   "end": 50.8,
+   "text": "I always keep the LORD in front of me. Because he is at my right side, nothing will shake me."
+  },
+  {
+   "verse": 9,
+   "start": 51.5,
+   "end": 56.72,
+   "text": "So my heart is glad, and my tongue celebrates. My body also will rest safely."
+  },
+  {
+   "verse": 10,
+   "start": 57.42,
+   "end": 62.36,
+   "text": "You will not leave me in the grave. You will not let your holy one rot away."
+  },
+  {
+   "verse": 11,
+   "start": 63.06,
+   "end": 71.2,
+   "text": "You will show me the path of life. Being with you fills me with joy. At your right hand there are pleasures that last forever."
+  }
+ ]
+}

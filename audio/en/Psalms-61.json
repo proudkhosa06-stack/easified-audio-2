@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 61,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-61.mp3",
+ "duration": 52.66,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.1,
+   "text": "For the music director. To be played on a stringed instrument. Of David. God, hear my cry. Listen to my prayer."
+  },
+  {
+   "verse": 2,
+   "start": 8.8,
+   "end": 15.13,
+   "text": "From the ends of the earth I call to you when my heart is weak. Lead me to the rock that is higher than I am."
+  },
+  {
+   "verse": 3,
+   "start": 15.83,
+   "end": 20.13,
+   "text": "You have been my safe place, a strong tower against the enemy."
+  },
+  {
+   "verse": 4,
+   "start": 20.83,
+   "end": 27.65,
+   "text": "Let me live in your tent forever. Let me find safety in the shelter of your wings. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 28.35,
+   "end": 34.96,
+   "text": "God, you have heard my promises. You have given me what belongs to those who respect your name."
+  },
+  {
+   "verse": 6,
+   "start": 35.66,
+   "end": 39.78,
+   "text": "Make the king's life long. Let his years go on for generations."
+  },
+  {
+   "verse": 7,
+   "start": 40.48,
+   "end": 46.44,
+   "text": "Let him sit on his throne in God's presence forever. Let your faithful love and truth protect him."
+  },
+  {
+   "verse": 8,
+   "start": 47.14,
+   "end": 51.6,
+   "text": "Then I will always sing praises to your name as I keep my promises every day."
+  }
+ ]
+}

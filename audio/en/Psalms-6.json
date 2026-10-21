@@ -1,0 +1,71 @@
+{
+ "book": "Psalms",
+ "chapter": 6,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-6.mp3",
+ "duration": 70.2,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.06,
+   "text": "For the music director. To be played on stringed instruments, on the eight-stringed lyre. A psalm of David. LORD, do not correct me when you are angry. Do not punish me when you are furious."
+  },
+  {
+   "verse": 2,
+   "start": 14.76,
+   "end": 22.03,
+   "text": "Be kind to me, LORD, because I am weak. LORD, heal me, because my bones are shaking."
+  },
+  {
+   "verse": 3,
+   "start": 22.73,
+   "end": 27.67,
+   "text": "My whole being is in deep distress. LORD, how long will this go on?"
+  },
+  {
+   "verse": 4,
+   "start": 28.37,
+   "end": 32.58,
+   "text": "Come back, LORD, and rescue me. Save me because of your faithful love."
+  },
+  {
+   "verse": 5,
+   "start": 33.28,
+   "end": 37.13,
+   "text": "The dead do not remember you. Who can thank you from the grave?"
+  },
+  {
+   "verse": 6,
+   "start": 37.83,
+   "end": 45.48,
+   "text": "I am worn out from groaning. Every night my bed is flooded with my tears. I soak my couch with my crying."
+  },
+  {
+   "verse": 7,
+   "start": 46.18,
+   "end": 51.49,
+   "text": "My eyes grow weak with sorrow. They are worn out because of all my enemies."
+  },
+  {
+   "verse": 8,
+   "start": 52.19,
+   "end": 57.57,
+   "text": "Get away from me, all you who do evil, because the LORD has heard me crying."
+  },
+  {
+   "verse": 9,
+   "start": 58.27,
+   "end": 62.59,
+   "text": "The LORD has heard my cry for mercy. The LORD accepts my prayer."
+  },
+  {
+   "verse": 10,
+   "start": 63.29,
+   "end": 69.14,
+   "text": "All my enemies will be ashamed and terrified. They will turn back and suddenly be put to shame."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 95,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-95.mp3",
+ "duration": 70.32,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.82,
+   "text": "Come, let's sing for joy to the LORD! Let's shout out loud to the rock who saves us!"
+  },
+  {
+   "verse": 2,
+   "start": 6.52,
+   "end": 9.76,
+   "text": "Let's come to him with thanks. Let's praise him with songs!"
+  },
+  {
+   "verse": 3,
+   "start": 10.46,
+   "end": 14.16,
+   "text": "The LORD is a great God, a great King above all gods."
+  },
+  {
+   "verse": 4,
+   "start": 14.86,
+   "end": 20.02,
+   "text": "He holds the deepest parts of the earth in his hand. The mountain peaks belong to him."
+  },
+  {
+   "verse": 5,
+   "start": 20.72,
+   "end": 24.66,
+   "text": "The sea is his, because he made it. His hands formed the dry land."
+  },
+  {
+   "verse": 6,
+   "start": 25.36,
+   "end": 31.28,
+   "text": "Come, let's bow down and worship him. Let's kneel in front of the LORD, our Maker."
+  },
+  {
+   "verse": 7,
+   "start": 31.98,
+   "end": 40.43,
+   "text": "He is our God. We are the people he takes care of, the sheep in his care. Today, if only you would listen to his voice!"
+  },
+  {
+   "verse": 8,
+   "start": 41.13,
+   "end": 48.97,
+   "text": "He says, \"Do not make your hearts stubborn as you did at Meribah, as you did that day at Massah in the wilderness."
+  },
+  {
+   "verse": 9,
+   "start": 49.67,
+   "end": 55.23,
+   "text": "There your ancestors tested me and tried my patience, even though they had seen what I did."
+  },
+  {
+   "verse": 10,
+   "start": 55.93,
+   "end": 63.42,
+   "text": "For forty years I was angry with that generation. I said, 'Their hearts always go the wrong way. They do not know my ways.'"
+  },
+  {
+   "verse": 11,
+   "start": 64.12,
+   "end": 69.25,
+   "text": "So in my anger I made a promise: 'They will never enter my place of rest.'\""
+  }
+ ]
+}

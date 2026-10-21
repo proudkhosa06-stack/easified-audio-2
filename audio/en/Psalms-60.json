@@ -1,0 +1,83 @@
+{
+ "book": "Psalms",
+ "chapter": 60,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-60.mp3",
+ "duration": 94.27,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 22.63,
+   "text": "For the music director. To the tune \"The Lily of the Covenant.\" A teaching poem of David, written when he fought against Aram Naharaim and Aram Zobah, and when Joab came back and killed twelve thousand Edomites in the Valley of Salt. God, you have rejected us and broken through our defences. You have been angry. Now bring us back again."
+  },
+  {
+   "verse": 2,
+   "start": 23.33,
+   "end": 29.28,
+   "text": "You made the land shake and split it open. Repair its cracks, because it is shaking."
+  },
+  {
+   "verse": 3,
+   "start": 29.98,
+   "end": 35.35,
+   "text": "You have made your people suffer hard times. You have given us wine that makes us stagger."
+  },
+  {
+   "verse": 4,
+   "start": 36.05,
+   "end": 44.68,
+   "text": "But you have raised a flag for those who respect you, a place to gather because of your truth. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 45.38,
+   "end": 49.94,
+   "text": "Save us with your right hand and answer us, so the people you love may be rescued."
+  },
+  {
+   "verse": 6,
+   "start": 50.64,
+   "end": 57.74,
+   "text": "God has spoken from his holy place: \"I will win! I will divide up Shechem and measure out the Valley of Succoth."
+  },
+  {
+   "verse": 7,
+   "start": 58.44,
+   "end": 66.37,
+   "text": "Gilead is mine, and Manasseh is mine. Ephraim is my helmet. Judah is my sceptre."
+  },
+  {
+   "verse": 8,
+   "start": 67.07,
+   "end": 74.23,
+   "text": "Moab is my washbowl. I will throw my sandal on Edom to show I own it. I shout in victory over Philistia.\""
+  },
+  {
+   "verse": 9,
+   "start": 74.93,
+   "end": 79.14,
+   "text": "Who will bring me into the fortified city? Who will lead me to Edom?"
+  },
+  {
+   "verse": 10,
+   "start": 79.84,
+   "end": 84.68,
+   "text": "God, haven't you rejected us? You no longer go out with our armies, God."
+  },
+  {
+   "verse": 11,
+   "start": 85.38,
+   "end": 88.61,
+   "text": "Help us against our enemy, because human help is useless."
+  },
+  {
+   "verse": 12,
+   "start": 89.31,
+   "end": 93.22,
+   "text": "With God we will fight bravely, and he will trample down our enemies."
+  }
+ ]
+}

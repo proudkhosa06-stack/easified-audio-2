@@ -1,0 +1,89 @@
+{
+ "book": "Psalms",
+ "chapter": 96,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-96.mp3",
+ "duration": 83.47,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.52,
+   "text": "Sing a new song to the LORD! Sing to the LORD, all the earth."
+  },
+  {
+   "verse": 2,
+   "start": 5.22,
+   "end": 9.87,
+   "text": "Sing to the LORD and praise his name! Tell every day how he saves!"
+  },
+  {
+   "verse": 3,
+   "start": 10.57,
+   "end": 15.26,
+   "text": "Tell the nations about his glory. Tell all peoples about the amazing things he does."
+  },
+  {
+   "verse": 4,
+   "start": 15.96,
+   "end": 20.89,
+   "text": "The LORD is great and deserves great praise! He should be feared more than all gods."
+  },
+  {
+   "verse": 5,
+   "start": 21.59,
+   "end": 25.95,
+   "text": "All the gods of the nations are just idols, but the LORD made the skies."
+  },
+  {
+   "verse": 6,
+   "start": 26.65,
+   "end": 31.48,
+   "text": "Honour and majesty are all around him. Strength and beauty fill his holy place."
+  },
+  {
+   "verse": 7,
+   "start": 32.18,
+   "end": 38.95,
+   "text": "Give honour to the LORD, all you families of the nations. Give honour to the LORD for his glory and strength."
+  },
+  {
+   "verse": 8,
+   "start": 39.65,
+   "end": 45.25,
+   "text": "Give the LORD the glory his name deserves. Bring an offering and come into his courtyards."
+  },
+  {
+   "verse": 9,
+   "start": 45.95,
+   "end": 51.8,
+   "text": "Worship the LORD in the beauty of holiness. Tremble in front of him, all the earth."
+  },
+  {
+   "verse": 10,
+   "start": 52.5,
+   "end": 60.55,
+   "text": "Tell the nations, \"The LORD rules!\" The world is firmly in place. It cannot be moved. He will judge the peoples fairly."
+  },
+  {
+   "verse": 11,
+   "start": 61.25,
+   "end": 66.42,
+   "text": "Let the skies be glad and the earth celebrate! Let the sea and everything in it roar!"
+  },
+  {
+   "verse": 12,
+   "start": 67.12,
+   "end": 73.6,
+   "text": "Let the fields and everything in them be full of joy! Then all the trees of the forest will sing for joy"
+  },
+  {
+   "verse": 13,
+   "start": 74.3,
+   "end": 82.41,
+   "text": "in front of the LORD, because he is coming. He is coming to judge the earth. He will judge the world fairly and the peoples with his truth."
+  }
+ ]
+}

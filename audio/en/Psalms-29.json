@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 29,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-29.mp3",
+ "duration": 67.1,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.94,
+   "text": "A psalm of David. Give honour to the LORD, you heavenly beings. Give honour to the LORD for his glory and strength."
+  },
+  {
+   "verse": 2,
+   "start": 9.64,
+   "end": 14.58,
+   "text": "Give the LORD the glory his name deserves. Worship the LORD in the beauty of holiness."
+  },
+  {
+   "verse": 3,
+   "start": 15.28,
+   "end": 21.76,
+   "text": "The LORD's voice is over the waters. The God of glory thunders. The LORD thunders over the mighty waters."
+  },
+  {
+   "verse": 4,
+   "start": 22.46,
+   "end": 26.46,
+   "text": "The LORD's voice is powerful. The LORD's voice is full of majesty."
+  },
+  {
+   "verse": 5,
+   "start": 27.16,
+   "end": 32.44,
+   "text": "The LORD's voice breaks the cedar trees. The LORD smashes the cedars of Lebanon."
+  },
+  {
+   "verse": 6,
+   "start": 33.14,
+   "end": 39.05,
+   "text": "He makes the mountains of Lebanon jump like a calf, and Mount Sirion like a young wild ox."
+  },
+  {
+   "verse": 7,
+   "start": 39.75,
+   "end": 42.39,
+   "text": "The LORD's voice strikes with flashes of lightning."
+  },
+  {
+   "verse": 8,
+   "start": 43.09,
+   "end": 47.98,
+   "text": "The LORD's voice shakes the wilderness. The LORD shakes the wilderness of Kadesh."
+  },
+  {
+   "verse": 9,
+   "start": 48.68,
+   "end": 55.3,
+   "text": "The LORD's voice makes the deer give birth and strips the forests bare. In his temple everyone shouts, \"Glory!\""
+  },
+  {
+   "verse": 10,
+   "start": 56.0,
+   "end": 60.93,
+   "text": "The LORD sat on his throne above the flood. The LORD sits on his throne as King forever."
+  },
+  {
+   "verse": 11,
+   "start": 61.63,
+   "end": 66.05,
+   "text": "The LORD gives strength to his people. The LORD blesses his people with peace."
+  }
+ ]
+}

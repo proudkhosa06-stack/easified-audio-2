@@ -1,0 +1,83 @@
+{
+ "book": "Psalms",
+ "chapter": 30,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-30.mp3",
+ "duration": 83.93,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.13,
+   "text": "A psalm. A song for the dedication of the temple. Of David. I will praise you highly, LORD, because you lifted me up. You did not let my enemies celebrate over me."
+  },
+  {
+   "verse": 2,
+   "start": 12.83,
+   "end": 16.76,
+   "text": "LORD my God, I cried to you for help, and you healed me."
+  },
+  {
+   "verse": 3,
+   "start": 17.46,
+   "end": 23.18,
+   "text": "LORD, you brought me up from the grave. You kept me alive so I did not go down into the pit."
+  },
+  {
+   "verse": 4,
+   "start": 23.88,
+   "end": 30.21,
+   "text": "Sing praise to the LORD, all you his faithful people. Thank him and remember his holy name."
+  },
+  {
+   "verse": 5,
+   "start": 30.91,
+   "end": 39.16,
+   "text": "His anger lasts only a moment, but his kindness lasts a lifetime. Crying may last through the night, but joy comes in the morning."
+  },
+  {
+   "verse": 6,
+   "start": 39.86,
+   "end": 44.18,
+   "text": "When things were going well for me, I said, \"Nothing will ever shake me.\""
+  },
+  {
+   "verse": 7,
+   "start": 44.88,
+   "end": 52.47,
+   "text": "LORD, when you were kind to me, you made me as strong as a mountain. But when you hid your face, I was terrified."
+  },
+  {
+   "verse": 8,
+   "start": 53.17,
+   "end": 56.74,
+   "text": "I cried to you, LORD. I begged the Lord for mercy:"
+  },
+  {
+   "verse": 9,
+   "start": 57.44,
+   "end": 64.57,
+   "text": "\"What good will it do if I die, if I go down into the pit? Can dust praise you? Can it tell how faithful you are?"
+  },
+  {
+   "verse": 10,
+   "start": 65.27,
+   "end": 69.36,
+   "text": "Hear me, LORD, and be kind to me. LORD, be my helper.\""
+  },
+  {
+   "verse": 11,
+   "start": 70.06,
+   "end": 75.97,
+   "text": "You turned my crying into dancing. You took off my clothes of sadness and dressed me with joy,"
+  },
+  {
+   "verse": 12,
+   "start": 76.67,
+   "end": 82.86,
+   "text": "so that my heart may sing praises to you and not be silent. LORD my God, I will thank you forever!"
+  }
+ ]
+}

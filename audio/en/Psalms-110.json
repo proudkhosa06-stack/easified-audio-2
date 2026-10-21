@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 110,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-110.mp3",
+ "duration": 53.47,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.86,
+   "text": "A psalm of David. The LORD says to my Lord, \"Sit at my right hand until I make your enemies a footstool for your feet.\""
+  },
+  {
+   "verse": 2,
+   "start": 8.56,
+   "end": 13.69,
+   "text": "The LORD will stretch out your powerful sceptre from Zion. Rule over your enemies!"
+  },
+  {
+   "verse": 3,
+   "start": 14.39,
+   "end": 25.19,
+   "text": "Your people will gladly offer themselves on the day you lead your army, dressed in holy splendour. Your young men will come to you like dew from the womb of the dawn."
+  },
+  {
+   "verse": 4,
+   "start": 25.89,
+   "end": 32.7,
+   "text": "The LORD has made a promise and will not change his mind: \"You are a priest forever, like Melchizedek.\""
+  },
+  {
+   "verse": 5,
+   "start": 33.4,
+   "end": 38.45,
+   "text": "The Lord is at your right hand. He will crush kings on the day of his anger."
+  },
+  {
+   "verse": 6,
+   "start": 39.15,
+   "end": 46.63,
+   "text": "He will judge the nations and fill the battlefields with dead bodies. He will crush rulers all over the earth."
+  },
+  {
+   "verse": 7,
+   "start": 47.33,
+   "end": 52.42,
+   "text": "He will drink from a stream beside the road, and so he will lift his head high in victory."
+  }
+ ]
+}

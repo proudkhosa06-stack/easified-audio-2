@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 12,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-12.mp3",
+ "duration": 57.94,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.3,
+   "text": "For the music director. On the eight-stringed lyre. A psalm of David. Help, LORD, because there are no faithful people left. Loyal people have disappeared from among humans."
+  },
+  {
+   "verse": 2,
+   "start": 12.0,
+   "end": 17.45,
+   "text": "Everyone lies to their neighbour. They flatter with their lips, but they say one thing and mean another."
+  },
+  {
+   "verse": 3,
+   "start": 18.15,
+   "end": 22.22,
+   "text": "May the LORD cut off all flattering lips and every tongue that boasts."
+  },
+  {
+   "verse": 4,
+   "start": 22.92,
+   "end": 28.59,
+   "text": "They say, \"We will win with our tongues. Our lips belong to us. Who can be our master?\""
+  },
+  {
+   "verse": 5,
+   "start": 29.29,
+   "end": 39.17,
+   "text": "The LORD says, \"Because the weak are being crushed and the needy are groaning, I will now get up and act. I will keep them safe from those who attack them.\""
+  },
+  {
+   "verse": 6,
+   "start": 39.87,
+   "end": 47.06,
+   "text": "The LORD's words are pure, like silver that has been melted in a clay furnace and refined seven times."
+  },
+  {
+   "verse": 7,
+   "start": 47.76,
+   "end": 52.04,
+   "text": "LORD, you will keep them safe. You will protect them from these people forever."
+  },
+  {
+   "verse": 8,
+   "start": 52.74,
+   "end": 56.87,
+   "text": "Wicked people strut around everywhere when what is shameful is praised by people."
+  }
+ ]
+}

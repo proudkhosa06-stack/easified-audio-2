@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 43,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-43.mp3",
+ "duration": 45.65,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.31,
+   "text": "God, prove that I am innocent. Defend my cause against an ungodly nation. Rescue me from liars and evil people."
+  },
+  {
+   "verse": 2,
+   "start": 9.01,
+   "end": 16.25,
+   "text": "You are God, my strength. Why have you rejected me? Why must I go around crying because my enemy is crushing me?"
+  },
+  {
+   "verse": 3,
+   "start": 16.95,
+   "end": 24.47,
+   "text": "Send out your light and your truth. Let them lead me. Let them bring me to your holy hill, to the place where you live."
+  },
+  {
+   "verse": 4,
+   "start": 25.17,
+   "end": 33.05,
+   "text": "Then I will go to the altar of God, to God, my greatest joy. I will praise you with the harp, God, my God."
+  },
+  {
+   "verse": 5,
+   "start": 33.75,
+   "end": 44.59,
+   "text": "Why are you so sad, my soul? Why are you so upset inside me? Put your hope in God! I will praise him again, my saviour, my helper, and my God."
+  }
+ ]
+}

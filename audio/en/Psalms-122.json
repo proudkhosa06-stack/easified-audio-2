@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 122,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-122.mp3",
+ "duration": 48.12,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.75,
+   "text": "A song for going up to worship. Of David. I was glad when they said to me, \"Let's go to the house of the LORD!\""
+  },
+  {
+   "verse": 2,
+   "start": 7.45,
+   "end": 10.65,
+   "text": "Jerusalem, our feet are standing inside your gates!"
+  },
+  {
+   "verse": 3,
+   "start": 11.35,
+   "end": 15.23,
+   "text": "Jerusalem is built as a city where everything fits closely together."
+  },
+  {
+   "verse": 4,
+   "start": 15.93,
+   "end": 22.73,
+   "text": "The tribes go up there, the tribes of the LORD, as the law for Israel says, to thank the name of the LORD."
+  },
+  {
+   "verse": 5,
+   "start": 23.43,
+   "end": 28.06,
+   "text": "There the thrones for judging stand, the thrones of the family of David."
+  },
+  {
+   "verse": 6,
+   "start": 28.76,
+   "end": 32.77,
+   "text": "Pray for peace in Jerusalem. May those who love you be safe."
+  },
+  {
+   "verse": 7,
+   "start": 33.47,
+   "end": 37.04,
+   "text": "May there be peace inside your walls and safety in your palaces."
+  },
+  {
+   "verse": 8,
+   "start": 37.74,
+   "end": 42.19,
+   "text": "For the sake of my family and friends, I will say, \"May peace be with you.\""
+  },
+  {
+   "verse": 9,
+   "start": 42.89,
+   "end": 47.05,
+   "text": "For the sake of the house of the LORD our God, I will work for your good."
+  }
+ ]
+}

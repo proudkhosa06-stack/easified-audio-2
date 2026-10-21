@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 8,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-8.mp3",
+ "duration": 62.06,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 13.77,
+   "text": "For the music director. On an instrument from Gath. A psalm of David. LORD, our Lord, how wonderful your name is in all the earth! You have put your glory above the skies."
+  },
+  {
+   "verse": 2,
+   "start": 14.47,
+   "end": 22.97,
+   "text": "From the mouths of children and babies you have built up strength because of your enemies, to silence the enemy and the one who wants revenge."
+  },
+  {
+   "verse": 3,
+   "start": 23.67,
+   "end": 29.2,
+   "text": "When I look at your skies, which your fingers made, the moon and the stars you put in place,"
+  },
+  {
+   "verse": 4,
+   "start": 29.9,
+   "end": 35.28,
+   "text": "what are human beings that you think about them? What is a mere person that you care for him?"
+  },
+  {
+   "verse": 5,
+   "start": 35.98,
+   "end": 40.57,
+   "text": "You made him a little lower than the angels, and you crowned him with glory and honour."
+  },
+  {
+   "verse": 6,
+   "start": 41.27,
+   "end": 45.59,
+   "text": "You made him ruler over everything you made. You put everything under his feet:"
+  },
+  {
+   "verse": 7,
+   "start": 46.29,
+   "end": 49.88,
+   "text": "all the sheep and cattle, and the wild animals too,"
+  },
+  {
+   "verse": 8,
+   "start": 50.58,
+   "end": 56.71,
+   "text": "the birds in the sky, the fish in the sea, and everything that swims along the paths of the seas."
+  },
+  {
+   "verse": 9,
+   "start": 57.41,
+   "end": 61.0,
+   "text": "LORD, our Lord, how wonderful your name is in all the earth!"
+  }
+ ]
+}

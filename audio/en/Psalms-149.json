@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 149,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-149.mp3",
+ "duration": 54.77,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.47,
+   "text": "Praise the LORD! Sing a new song to the LORD. Praise him in the gathering of his faithful people."
+  },
+  {
+   "verse": 2,
+   "start": 7.17,
+   "end": 14.09,
+   "text": "Let Israel be glad because of their Maker. Let the people of Zion be full of joy because of their King."
+  },
+  {
+   "verse": 3,
+   "start": 14.79,
+   "end": 20.37,
+   "text": "Let them praise his name with dancing. Let them make music to him with tambourine and harp."
+  },
+  {
+   "verse": 4,
+   "start": 21.07,
+   "end": 25.38,
+   "text": "The LORD takes delight in his people. He crowns humble people with victory."
+  },
+  {
+   "verse": 5,
+   "start": 26.08,
+   "end": 31.75,
+   "text": "Let his faithful people celebrate his glory. Let them sing for joy on their beds."
+  },
+  {
+   "verse": 6,
+   "start": 32.45,
+   "end": 37.24,
+   "text": "Let the praises of God be in their mouths and a two-edged sword in their hands,"
+  },
+  {
+   "verse": 7,
+   "start": 37.94,
+   "end": 41.5,
+   "text": "to punish the nations and bring judgment on the peoples,"
+  },
+  {
+   "verse": 8,
+   "start": 42.2,
+   "end": 46.23,
+   "text": "to tie up their kings with chains and their leaders with iron shackles,"
+  },
+  {
+   "verse": 9,
+   "start": 46.93,
+   "end": 53.71,
+   "text": "to carry out the judgment written against them. This is the honour of all his faithful people. Praise the LORD!"
+  }
+ ]
+}

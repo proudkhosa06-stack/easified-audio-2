@@ -1,0 +1,65 @@
+{
+ "book": "Psalms",
+ "chapter": 99,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-99.mp3",
+ "duration": 62.71,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.06,
+   "text": "The LORD rules! Let the nations tremble. He sits on his throne between the cherubim. Let the earth shake."
+  },
+  {
+   "verse": 2,
+   "start": 8.76,
+   "end": 13.65,
+   "text": "The LORD is great in Zion. He is honoured above all the nations."
+  },
+  {
+   "verse": 3,
+   "start": 14.35,
+   "end": 17.85,
+   "text": "Let them praise your great and amazing name. He is holy!"
+  },
+  {
+   "verse": 4,
+   "start": 18.55,
+   "end": 25.69,
+   "text": "The King is mighty and loves justice. You have set up fairness. You have done what is right and fair in Jacob."
+  },
+  {
+   "verse": 5,
+   "start": 26.39,
+   "end": 31.02,
+   "text": "Honour the LORD our God. Worship at his footstool. He is holy!"
+  },
+  {
+   "verse": 6,
+   "start": 31.72,
+   "end": 40.56,
+   "text": "Moses and Aaron were among his priests. Samuel was among those who called on his name. They called to the LORD, and he answered them."
+  },
+  {
+   "verse": 7,
+   "start": 41.26,
+   "end": 46.71,
+   "text": "He spoke to them from the pillar of cloud. They kept the laws and rules he gave them."
+  },
+  {
+   "verse": 8,
+   "start": 47.41,
+   "end": 54.81,
+   "text": "LORD our God, you answered them. You were a God who forgave them, even though you punished them for their wrong actions."
+  },
+  {
+   "verse": 9,
+   "start": 55.51,
+   "end": 61.65,
+   "text": "Honour the LORD our God. Worship at his holy hill, because the LORD our God is holy!"
+  }
+ ]
+}

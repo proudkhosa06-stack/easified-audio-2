@@ -1,0 +1,77 @@
+{
+ "book": "Psalms",
+ "chapter": 32,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-32.mp3",
+ "duration": 82.87,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.81,
+   "text": "Of David. A thoughtful psalm. Happy is the person whose wrongdoing is forgiven, whose sin is covered."
+  },
+  {
+   "verse": 2,
+   "start": 8.51,
+   "end": 14.46,
+   "text": "Happy is the person whom the LORD does not count as guilty, whose spirit has no lies in it."
+  },
+  {
+   "verse": 3,
+   "start": 15.16,
+   "end": 20.72,
+   "text": "When I kept quiet about my sin, my body wasted away because I groaned all day long."
+  },
+  {
+   "verse": 4,
+   "start": 21.42,
+   "end": 26.83,
+   "text": "Day and night your hand pressed down on me. My strength dried up as in the heat of summer. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 27.53,
+   "end": 36.68,
+   "text": "Then I admitted my sin to you. I did not hide my wrongdoing. I said, \"I will confess my sins to the LORD,\" and you forgave the guilt of my sin. Selah."
+  },
+  {
+   "verse": 6,
+   "start": 37.38,
+   "end": 45.63,
+   "text": "So let all your faithful people pray to you while they can still find you. Then when the great floodwaters rise, they will not reach them."
+  },
+  {
+   "verse": 7,
+   "start": 46.33,
+   "end": 51.95,
+   "text": "You are my hiding place. You protect me from trouble. You surround me with songs of rescue. Selah."
+  },
+  {
+   "verse": 8,
+   "start": 52.65,
+   "end": 58.29,
+   "text": "I will teach you and show you the way you should go. I will guide you and keep my eye on you."
+  },
+  {
+   "verse": 9,
+   "start": 58.99,
+   "end": 67.08,
+   "text": "Do not be like a horse or a mule, which have no understanding. They must be controlled with bits and bridles, or they will not come to you."
+  },
+  {
+   "verse": 10,
+   "start": 67.78,
+   "end": 73.72,
+   "text": "Wicked people have many sorrows, but the LORD's faithful love surrounds those who trust in him."
+  },
+  {
+   "verse": 11,
+   "start": 74.42,
+   "end": 81.82,
+   "text": "Be glad in the LORD and celebrate, you who do what is right! Shout for joy, all you whose hearts are honest!"
+  }
+ ]
+}

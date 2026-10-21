@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 1,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-1.mp3",
+ "duration": 45.26,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.78,
+   "text": "Happy is the person who does not follow the advice of wicked people, who does not stand on the path that sinners take, and who does not sit down with people who mock."
+  },
+  {
+   "verse": 2,
+   "start": 11.48,
+   "end": 15.61,
+   "text": "Instead, he loves the LORD's law, and he thinks about it day and night."
+  },
+  {
+   "verse": 3,
+   "start": 16.31,
+   "end": 26.69,
+   "text": "He is like a tree planted beside streams of water. It gives its fruit at the right time, and its leaves never dry up. Everything he does goes well."
+  },
+  {
+   "verse": 4,
+   "start": 27.39,
+   "end": 32.11,
+   "text": "Wicked people are not like that. They are like chaff that the wind blows away."
+  },
+  {
+   "verse": 5,
+   "start": 32.81,
+   "end": 38.73,
+   "text": "So the wicked will not stand firm on judgment day. Sinners will have no place among good people."
+  },
+  {
+   "verse": 6,
+   "start": 39.43,
+   "end": 44.21,
+   "text": "The LORD watches over the way of good people, but the way of the wicked leads to ruin."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 70,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-70.mp3",
+ "duration": 41.4,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.64,
+   "text": "For the music director. Of David. To help remember. God, hurry to rescue me. LORD, come quickly to help me."
+  },
+  {
+   "verse": 2,
+   "start": 9.34,
+   "end": 16.85,
+   "text": "Let those who are trying to kill me be put to shame and confused. Let those who want to ruin me be turned back in disgrace."
+  },
+  {
+   "verse": 3,
+   "start": 17.55,
+   "end": 22.57,
+   "text": "Let those who say, \"Aha! Aha!\" turn back because of their shame."
+  },
+  {
+   "verse": 4,
+   "start": 23.27,
+   "end": 31.49,
+   "text": "But let all who look for you be full of joy and gladness because of you. Let those who love your saving help always say, \"God is great!\""
+  },
+  {
+   "verse": 5,
+   "start": 32.19,
+   "end": 40.33,
+   "text": "But I am poor and needy. Come quickly to me, God. You are my helper and my rescuer. LORD, do not wait."
+  }
+ ]
+}

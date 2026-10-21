@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 87,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-87.mp3",
+ "duration": 53.5,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.25,
+   "text": "A psalm of the sons of Korah. A song. The LORD built his city on the holy mountains."
+  },
+  {
+   "verse": 2,
+   "start": 7.95,
+   "end": 13.36,
+   "text": "The LORD loves the gates of Zion more than all the other places where the people of Jacob live."
+  },
+  {
+   "verse": 3,
+   "start": 14.06,
+   "end": 18.04,
+   "text": "City of God, wonderful things are said about you. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 18.74,
+   "end": 31.52,
+   "text": "God says, \"I will list Rahab and Babylon among those who know me. Philistia, Tyre, and Ethiopia too. People will say, 'This one was born in Zion.'\""
+  },
+  {
+   "verse": 5,
+   "start": 32.22,
+   "end": 40.87,
+   "text": "It will be said about Zion, \"This one and that one were born there.\" The Most High himself will make it strong."
+  },
+  {
+   "verse": 6,
+   "start": 41.57,
+   "end": 47.24,
+   "text": "When the LORD writes down the names of the nations, he will note, \"This one was born there.\" Selah."
+  },
+  {
+   "verse": 7,
+   "start": 47.94,
+   "end": 52.44,
+   "text": "Those who sing and those who dance will say, \"All my springs of joy are in you.\""
+  }
+ ]
+}

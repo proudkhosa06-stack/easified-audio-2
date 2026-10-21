@@ -1,0 +1,29 @@
+{
+ "book": "Psalms",
+ "chapter": 133,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-133.mp3",
+ "duration": 27.0,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.04,
+   "text": "A song for going up to worship. Of David. How good and pleasant it is when God's people live together in unity!"
+  },
+  {
+   "verse": 2,
+   "start": 8.74,
+   "end": 17.22,
+   "text": "It is like precious oil poured on the head, running down over the beard, down Aaron's beard, down to the collar of his robes."
+  },
+  {
+   "verse": 3,
+   "start": 17.92,
+   "end": 25.95,
+   "text": "It is like the dew of Mount Hermon falling on the hills of Zion. That is where the LORD gives his blessing, life that lasts forever."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 125,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-125.mp3",
+ "duration": 36.24,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.55,
+   "text": "A song for going up to worship. Those who trust in the LORD are like Mount Zion. It cannot be shaken. It stands firm forever."
+  },
+  {
+   "verse": 2,
+   "start": 10.25,
+   "end": 14.91,
+   "text": "As the mountains surround Jerusalem, the LORD surrounds his people now and forever."
+  },
+  {
+   "verse": 3,
+   "start": 15.61,
+   "end": 22.22,
+   "text": "The wicked will not keep ruling over the land given to good people, or good people might be tempted to do evil."
+  },
+  {
+   "verse": 4,
+   "start": 22.92,
+   "end": 27.36,
+   "text": "LORD, be good to those who are good, to those whose hearts are honest."
+  },
+  {
+   "verse": 5,
+   "start": 28.06,
+   "end": 35.17,
+   "text": "But those who turn to crooked ways, the LORD will drive them away with those who do evil. May there be peace in Israel."
+  }
+ ]
+}

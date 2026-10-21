@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 101,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-101.mp3",
+ "duration": 59.06,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.2,
+   "text": "A psalm of David. I will sing about your faithful love and justice. LORD, I will sing praises to you."
+  },
+  {
+   "verse": 2,
+   "start": 7.9,
+   "end": 15.37,
+   "text": "I will be careful to live a blameless life. When will you come to me? I will live in my own house with a blameless heart."
+  },
+  {
+   "verse": 3,
+   "start": 16.07,
+   "end": 22.88,
+   "text": "I will not look at anything shameful. I hate what unfaithful people do. I will have nothing to do with it."
+  },
+  {
+   "verse": 4,
+   "start": 23.58,
+   "end": 27.81,
+   "text": "I will keep away from a twisted heart. I will have nothing to do with evil."
+  },
+  {
+   "verse": 5,
+   "start": 28.51,
+   "end": 36.0,
+   "text": "I will silence anyone who secretly tells lies about a neighbour. I will not put up with anyone who has proud eyes and a proud heart."
+  },
+  {
+   "verse": 6,
+   "start": 36.7,
+   "end": 44.0,
+   "text": "I will look for faithful people in the land, so they can live with me. Those who live blameless lives will serve me."
+  },
+  {
+   "verse": 7,
+   "start": 44.7,
+   "end": 50.18,
+   "text": "No one who cheats will live in my house. No one who tells lies will stay in my presence."
+  },
+  {
+   "verse": 8,
+   "start": 50.88,
+   "end": 58.01,
+   "text": "Every morning I will silence all the wicked in the land. I will remove every evil person from the city of the LORD."
+  }
+ ]
+}

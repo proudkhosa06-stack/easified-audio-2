@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 67,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-67.mp3",
+ "duration": 45.89,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 11.91,
+   "text": "For the music director. To be played on stringed instruments. A psalm. A song. May God be kind to us and bless us. May his face shine on us. Selah."
+  },
+  {
+   "verse": 2,
+   "start": 12.61,
+   "end": 17.73,
+   "text": "Then your ways will be known on earth, and your saving power among all nations."
+  },
+  {
+   "verse": 3,
+   "start": 18.43,
+   "end": 22.32,
+   "text": "Let the nations praise you, God. Let all the nations praise you."
+  },
+  {
+   "verse": 4,
+   "start": 23.02,
+   "end": 30.08,
+   "text": "Let the nations be glad and sing for joy, because you judge the peoples fairly and guide the nations on earth. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 30.78,
+   "end": 35.36,
+   "text": "Let the nations praise you, God. Let all the nations praise you."
+  },
+  {
+   "verse": 6,
+   "start": 36.06,
+   "end": 40.45,
+   "text": "The land has given its harvest. God, our God, blesses us."
+  },
+  {
+   "verse": 7,
+   "start": 41.15,
+   "end": 44.82,
+   "text": "God blesses us. All the ends of the earth will respect him."
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+ "book": "Psalms",
+ "chapter": 78,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-78.mp3",
+ "duration": 431.26,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.25,
+   "text": "A thoughtful psalm of Asaph. My people, listen to my teaching. Pay attention to what I say."
+  },
+  {
+   "verse": 2,
+   "start": 7.95,
+   "end": 12.16,
+   "text": "I will speak to you in stories. I will explain mysteries from long ago,"
+  },
+  {
+   "verse": 3,
+   "start": 12.86,
+   "end": 16.34,
+   "text": "things we have heard and know, things our ancestors told us."
+  },
+  {
+   "verse": 4,
+   "start": 17.04,
+   "end": 26.81,
+   "text": "We will not hide them from their children. We will tell the next generation about the LORD's praiseworthy acts, his power, and the amazing things he has done."
+  },
+  {
+   "verse": 5,
+   "start": 27.51,
+   "end": 34.76,
+   "text": "He made a covenant with Jacob and gave his law to Israel. He commanded our ancestors to teach it to their children,"
+  },
+  {
+   "verse": 6,
+   "start": 35.46,
+   "end": 42.11,
+   "text": "so the next generation would know it, even children not yet born, and they would get up and tell their own children."
+  },
+  {
+   "verse": 7,
+   "start": 42.81,
+   "end": 48.27,
+   "text": "Then they would put their hope in God and not forget what he has done, but would keep his commands."
+  },
+  {
+   "verse": 8,
+   "start": 48.97,
+   "end": 58.7,
+   "text": "They would not be like their ancestors, a stubborn and rebellious generation, whose hearts were not loyal to God and whose spirits were not faithful to him."
+  },
+  {
+   "verse": 9,
+   "start": 59.4,
+   "end": 64.19,
+   "text": "The soldiers of Ephraim were armed with bows, but they turned and ran on the day of battle."
+  },
+  {
+   "verse": 10,
+   "start": 64.89,
+   "end": 69.12,
+   "text": "They did not keep God's covenant. They refused to live by his law."
+  },
+  {
+   "verse": 11,
+   "start": 69.82,
+   "end": 73.64,
+   "text": "They forgot what he had done, the amazing things he had shown them."
+  },
+  {
+   "verse": 12,
+   "start": 74.34,
+   "end": 79.75,
+   "text": "He did miracles in front of their ancestors in the land of Egypt, in the region of Zoan."
+  },
+  {
+   "verse": 13,
+   "start": 80.45,
+   "end": 85.28,
+   "text": "He split the sea and led them through. He made the water stand up like a wall."
+  },
+  {
+   "verse": 14,
+   "start": 85.98,
+   "end": 90.31,
+   "text": "He led them with a cloud by day and with the light of a fire all night."
+  },
+  {
+   "verse": 15,
+   "start": 91.01,
+   "end": 96.58,
+   "text": "He split the rocks in the wilderness and gave them plenty of water, as if from the deep sea."
+  },
+  {
+   "verse": 16,
+   "start": 97.28,
+   "end": 101.87,
+   "text": "He made streams come out of the rock and made water flow down like rivers."
+  },
+  {
+   "verse": 17,
+   "start": 102.57,
+   "end": 107.7,
+   "text": "But they kept on sinning against him, rebelling against the Most High in the desert."
+  },
+  {
+   "verse": 18,
+   "start": 108.4,
+   "end": 112.19,
+   "text": "They deliberately tested God by demanding the food they craved."
+  },
+  {
+   "verse": 19,
+   "start": 112.89,
+   "end": 117.21,
+   "text": "They spoke against God. They said, \"Can God set a table of food in the wilderness?"
+  },
+  {
+   "verse": 20,
+   "start": 117.91,
+   "end": 127.5,
+   "text": "It is true that he struck the rock and water gushed out and streams overflowed. But can he also give us bread? Can he supply meat for his people?\""
+  },
+  {
+   "verse": 21,
+   "start": 128.2,
+   "end": 135.69,
+   "text": "When the LORD heard this, he was very angry. A fire broke out against Jacob, and his anger rose against Israel,"
+  },
+  {
+   "verse": 22,
+   "start": 136.39,
+   "end": 139.68,
+   "text": "because they did not believe God or trust him to save them."
+  },
+  {
+   "verse": 23,
+   "start": 140.38,
+   "end": 144.7,
+   "text": "Yet he gave a command to the skies above and opened the doors of heaven."
+  },
+  {
+   "verse": 24,
+   "start": 145.4,
+   "end": 149.85,
+   "text": "He rained down manna for them to eat. He gave them grain from heaven."
+  },
+  {
+   "verse": 25,
+   "start": 150.55,
+   "end": 155.19,
+   "text": "People ate the bread of angels. He sent them all the food they could eat."
+  },
+  {
+   "verse": 26,
+   "start": 155.89,
+   "end": 160.75,
+   "text": "He made the east wind blow in the sky, and by his power he led out the south wind."
+  },
+  {
+   "verse": 27,
+   "start": 161.45,
+   "end": 166.96,
+   "text": "He rained down meat on them like dust, birds as many as the sand on the seashore."
+  },
+  {
+   "verse": 28,
+   "start": 167.66,
+   "end": 171.1,
+   "text": "He made them fall inside their camp, all around their tents."
+  },
+  {
+   "verse": 29,
+   "start": 171.8,
+   "end": 175.68,
+   "text": "So they ate until they were more than full. He gave them what they craved."
+  },
+  {
+   "verse": 30,
+   "start": 176.38,
+   "end": 181.0,
+   "text": "But before they had finished eating what they wanted, while the food was still in their mouths,"
+  },
+  {
+   "verse": 31,
+   "start": 181.7,
+   "end": 188.04,
+   "text": "God's anger rose against them. He killed their strongest men and struck down the young men of Israel."
+  },
+  {
+   "verse": 32,
+   "start": 188.74,
+   "end": 194.15,
+   "text": "In spite of all this, they kept on sinning. They did not believe in his amazing works."
+  },
+  {
+   "verse": 33,
+   "start": 194.85,
+   "end": 199.95,
+   "text": "So he ended their days with nothing to show for them, and their years in terror."
+  },
+  {
+   "verse": 34,
+   "start": 200.65,
+   "end": 207.29,
+   "text": "Whenever God killed some of them, the rest would look for him. They would turn back and eagerly search for God."
+  },
+  {
+   "verse": 35,
+   "start": 207.99,
+   "end": 213.79,
+   "text": "They remembered that God was their rock, that God Most High was the one who rescued them."
+  },
+  {
+   "verse": 36,
+   "start": 214.49,
+   "end": 218.32,
+   "text": "But they only flattered him with their mouths and lied to him with their tongues."
+  },
+  {
+   "verse": 37,
+   "start": 219.02,
+   "end": 222.99,
+   "text": "Their hearts were not loyal to him. They were not faithful to his covenant."
+  },
+  {
+   "verse": 38,
+   "start": 223.69,
+   "end": 233.34,
+   "text": "But he was full of mercy. He forgave their sins and did not destroy them. Many times he held back his anger and did not let all his fury loose."
+  },
+  {
+   "verse": 39,
+   "start": 234.04,
+   "end": 239.36,
+   "text": "He remembered that they were only human, a breath of wind that passes and does not come back."
+  },
+  {
+   "verse": 40,
+   "start": 240.06,
+   "end": 244.55,
+   "text": "How often they rebelled against him in the wilderness and made him sad in the desert!"
+  },
+  {
+   "verse": 41,
+   "start": 245.25,
+   "end": 249.0,
+   "text": "Again and again they tested God and upset the Holy One of Israel."
+  },
+  {
+   "verse": 42,
+   "start": 249.7,
+   "end": 253.84,
+   "text": "They did not remember his power or the day he rescued them from their enemy,"
+  },
+  {
+   "verse": 43,
+   "start": 254.54,
+   "end": 259.41,
+   "text": "when he did his miraculous signs in Egypt and his wonders in the region of Zoan."
+  },
+  {
+   "verse": 44,
+   "start": 260.11,
+   "end": 264.4,
+   "text": "He turned their rivers into blood, so they could not drink from their streams."
+  },
+  {
+   "verse": 45,
+   "start": 265.1,
+   "end": 269.86,
+   "text": "He sent swarms of flies that ate them up, and frogs that ruined them."
+  },
+  {
+   "verse": 46,
+   "start": 270.56,
+   "end": 275.11,
+   "text": "He gave their crops to grasshoppers, and the work of their hands to locusts."
+  },
+  {
+   "verse": 47,
+   "start": 275.81,
+   "end": 280.14,
+   "text": "He destroyed their grapevines with hail and their fig trees with frost."
+  },
+  {
+   "verse": 48,
+   "start": 280.84,
+   "end": 285.14,
+   "text": "He handed their cattle over to the hail and their flocks to bolts of lightning."
+  },
+  {
+   "verse": 49,
+   "start": 285.84,
+   "end": 293.23,
+   "text": "He let loose on them his burning anger, his fury, rage, and trouble, a group of destroying angels."
+  },
+  {
+   "verse": 50,
+   "start": 293.93,
+   "end": 300.05,
+   "text": "He cleared a path for his anger. He did not spare them from death but handed their lives over to disease."
+  },
+  {
+   "verse": 51,
+   "start": 300.75,
+   "end": 306.58,
+   "text": "He struck down all the firstborn sons in Egypt, the first of their strength in the tents of Ham."
+  },
+  {
+   "verse": 52,
+   "start": 307.28,
+   "end": 312.56,
+   "text": "But he led his own people out like sheep. He guided them like a flock through the wilderness."
+  },
+  {
+   "verse": 53,
+   "start": 313.26,
+   "end": 318.44,
+   "text": "He led them safely, so they were not afraid. But the sea swallowed up their enemies."
+  },
+  {
+   "verse": 54,
+   "start": 319.14,
+   "end": 324.04,
+   "text": "He brought them to the border of his holy land, to the hill country his right hand had won."
+  },
+  {
+   "verse": 55,
+   "start": 324.74,
+   "end": 333.43,
+   "text": "He drove out nations in front of them. He measured out their land as an inheritance for them, and let the tribes of Israel live in their homes."
+  },
+  {
+   "verse": 56,
+   "start": 334.13,
+   "end": 338.92,
+   "text": "But they tested and rebelled against God Most High. They did not keep his laws."
+  },
+  {
+   "verse": 57,
+   "start": 339.62,
+   "end": 345.85,
+   "text": "They turned away and were unfaithful like their ancestors. They were as unreliable as a crooked bow."
+  },
+  {
+   "verse": 58,
+   "start": 346.55,
+   "end": 352.68,
+   "text": "They made him angry with their places of worship on the hills. They made him jealous with their idols."
+  },
+  {
+   "verse": 59,
+   "start": 353.38,
+   "end": 358.07,
+   "text": "When God heard them, he was very angry. He completely rejected Israel."
+  },
+  {
+   "verse": 60,
+   "start": 358.77,
+   "end": 362.9,
+   "text": "He left his tent at Shiloh, the tent where he had lived among people."
+  },
+  {
+   "verse": 61,
+   "start": 363.6,
+   "end": 368.29,
+   "text": "He let the ark of his strength be captured. He handed over his glory to the enemy."
+  },
+  {
+   "verse": 62,
+   "start": 368.99,
+   "end": 375.32,
+   "text": "He let his people be killed by the sword. He was very angry with the people who belonged to him."
+  },
+  {
+   "verse": 63,
+   "start": 376.02,
+   "end": 380.28,
+   "text": "Fire destroyed their young men, and their young women had no wedding songs."
+  },
+  {
+   "verse": 64,
+   "start": 380.98,
+   "end": 385.48,
+   "text": "Their priests were killed by the sword, and their widows could not even cry for them."
+  },
+  {
+   "verse": 65,
+   "start": 386.18,
+   "end": 390.86,
+   "text": "Then the Lord woke up as if from sleep, like a warrior shouting after drinking wine."
+  },
+  {
+   "verse": 66,
+   "start": 391.56,
+   "end": 394.7,
+   "text": "He beat back his enemies and put them to shame forever."
+  },
+  {
+   "verse": 67,
+   "start": 395.4,
+   "end": 400.2,
+   "text": "Then he rejected the family of Joseph. He did not choose the tribe of Ephraim."
+  },
+  {
+   "verse": 68,
+   "start": 400.9,
+   "end": 405.78,
+   "text": "Instead, he chose the tribe of Judah and Mount Zion, which he loved."
+  },
+  {
+   "verse": 69,
+   "start": 406.48,
+   "end": 412.39,
+   "text": "He built his holy place like the high heavens, like the earth that he set firmly in place forever."
+  },
+  {
+   "verse": 70,
+   "start": 413.09,
+   "end": 416.9,
+   "text": "He chose his servant David and took him from the sheep pens."
+  },
+  {
+   "verse": 71,
+   "start": 417.6,
+   "end": 424.98,
+   "text": "He brought him from caring for the sheep and their lambs to be the shepherd of his people Jacob, of Israel, who belonged to him."
+  },
+  {
+   "verse": 72,
+   "start": 425.68,
+   "end": 430.2,
+   "text": "David cared for them with an honest heart and led them with skilful hands."
+  }
+ ]
+}

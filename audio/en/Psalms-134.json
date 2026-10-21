@@ -1,0 +1,29 @@
+{
+ "book": "Psalms",
+ "chapter": 134,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-134.mp3",
+ "duration": 16.97,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.87,
+   "text": "A song for going up to worship. Come, praise the LORD, all you servants of the LORD who serve at night in the house of the LORD!"
+  },
+  {
+   "verse": 2,
+   "start": 8.57,
+   "end": 11.72,
+   "text": "Lift up your hands in the holy place and praise the LORD!"
+  },
+  {
+   "verse": 3,
+   "start": 12.42,
+   "end": 15.91,
+   "text": "May the LORD, who made heaven and earth, bless you from Zion."
+  }
+ ]
+}

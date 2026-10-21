@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 138,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-138.mp3",
+ "duration": 56.83,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.33,
+   "text": "Of David. I will thank you with all my heart. I will sing praises to you in front of the gods."
+  },
+  {
+   "verse": 2,
+   "start": 7.03,
+   "end": 15.84,
+   "text": "I will bow down toward your holy temple and praise your name for your faithful love and your truth. You have made your name and your word greater than everything."
+  },
+  {
+   "verse": 3,
+   "start": 16.54,
+   "end": 20.46,
+   "text": "When I called, you answered me. You made me brave and strong."
+  },
+  {
+   "verse": 4,
+   "start": 21.16,
+   "end": 25.42,
+   "text": "All the kings of the earth will thank you, LORD, when they hear what you have said."
+  },
+  {
+   "verse": 5,
+   "start": 26.12,
+   "end": 30.31,
+   "text": "They will sing about the ways of the LORD, because the glory of the LORD is great."
+  },
+  {
+   "verse": 6,
+   "start": 31.01,
+   "end": 38.09,
+   "text": "Though the LORD is high above, he cares for humble people. But he knows proud people from far away."
+  },
+  {
+   "verse": 7,
+   "start": 38.79,
+   "end": 46.65,
+   "text": "Even when I walk through trouble, you keep me alive. You stretch out your hand against the anger of my enemies. Your right hand saves me."
+  },
+  {
+   "verse": 8,
+   "start": 47.35,
+   "end": 55.77,
+   "text": "The LORD will do everything he has planned for me. LORD, your faithful love lasts forever. Do not abandon what your own hands have made."
+  }
+ ]
+}

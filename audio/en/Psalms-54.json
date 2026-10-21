@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 54,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-54.mp3",
+ "duration": 51.65,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.78,
+   "text": "For the music director. To be played on stringed instruments. A thoughtful psalm of David, written when the people of Ziph went and said to Saul, \"David is hiding among us.\" God, save me by the power of your name. Defend my cause by your strength."
+  },
+  {
+   "verse": 2,
+   "start": 17.48,
+   "end": 20.27,
+   "text": "God, hear my prayer. Listen to what I am saying."
+  },
+  {
+   "verse": 3,
+   "start": 20.97,
+   "end": 27.88,
+   "text": "Strangers are attacking me. Violent people are trying to kill me. They do not care about God. Selah."
+  },
+  {
+   "verse": 4,
+   "start": 28.58,
+   "end": 32.68,
+   "text": "But God is my helper. The Lord is the one who keeps me alive."
+  },
+  {
+   "verse": 5,
+   "start": 33.38,
+   "end": 39.14,
+   "text": "May my enemies be paid back for their evil. Destroy them, because you are faithful."
+  },
+  {
+   "verse": 6,
+   "start": 39.84,
+   "end": 44.98,
+   "text": "I will gladly bring you an offering. I will praise your name, LORD, because it is good."
+  },
+  {
+   "verse": 7,
+   "start": 45.68,
+   "end": 50.6,
+   "text": "You have rescued me from all my troubles. I have seen my enemies defeated."
+  }
+ ]
+}

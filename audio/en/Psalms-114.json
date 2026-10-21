@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 114,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-114.mp3",
+ "duration": 43.03,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.29,
+   "text": "When Israel came out of Egypt, when the family of Jacob left a people who spoke a foreign language,"
+  },
+  {
+   "verse": 2,
+   "start": 6.99,
+   "end": 11.21,
+   "text": "Judah became God's holy place, and Israel became his kingdom."
+  },
+  {
+   "verse": 3,
+   "start": 11.91,
+   "end": 15.75,
+   "text": "The sea saw it and ran away. The Jordan River turned back."
+  },
+  {
+   "verse": 4,
+   "start": 16.45,
+   "end": 20.06,
+   "text": "The mountains jumped like rams, and the hills like lambs."
+  },
+  {
+   "verse": 5,
+   "start": 20.76,
+   "end": 25.08,
+   "text": "Sea, why did you run away? Jordan, why did you turn back?"
+  },
+  {
+   "verse": 6,
+   "start": 25.78,
+   "end": 30.95,
+   "text": "Mountains, why did you jump like rams? Hills, why did you jump like lambs?"
+  },
+  {
+   "verse": 7,
+   "start": 31.65,
+   "end": 35.88,
+   "text": "Tremble, earth, in front of the Lord, in front of the God of Jacob."
+  },
+  {
+   "verse": 8,
+   "start": 36.58,
+   "end": 41.97,
+   "text": "He turned the rock into a pool of water, the hard rock into a spring of water."
+  }
+ ]
+}

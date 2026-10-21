@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 82,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-82.mp3",
+ "duration": 49.61,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.82,
+   "text": "A psalm of Asaph. God takes his place in the great meeting. He gives judgment among the \"gods\":"
+  },
+  {
+   "verse": 2,
+   "start": 7.52,
+   "end": 11.41,
+   "text": "\"How long will you judge unfairly and take the side of the wicked? Selah."
+  },
+  {
+   "verse": 3,
+   "start": 12.11,
+   "end": 18.42,
+   "text": "Defend the weak, the poor, and those with no father. Protect the rights of the poor and the crushed."
+  },
+  {
+   "verse": 4,
+   "start": 19.12,
+   "end": 23.45,
+   "text": "Rescue the weak and needy. Save them from the power of the wicked.\""
+  },
+  {
+   "verse": 5,
+   "start": 24.15,
+   "end": 32.03,
+   "text": "They know nothing. They understand nothing. They walk around in the dark, while all the foundations of the earth are shaking."
+  },
+  {
+   "verse": 6,
+   "start": 32.73,
+   "end": 37.09,
+   "text": "I said, \"You are gods. All of you are sons of the Most High."
+  },
+  {
+   "verse": 7,
+   "start": 37.79,
+   "end": 42.87,
+   "text": "But you will die like ordinary people. You will fall like any other ruler.\""
+  },
+  {
+   "verse": 8,
+   "start": 43.57,
+   "end": 48.56,
+   "text": "Get up, God, and judge the earth, because all the nations belong to you."
+  }
+ ]
+}

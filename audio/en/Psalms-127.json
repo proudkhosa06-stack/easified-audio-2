@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 127,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-127.mp3",
+ "duration": 37.97,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.14,
+   "text": "A song for going up to worship. Of Solomon. Unless the LORD builds the house, the builders work for nothing. Unless the LORD watches over the city, the guards stay awake for nothing."
+  },
+  {
+   "verse": 2,
+   "start": 12.84,
+   "end": 20.61,
+   "text": "It is useless to get up early and stay up late, working hard for your food, because the LORD gives sleep to those he loves."
+  },
+  {
+   "verse": 3,
+   "start": 21.31,
+   "end": 24.83,
+   "text": "Children are a gift from the LORD. They are a reward from him."
+  },
+  {
+   "verse": 4,
+   "start": 25.53,
+   "end": 29.63,
+   "text": "Children born to a young man are like arrows in the hands of a warrior."
+  },
+  {
+   "verse": 5,
+   "start": 30.33,
+   "end": 36.9,
+   "text": "Happy is the man who has a quiver full of them. They will not be put to shame when they face their enemies at the city gate."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 150,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-150.mp3",
+ "duration": 33.05,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.91,
+   "text": "Praise the LORD! Praise God in his holy place! Praise him in his mighty heavens!"
+  },
+  {
+   "verse": 2,
+   "start": 7.61,
+   "end": 11.58,
+   "text": "Praise him for his mighty acts! Praise him for his amazing greatness!"
+  },
+  {
+   "verse": 3,
+   "start": 12.28,
+   "end": 16.99,
+   "text": "Praise him with the sound of the trumpet! Praise him with harp and lyre!"
+  },
+  {
+   "verse": 4,
+   "start": 17.69,
+   "end": 22.72,
+   "text": "Praise him with tambourine and dancing! Praise him with stringed instruments and flute!"
+  },
+  {
+   "verse": 5,
+   "start": 23.42,
+   "end": 27.76,
+   "text": "Praise him with loud cymbals! Praise him with crashing cymbals!"
+  },
+  {
+   "verse": 6,
+   "start": 28.46,
+   "end": 31.98,
+   "text": "Let everything that has breath praise the LORD! Praise the LORD!"
+  }
+ ]
+}

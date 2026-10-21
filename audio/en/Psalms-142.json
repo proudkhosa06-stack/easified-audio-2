@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 142,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-142.mp3",
+ "duration": 58.34,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.89,
+   "text": "A thoughtful psalm of David, written when he was in the cave. A prayer. I cry out loud to the LORD. I beg the LORD for mercy."
+  },
+  {
+   "verse": 2,
+   "start": 11.59,
+   "end": 14.98,
+   "text": "I pour out my complaint to him. I tell him all my troubles."
+  },
+  {
+   "verse": 3,
+   "start": 15.68,
+   "end": 23.94,
+   "text": "When my spirit grows weak inside me, you know the way I should go. On the path where I walk, people have hidden a trap for me."
+  },
+  {
+   "verse": 4,
+   "start": 24.64,
+   "end": 32.81,
+   "text": "Look to my right and see. No one cares about me. There is no place for me to hide. No one cares what happens to me."
+  },
+  {
+   "verse": 5,
+   "start": 33.51,
+   "end": 39.84,
+   "text": "I cry to you, LORD. I say, \"You are my safe place. You are all I have in the land of the living.\""
+  },
+  {
+   "verse": 6,
+   "start": 40.54,
+   "end": 48.28,
+   "text": "Listen to my cry, because I am in desperate need. Rescue me from those who chase me, because they are too strong for me."
+  },
+  {
+   "verse": 7,
+   "start": 48.98,
+   "end": 57.28,
+   "text": "Set me free from my prison, so that I can praise your name. Then good people will gather around me, because you have been good to me."
+  }
+ ]
+}

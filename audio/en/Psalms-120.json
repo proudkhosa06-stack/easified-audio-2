@@ -1,0 +1,53 @@
+{
+ "book": "Psalms",
+ "chapter": 120,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-120.mp3",
+ "duration": 37.18,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.69,
+   "text": "A song for going up to worship. When I was in trouble, I cried to the LORD, and he answered me."
+  },
+  {
+   "verse": 2,
+   "start": 7.39,
+   "end": 10.85,
+   "text": "LORD, save me from lying lips and from tongues that deceive."
+  },
+  {
+   "verse": 3,
+   "start": 11.55,
+   "end": 16.31,
+   "text": "What will God do to you, you lying tongue? What more will he do to you?"
+  },
+  {
+   "verse": 4,
+   "start": 17.01,
+   "end": 21.91,
+   "text": "He will punish you with a warrior's sharp arrows and with burning coals of the broom tree."
+  },
+  {
+   "verse": 5,
+   "start": 22.61,
+   "end": 28.34,
+   "text": "How terrible for me that I live as a stranger in Meshech, that I live among the tents of Kedar!"
+  },
+  {
+   "verse": 6,
+   "start": 29.04,
+   "end": 32.13,
+   "text": "I have lived too long among people who hate peace."
+  },
+  {
+   "verse": 7,
+   "start": 32.83,
+   "end": 36.11,
+   "text": "I want peace, but when I speak, they want war."
+  }
+ ]
+}

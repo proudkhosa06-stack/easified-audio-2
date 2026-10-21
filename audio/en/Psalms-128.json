@@ -1,0 +1,47 @@
+{
+ "book": "Psalms",
+ "chapter": 128,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-128.mp3",
+ "duration": 37.56,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.59,
+   "text": "A song for going up to worship. Happy is everyone who respects the LORD, who follows his ways."
+  },
+  {
+   "verse": 2,
+   "start": 7.29,
+   "end": 13.12,
+   "text": "You will eat what your hands have worked for. You will be happy, and things will go well for you."
+  },
+  {
+   "verse": 3,
+   "start": 13.82,
+   "end": 20.86,
+   "text": "Your wife will be like a fruitful grapevine inside your house. Your children will be like young olive trees around your table."
+  },
+  {
+   "verse": 4,
+   "start": 21.56,
+   "end": 24.62,
+   "text": "This is how the man who respects the LORD will be blessed."
+  },
+  {
+   "verse": 5,
+   "start": 25.32,
+   "end": 31.63,
+   "text": "May the LORD bless you from Zion. May you see Jerusalem do well all the days of your life."
+  },
+  {
+   "verse": 6,
+   "start": 32.33,
+   "end": 36.49,
+   "text": "May you live to see your grandchildren. May there be peace in Israel."
+  }
+ ]
+}

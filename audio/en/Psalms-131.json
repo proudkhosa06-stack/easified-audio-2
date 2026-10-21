@@ -1,0 +1,29 @@
+{
+ "book": "Psalms",
+ "chapter": 131,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-131.mp3",
+ "duration": 28.87,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.5,
+   "text": "A song for going up to worship. Of David. LORD, my heart is not proud, and my eyes do not look down on others. I do not concern myself with great matters or things too wonderful for me."
+  },
+  {
+   "verse": 2,
+   "start": 13.2,
+   "end": 23.88,
+   "text": "Instead, I have calmed and quieted myself, like a young child who is content with his mother. Like a contented child, I am at peace inside."
+  },
+  {
+   "verse": 3,
+   "start": 24.58,
+   "end": 27.82,
+   "text": "Israel, put your hope in the LORD, now and forever."
+  }
+ ]
+}

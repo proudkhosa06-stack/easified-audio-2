@@ -1,0 +1,59 @@
+{
+ "book": "Psalms",
+ "chapter": 4,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-4.mp3",
+ "duration": 60.77,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.56,
+   "text": "For the music director. To be played on stringed instruments. A psalm of David. Answer me when I call, my God who makes me right. Give me relief from my troubles. Be kind to me and hear my prayer."
+  },
+  {
+   "verse": 2,
+   "start": 15.26,
+   "end": 24.41,
+   "text": "You people, how long will you turn my honour into shame? How long will you love what is worthless and chase after lies? Selah."
+  },
+  {
+   "verse": 3,
+   "start": 25.11,
+   "end": 31.7,
+   "text": "But know this: the LORD has chosen faithful people for himself. The LORD will hear me when I call to him."
+  },
+  {
+   "verse": 4,
+   "start": 32.4,
+   "end": 37.74,
+   "text": "Tremble and do not sin. When you are on your bed, think deeply and be quiet. Selah."
+  },
+  {
+   "verse": 5,
+   "start": 38.44,
+   "end": 41.38,
+   "text": "Offer the right sacrifices, and trust in the LORD."
+  },
+  {
+   "verse": 6,
+   "start": 42.08,
+   "end": 48.48,
+   "text": "Many people say, \"Who will show us anything good?\" LORD, let the light of your face shine on us."
+  },
+  {
+   "verse": 7,
+   "start": 49.18,
+   "end": 54.13,
+   "text": "You have filled my heart with more joy than people have when they have plenty of grain and new wine."
+  },
+  {
+   "verse": 8,
+   "start": 54.83,
+   "end": 59.71,
+   "text": "I will lie down and sleep in peace, because you alone, LORD, keep me safe."
+  }
+ ]
+}

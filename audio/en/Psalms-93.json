@@ -1,0 +1,41 @@
+{
+ "book": "Psalms",
+ "chapter": 93,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Psalms-93.mp3",
+ "duration": 33.24,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 9.67,
+   "text": "The LORD rules! He is dressed in majesty. The LORD is dressed in strength. The world is firmly in place. It cannot be moved."
+  },
+  {
+   "verse": 2,
+   "start": 10.37,
+   "end": 14.06,
+   "text": "Your throne was set up long ago. You have always existed."
+  },
+  {
+   "verse": 3,
+   "start": 14.76,
+   "end": 20.52,
+   "text": "The seas have risen up, LORD. The seas have raised their voice. The seas lift up their pounding waves."
+  },
+  {
+   "verse": 4,
+   "start": 21.22,
+   "end": 27.36,
+   "text": "The LORD on high is mightier than the roar of many waters, mightier than the crashing waves of the sea."
+  },
+  {
+   "verse": 5,
+   "start": 28.06,
+   "end": 32.18,
+   "text": "Your laws stand firm. Holiness fills your house, LORD, forever."
+  }
+ ]
+}
