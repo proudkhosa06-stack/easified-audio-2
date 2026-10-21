@@ -1,0 +1,47 @@
+{
+ "book": "Job",
+ "chapter": 25,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Job-25.mp3",
+ "duration": 31.08,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.39,
+   "text": "Then Bildad from Shuah answered:"
+  },
+  {
+   "verse": 2,
+   "start": 3.09,
+   "end": 7.88,
+   "text": "\"God rules, and everyone should fear him. He makes peace in the high heavens."
+  },
+  {
+   "verse": 3,
+   "start": 8.58,
+   "end": 13.07,
+   "text": "Can anyone count his armies? Is there anyone his light does not shine on?"
+  },
+  {
+   "verse": 4,
+   "start": 13.77,
+   "end": 19.0,
+   "text": "So how can a human be right before God? How can anyone born of a woman be pure?"
+  },
+  {
+   "verse": 5,
+   "start": 19.7,
+   "end": 23.64,
+   "text": "If even the moon is not bright and the stars are not pure in his sight,"
+  },
+  {
+   "verse": 6,
+   "start": 24.34,
+   "end": 30.01,
+   "text": "how much less a human, who is only a maggot, a human being, who is only a worm!\""
+  }
+ ]
+}
