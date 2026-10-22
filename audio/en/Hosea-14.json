@@ -1,0 +1,65 @@
+{
+ "book": "Hosea",
+ "chapter": 14,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-14.mp3",
+ "duration": 86.59,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.9,
+   "text": "Israel, return to the LORD your God. Your sins have made you fall."
+  },
+  {
+   "verse": 2,
+   "start": 5.6,
+   "end": 15.93,
+   "text": "Take words with you and return to the LORD. Say to him, \"Forgive all our sins and accept us graciously, so that we may offer you the bulls we promised with our lips."
+  },
+  {
+   "verse": 3,
+   "start": 16.63,
+   "end": 27.28,
+   "text": "Assyria cannot save us. We will not ride war horses. We will never again say 'our gods' to what our own hands have made. In you the orphan finds mercy.\""
+  },
+  {
+   "verse": 4,
+   "start": 27.98,
+   "end": 34.81,
+   "text": "\"I will heal them of their unfaithfulness. I will love them freely, because my anger has turned away from them."
+  },
+  {
+   "verse": 5,
+   "start": 35.51,
+   "end": 43.92,
+   "text": "I will be like the dew to Israel. He will bloom like a lily. Like a cedar of Lebanon, he will send down his roots."
+  },
+  {
+   "verse": 6,
+   "start": 44.62,
+   "end": 51.74,
+   "text": "His young branches will spread out. His beauty will be like an olive tree, and his fragrance like the cedars of Lebanon."
+  },
+  {
+   "verse": 7,
+   "start": 52.44,
+   "end": 61.1,
+   "text": "People will live again in his shade. They will grow like grain and bloom like a vine. They will be as famous as the wine of Lebanon."
+  },
+  {
+   "verse": 8,
+   "start": 61.8,
+   "end": 72.96,
+   "text": "Ephraim, what more do I have to do with idols? I am the one who answers you and watches over you. I am like a green pine tree. Your fruit comes from me.\""
+  },
+  {
+   "verse": 9,
+   "start": 73.66,
+   "end": 85.54,
+   "text": "Who is wise? Let them understand these things. Who has good sense? Let them know them. The ways of the LORD are right. Those who do right walk in them, but rebels stumble in them."
+  }
+ ]
+}

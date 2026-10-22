@@ -1,0 +1,41 @@
+{
+ "book": "Hosea",
+ "chapter": 3,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Hosea-3.mp3",
+ "duration": 54.94,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 17.02,
+   "text": "The LORD said to me, \"Go again and show your love to your wife, even though she is loved by another man and is an adulteress. Love her just as the LORD loves the people of Israel, even though they turn to other gods and love to offer raisin cakes to idols.\""
+  },
+  {
+   "verse": 2,
+   "start": 17.72,
+   "end": 22.97,
+   "text": "So I bought her back for fifteen pieces of silver and about a homer and a half of barley."
+  },
+  {
+   "verse": 3,
+   "start": 23.67,
+   "end": 32.4,
+   "text": "Then I said to her, \"You must live with me for many days. You must not be unfaithful or sleep with any other man, and I will be faithful to you.\""
+  },
+  {
+   "verse": 4,
+   "start": 33.1,
+   "end": 43.19,
+   "text": "In the same way, the people of Israel will live for many days without a king or a prince, without sacrifices or sacred stones, and without an ephod or household idols."
+  },
+  {
+   "verse": 5,
+   "start": 43.89,
+   "end": 53.87,
+   "text": "Afterward the people of Israel will return and look for the LORD their God and for David their king. In the last days they will come trembling to the LORD and to his goodness."
+  }
+ ]
+}
