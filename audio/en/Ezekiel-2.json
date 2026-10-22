@@ -1,0 +1,71 @@
+{
+ "book": "Ezekiel",
+ "chapter": 2,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Ezekiel-2.mp3",
+ "duration": 90.86,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.84,
+   "text": "He said to me, \"Son of man, stand up on your feet, and I will speak to you.\""
+  },
+  {
+   "verse": 2,
+   "start": 5.54,
+   "end": 11.43,
+   "text": "As he spoke to me, the Spirit came into me and stood me on my feet, and I heard him speaking to me."
+  },
+  {
+   "verse": 3,
+   "start": 12.13,
+   "end": 24.29,
+   "text": "He said, \"Son of man, I am sending you to the people of Israel, a nation of rebels who have rebelled against me. They and their ancestors have been sinning against me to this very day."
+  },
+  {
+   "verse": 4,
+   "start": 24.99,
+   "end": 33.15,
+   "text": "The people are stubborn and hard-hearted. I am sending you to them, and you must tell them, 'This is what the Lord GOD says.'"
+  },
+  {
+   "verse": 5,
+   "start": 33.85,
+   "end": 41.34,
+   "text": "Whether they listen or refuse to listen, for they are a rebellious people, they will know that a prophet has been among them."
+  },
+  {
+   "verse": 6,
+   "start": 42.04,
+   "end": 57.78,
+   "text": "And you, son of man, do not be afraid of them or their words, even though thorns and briers surround you and you live among scorpions. Do not be afraid of what they say or frightened by their looks, even though they are a rebellious people."
+  },
+  {
+   "verse": 7,
+   "start": 58.48,
+   "end": 64.58,
+   "text": "You must speak my words to them, whether they listen or refuse to listen, because they are very rebellious."
+  },
+  {
+   "verse": 8,
+   "start": 65.28,
+   "end": 73.74,
+   "text": "But you, son of man, listen to what I tell you. Do not be rebellious like these rebellious people. Open your mouth and eat what I give you.\""
+  },
+  {
+   "verse": 9,
+   "start": 74.44,
+   "end": 79.02,
+   "text": "Then I looked, and I saw a hand stretched out to me. In it was a scroll."
+  },
+  {
+   "verse": 10,
+   "start": 79.72,
+   "end": 89.8,
+   "text": "He unrolled it in front of me. It had writing on both sides, the front and the back. On it were written words of mourning, grief, and sorrow."
+  }
+ ]
+}

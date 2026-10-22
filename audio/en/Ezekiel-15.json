@@ -1,0 +1,59 @@
+{
+ "book": "Ezekiel",
+ "chapter": 15,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Ezekiel-15.mp3",
+ "duration": 64.32,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.05,
+   "text": "The LORD's message came to me:"
+  },
+  {
+   "verse": 2,
+   "start": 2.75,
+   "end": 9.08,
+   "text": "\"Son of man, how is the wood of a vine better than the wood of any branch on the trees of the forest?"
+  },
+  {
+   "verse": 3,
+   "start": 9.78,
+   "end": 15.74,
+   "text": "Can its wood be used to make anything useful? Can people make even a peg from it to hang things on?"
+  },
+  {
+   "verse": 4,
+   "start": 16.44,
+   "end": 25.28,
+   "text": "No, it is thrown into the fire as fuel. When the fire has burned both ends and the middle is charred, is it good for anything?"
+  },
+  {
+   "verse": 5,
+   "start": 25.98,
+   "end": 35.01,
+   "text": "Even when it was whole, it could not be made into anything useful. How much less can it be made into something useful when the fire has burned it and it is charred!\""
+  },
+  {
+   "verse": 6,
+   "start": 35.71,
+   "end": 46.18,
+   "text": "So this is what the Lord GOD says: \"As I have given the wood of the vine among the trees of the forest to the fire as fuel, so I will treat the people living in Jerusalem."
+  },
+  {
+   "verse": 7,
+   "start": 46.88,
+   "end": 57.31,
+   "text": "I will turn my face against them. Even if they escape from one fire, another fire will burn them up. And when I turn my face against them, you will know that I am the LORD."
+  },
+  {
+   "verse": 8,
+   "start": 58.01,
+   "end": 63.27,
+   "text": "I will make the land a wasteland, because they have been unfaithful,\" says the Lord GOD."
+  }
+ ]
+}
