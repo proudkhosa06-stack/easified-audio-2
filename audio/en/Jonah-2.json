@@ -1,0 +1,71 @@
+{
+ "book": "Jonah",
+ "chapter": 2,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Jonah-2.mp3",
+ "duration": 74.64,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 4.07,
+   "text": "From inside the fish, Jonah prayed to the LORD his God."
+  },
+  {
+   "verse": 2,
+   "start": 4.77,
+   "end": 13.1,
+   "text": "He said: \"In my trouble I called to the LORD, and he answered me. From deep in the grave I called for help, and you listened to my cry."
+  },
+  {
+   "verse": 3,
+   "start": 13.8,
+   "end": 23.24,
+   "text": "You threw me into the deep waters, into the heart of the seas. The currents swirled around me. All your waves and breakers swept over me."
+  },
+  {
+   "verse": 4,
+   "start": 23.94,
+   "end": 29.93,
+   "text": "I said, 'I have been sent away from your sight. Yet I will look again toward your holy temple.'"
+  },
+  {
+   "verse": 5,
+   "start": 30.63,
+   "end": 37.5,
+   "text": "The waters closed in over me and threatened my life. The deep surrounded me. Seaweed was wrapped around my head."
+  },
+  {
+   "verse": 6,
+   "start": 38.2,
+   "end": 47.97,
+   "text": "I sank down to the roots of the mountains. The gates of the earth locked me in forever. But you, LORD my God, brought my life up from the pit."
+  },
+  {
+   "verse": 7,
+   "start": 48.67,
+   "end": 55.08,
+   "text": "\"When my life was slipping away, I remembered the LORD. My prayer rose to you, to your holy temple."
+  },
+  {
+   "verse": 8,
+   "start": 55.78,
+   "end": 60.34,
+   "text": "Those who cling to worthless idols turn away from the faithful love that could be theirs."
+  },
+  {
+   "verse": 9,
+   "start": 61.04,
+   "end": 68.78,
+   "text": "But I will offer sacrifices to you with songs of thanks. I will keep the promises I made. Salvation comes from the LORD.\""
+  },
+  {
+   "verse": 10,
+   "start": 69.48,
+   "end": 73.58,
+   "text": "Then the LORD gave the fish an order, and it spit Jonah out onto dry land."
+  }
+ ]
+}

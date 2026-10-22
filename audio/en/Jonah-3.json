@@ -1,0 +1,71 @@
+{
+ "book": "Jonah",
+ "chapter": 3,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Jonah-3.mp3",
+ "duration": 85.92,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.28,
+   "text": "Then the LORD spoke to Jonah a second time:"
+  },
+  {
+   "verse": 2,
+   "start": 3.98,
+   "end": 8.05,
+   "text": "\"Get up and go to the great city of Nineveh, and give it the message I give you.\""
+  },
+  {
+   "verse": 3,
+   "start": 8.75,
+   "end": 17.03,
+   "text": "This time Jonah obeyed the LORD and went to Nineveh. Nineveh was a very large city. It took three days to walk through it."
+  },
+  {
+   "verse": 4,
+   "start": 17.73,
+   "end": 24.97,
+   "text": "On the first day, Jonah began walking through the city and announcing, \"Forty more days, and Nineveh will be destroyed!\""
+  },
+  {
+   "verse": 5,
+   "start": 25.67,
+   "end": 35.1,
+   "text": "The people of Nineveh believed God. They announced a fast, and all of them, from the most important to the least important, put on rough cloth."
+  },
+  {
+   "verse": 6,
+   "start": 35.8,
+   "end": 44.77,
+   "text": "When the news reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with rough cloth, and sat down in the ashes."
+  },
+  {
+   "verse": 7,
+   "start": 45.47,
+   "end": 57.48,
+   "text": "Then he sent out this order through Nineveh: \"By the order of the king and his nobles: No person or animal, no herd or flock, may taste anything. They must not eat or drink water."
+  },
+  {
+   "verse": 8,
+   "start": 58.18,
+   "end": 67.95,
+   "text": "People and animals must be covered with rough cloth. Everyone must pray hard to God. Let everyone turn from their evil ways and from the violence they do."
+  },
+  {
+   "verse": 9,
+   "start": 68.65,
+   "end": 75.62,
+   "text": "Who knows? God may change his mind and turn away from his fierce anger, so that we will not die.\""
+  },
+  {
+   "verse": 10,
+   "start": 76.32,
+   "end": 84.87,
+   "text": "When God saw what they did and how they turned from their evil ways, he changed his mind. He did not bring on them the disaster he had threatened."
+  }
+ ]
+}
