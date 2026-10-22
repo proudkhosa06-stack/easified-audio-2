@@ -1,0 +1,47 @@
+{
+ "book": "Isaiah",
+ "chapter": 12,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Isaiah-12.mp3",
+ "duration": 47.52,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.29,
+   "text": "On that day you will say: \"I will thank you, LORD. Even though you were angry with me, your anger has turned away, and you comfort me."
+  },
+  {
+   "verse": 2,
+   "start": 8.99,
+   "end": 19.83,
+   "text": "Look, God is my salvation. I will trust him and not be afraid. For the LORD, yes the LORD, is my strength and my song. He has become my salvation.\""
+  },
+  {
+   "verse": 3,
+   "start": 20.53,
+   "end": 23.76,
+   "text": "With joy you will draw water from the wells of salvation."
+  },
+  {
+   "verse": 4,
+   "start": 24.46,
+   "end": 32.84,
+   "text": "On that day you will say: \"Thank the LORD! Call on his name! Tell the nations what he has done! Announce that his name is lifted high!"
+  },
+  {
+   "verse": 5,
+   "start": 33.54,
+   "end": 39.15,
+   "text": "Sing to the LORD, for he has done wonderful things! Let this be known in all the earth!"
+  },
+  {
+   "verse": 6,
+   "start": 39.85,
+   "end": 46.45,
+   "text": "Shout out loud and sing for joy, people of Zion, for the Holy One of Israel among you is great!\""
+  }
+ ]
+}

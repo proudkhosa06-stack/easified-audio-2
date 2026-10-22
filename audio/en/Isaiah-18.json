@@ -1,0 +1,53 @@
+{
+ "book": "Isaiah",
+ "chapter": 18,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Isaiah-18.mp3",
+ "duration": 86.04,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.23,
+   "text": "How terrible for the land of buzzing wings, the land beyond the rivers of Ethiopia,"
+  },
+  {
+   "verse": 2,
+   "start": 5.93,
+   "end": 22.62,
+   "text": "which sends messengers by sea in boats made of papyrus on the waters! Go, you fast messengers, to a nation of tall people with smooth skin, a people feared near and far, a strong nation that conquers others, whose land is divided by rivers."
+  },
+  {
+   "verse": 3,
+   "start": 23.32,
+   "end": 32.34,
+   "text": "All you people of the world, all who live on the earth: when a flag is raised on the mountains, look! When the trumpet sounds, listen!"
+  },
+  {
+   "verse": 4,
+   "start": 33.04,
+   "end": 43.66,
+   "text": "For this is what the LORD said to me: \"I will quietly watch from my home, like shimmering heat in the sunshine, like a cloud of dew in the heat of harvest.\""
+  },
+  {
+   "verse": 5,
+   "start": 44.36,
+   "end": 55.53,
+   "text": "For before the harvest, when the blossom is gone and the flower becomes a ripening grape, he will cut off the shoots with pruning knives. He will cut down and take away the spreading branches."
+  },
+  {
+   "verse": 6,
+   "start": 56.23,
+   "end": 66.22,
+   "text": "They will all be left for the birds of prey on the mountains and for the wild animals. The birds will feed on them all summer, and the wild animals all winter."
+  },
+  {
+   "verse": 7,
+   "start": 66.92,
+   "end": 84.99,
+   "text": "At that time gifts will be brought to the LORD of Armies from a people tall and smooth skinned, a people feared near and far, a strong nation that conquers others, whose land is divided by rivers. The gifts will be brought to Mount Zion, the place of the name of the LORD of Armies."
+  }
+ ]
+}

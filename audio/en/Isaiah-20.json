@@ -1,0 +1,47 @@
+{
+ "book": "Isaiah",
+ "chapter": 20,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Isaiah-20.mp3",
+ "duration": 65.93,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 8.89,
+   "text": "In the year that the army commander came to Ashdod, sent by Sargon king of Assyria, he fought against Ashdod and captured it."
+  },
+  {
+   "verse": 2,
+   "start": 9.59,
+   "end": 22.43,
+   "text": "At that time the LORD spoke through Isaiah son of Amoz. He said, \"Go, take off the sackcloth from your body and the sandals from your feet.\" So Isaiah did this, walking around naked and barefoot."
+  },
+  {
+   "verse": 3,
+   "start": 23.13,
+   "end": 31.98,
+   "text": "Then the LORD said, \"My servant Isaiah has walked around naked and barefoot for three years as a sign and a warning against Egypt and Ethiopia."
+  },
+  {
+   "verse": 4,
+   "start": 32.68,
+   "end": 44.63,
+   "text": "In the same way the king of Assyria will lead away the prisoners from Egypt and the captives from Ethiopia, young and old, naked and barefoot, with their bottoms uncovered, to the shame of Egypt."
+  },
+  {
+   "verse": 5,
+   "start": 45.33,
+   "end": 51.26,
+   "text": "Those who trusted in Ethiopia and boasted about Egypt will be terrified and ashamed."
+  },
+  {
+   "verse": 6,
+   "start": 51.96,
+   "end": 64.88,
+   "text": "On that day the people who live on this coast will say, 'Look what has happened to the ones we trusted, the ones we ran to for help to save us from the king of Assyria! How can we escape now?'\""
+  }
+ ]
+}
