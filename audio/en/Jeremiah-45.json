@@ -1,0 +1,41 @@
+{
+ "book": "Jeremiah",
+ "chapter": 45,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Jeremiah-45.mp3",
+ "duration": 51.41,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 14.47,
+   "text": "In the fourth year of Jehoiakim son of Josiah, king of Judah, Baruch son of Neriah wrote on a scroll the words Jeremiah the prophet dictated. Then Jeremiah gave Baruch this message:"
+  },
+  {
+   "verse": 2,
+   "start": 15.17,
+   "end": 18.47,
+   "text": "\"This is what the LORD, the God of Israel, says to you, Baruch:"
+  },
+  {
+   "verse": 3,
+   "start": 19.17,
+   "end": 27.67,
+   "text": "You said, 'How terrible for me! The LORD has added sorrow to my pain. I am worn out from groaning, and I cannot find rest.'"
+  },
+  {
+   "verse": 4,
+   "start": 28.37,
+   "end": 37.53,
+   "text": "Tell Baruch, 'This is what the LORD says: Look, I am about to tear down what I have built and pull up what I have planted, throughout the whole land."
+  },
+  {
+   "verse": 5,
+   "start": 38.23,
+   "end": 50.35,
+   "text": "Are you looking for great things for yourself? Do not look for them. For I am going to bring disaster on all people, says the LORD. But wherever you go, I will let you escape with your life.'\""
+  }
+ ]
+}

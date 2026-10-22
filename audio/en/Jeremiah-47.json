@@ -1,0 +1,53 @@
+{
+ "book": "Jeremiah",
+ "chapter": 47,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Jeremiah-47.mp3",
+ "duration": 75.79,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 7.28,
+   "text": "This is the LORD's message that came to Jeremiah the prophet about the Philistines, before Pharaoh attacked Gaza."
+  },
+  {
+   "verse": 2,
+   "start": 7.98,
+   "end": 23.79,
+   "text": "This is what the LORD says: \"Look, waters are rising in the north. They will become a flooding river. They will flood the land and everything in it, the towns and the people who live there. People will cry out, and everyone living in the land will wail."
+  },
+  {
+   "verse": 3,
+   "start": 24.49,
+   "end": 36.7,
+   "text": "When they hear the pounding hooves of the warhorses, the rumbling of the chariots, and the noise of their wheels, fathers will not even turn back for their children. Their hands will hang limp,"
+  },
+  {
+   "verse": 4,
+   "start": 37.4,
+   "end": 49.22,
+   "text": "because the day has come to destroy all the Philistines and to cut off every ally left to help Tyre and Sidon. The LORD is going to destroy the Philistines, the survivors from the island of Caphtor."
+  },
+  {
+   "verse": 5,
+   "start": 49.92,
+   "end": 58.82,
+   "text": "Gaza will shave its head in mourning. Ashkelon will be silenced. You survivors of their valley, how long will you cut yourselves in grief?"
+  },
+  {
+   "verse": 6,
+   "start": 59.52,
+   "end": 67.36,
+   "text": "You cry, 'Oh, sword of the LORD, how long until you rest? Go back into your sheath. Rest and be still.'"
+  },
+  {
+   "verse": 7,
+   "start": 68.06,
+   "end": 74.74,
+   "text": "But how can it rest when the LORD has given it orders? He has sent it against Ashkelon and the seacoast.\""
+  }
+ ]
+}
