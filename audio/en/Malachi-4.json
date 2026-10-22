@@ -1,0 +1,47 @@
+{
+ "book": "Malachi",
+ "chapter": 4,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Malachi-4.mp3",
+ "duration": 59.04,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 16.51,
+   "text": "\"Surely the day is coming; it will burn like a furnace. All the arrogant and every evil person will be stubble, and the day that is coming will set them on fire,\" says the LORD of Armies. \"Not a root or a branch will be left to them."
+  },
+  {
+   "verse": 2,
+   "start": 17.21,
+   "end": 27.28,
+   "text": "But for you who respect my name, the sun of righteousness will rise with healing in its rays. And you will go out and leap like calves released from the stall."
+  },
+  {
+   "verse": 3,
+   "start": 27.98,
+   "end": 35.31,
+   "text": "Then you will crush the wicked. They will be ashes under the soles of your feet on the day when I act,\" says the LORD of Armies."
+  },
+  {
+   "verse": 4,
+   "start": 36.01,
+   "end": 41.65,
+   "text": "\"Remember the law of my servant Moses, the rules and laws I gave him at Horeb for all Israel."
+  },
+  {
+   "verse": 5,
+   "start": 42.35,
+   "end": 47.87,
+   "text": "See, I will send the prophet Elijah to you before that great and dreadful day of the LORD comes."
+  },
+  {
+   "verse": 6,
+   "start": 48.57,
+   "end": 57.97,
+   "text": "He will turn the hearts of parents to their children, and the hearts of children to their parents. Otherwise I will come and strike the land with total destruction.\""
+  }
+ ]
+}
