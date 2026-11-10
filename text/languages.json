@@ -2,61 +2,71 @@
  "af": {
   "name": "Afrikaans",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "nr": {
   "name": "isiNdebele",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "xh": {
   "name": "isiXhosa",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "zu": {
   "name": "isiZulu",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "nso": {
   "name": "Sepedi",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "st": {
   "name": "Sesotho",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "tn": {
   "name": "Setswana",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "ss": {
   "name": "siSwati",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "ve": {
   "name": "Tshivenda",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  },
  "ts": {
   "name": "Xitsonga",
   "books": [
-   "Gen"
+   "Gen",
+   "Exod"
   ]
  }
 }
