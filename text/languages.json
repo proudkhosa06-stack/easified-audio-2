@@ -1,0 +1,62 @@
+{
+ "af": {
+  "name": "Afrikaans",
+  "books": [
+   "Gen"
+  ]
+ },
+ "nr": {
+  "name": "isiNdebele",
+  "books": [
+   "Gen"
+  ]
+ },
+ "xh": {
+  "name": "isiXhosa",
+  "books": [
+   "Gen"
+  ]
+ },
+ "zu": {
+  "name": "isiZulu",
+  "books": [
+   "Gen"
+  ]
+ },
+ "nso": {
+  "name": "Sepedi",
+  "books": [
+   "Gen"
+  ]
+ },
+ "st": {
+  "name": "Sesotho",
+  "books": [
+   "Gen"
+  ]
+ },
+ "tn": {
+  "name": "Setswana",
+  "books": [
+   "Gen"
+  ]
+ },
+ "ss": {
+  "name": "siSwati",
+  "books": [
+   "Gen"
+  ]
+ },
+ "ve": {
+  "name": "Tshivenda",
+  "books": [
+   "Gen"
+  ]
+ },
+ "ts": {
+  "name": "Xitsonga",
+  "books": [
+   "Gen"
+  ]
+ }
+}
