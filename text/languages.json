@@ -4,7 +4,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "nr": {
@@ -12,7 +13,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "xh": {
@@ -20,7 +22,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "zu": {
@@ -28,7 +31,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "nso": {
@@ -36,7 +40,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "st": {
@@ -44,7 +49,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "tn": {
@@ -52,7 +58,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "ss": {
@@ -60,7 +67,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "ve": {
@@ -68,7 +76,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  },
  "ts": {
@@ -76,7 +85,8 @@
   "books": [
    "Gen",
    "Exod",
-   "Lev"
+   "Lev",
+   "Num"
   ]
  }
 }
