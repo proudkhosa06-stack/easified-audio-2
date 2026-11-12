@@ -5,7 +5,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "nr": {
@@ -14,7 +15,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "xh": {
@@ -23,7 +25,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "zu": {
@@ -32,7 +35,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "nso": {
@@ -41,7 +45,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "st": {
@@ -50,7 +55,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "tn": {
@@ -59,7 +65,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "ss": {
@@ -68,7 +75,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "ve": {
@@ -77,7 +85,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  },
  "ts": {
@@ -86,7 +95,8 @@
    "Gen",
    "Exod",
    "Lev",
-   "Num"
+   "Num",
+   "Deut"
   ]
  }
 }
